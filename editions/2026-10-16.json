@@ -1,0 +1,131 @@
+{
+ "date": "2026-10-16",
+ "headline": "Neocloud-Ausverkauf: Nebius und CoreWeave verlieren je rund 12 %",
+ "lead": "Ein breiter Tech-Abverkauf drückte die Nasdaq um 2,15 % und beendete ihre schlechteste Woche seit Juni. Besonders hart traf es KI-Infrastruktur-Anbieter: Höhere Zinsen und Sorgen um die Finanzierung des KI-Ausbaus belasten.",
+ "holdings": [
+  {
+   "ticker": "NBIS",
+   "name": "Nebius Group",
+   "close": "165,47 $",
+   "change": "−12,18 %",
+   "dir": "down",
+   "news": "Starker Verkauf im gesamten Neocloud-Sektor; sechs Verlusttage in den letzten acht Sitzungen. Belastend: heißer September-CPI (Zinsangst), Gartner-Warnung zur Überlebensfähigkeit vieler Neoclouds, Ansteckung durch CoreWeaves Anleihe-Stress; Michael Burry hat seine Short-Wette auf Put-Optionen umgestellt.",
+   "outlook": "Sektor-Sentiment statt Firmen-News. Nebius hat laut DA Davidson kaum Schulden – das spricht gegen eine CoreWeave-ähnliche Bilanzsorge, kurzfristig bleibt die Aktie aber an das Momentum der Gruppe gekoppelt.",
+   "sources": [
+    [
+     "Seeking Alpha",
+     "https://seekingalpha.com/news/4653989-nebius-group-retreats-12-amid-heavy-neocloud-selling"
+    ],
+    [
+     "Investing.com",
+     "https://ca.investing.com/news/stock-market-news/why-is-nebius-stock-sliding-today-93CH-4885440"
+    ],
+    [
+     "CNBC",
+     "https://www.cnbc.com/2026/10/15/whats-behind-the-sell-off-in-ai-neocloud-stocks-like-coreweave-and-nebius-.html"
+    ]
+   ]
+  },
+  {
+   "ticker": "CRWV",
+   "name": "CoreWeave",
+   "close": "61,39 $",
+   "change": "−11,91 %",
+   "dir": "down",
+   "news": "Nach der Erholung am Donnerstag (+5,94 %, nach Lob von Nvidia-Chef Jensen Huang) erneut unter Druck wegen Sorgen um die stark fremdfinanzierte Bilanz. Goldman Sachs: Spreads bei KI-bezogenen Hochzinsanleihen haben sich ausgeweitet.",
+   "outlook": "Höchstes Risiko im Depot: Die Aktie reagiert extrem auf Zinsen und Kreditmärkte. Hohe Volatilität in beide Richtungen ist zu erwarten.",
+   "sources": [
+    [
+     "Yahoo Finance (Goldman)",
+     "https://finance.yahoo.com/markets/stocks/article/why-coreweave-nebius-and-other-neocloud-stocks-are-being-pounded-goldman-sachs-explains-125730269.html"
+    ],
+    [
+     "StockAnalysis",
+     "https://stockanalysis.com/stocks/crwv/history/"
+    ],
+    [
+     "Yahoo Finance Live",
+     "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html"
+    ]
+   ]
+  },
+  {
+   "ticker": "LMND",
+   "name": "Lemonade",
+   "close": "44,20 $",
+   "change": "−3,62 %",
+   "dir": "down",
+   "news": "Ausweitung der Autonomous-Car-Versicherung für Tesla-Fahrer in Arizona, Colorado und Tennessee, Start von Mieterversicherung auf Hawaii. Amended 8-K: neuer CFO Nick Stead ab 1.1.2027, Tim Bixby wechselt ohne Abfindung in den Board.",
+   "outlook": "Produktseitig Rückenwind, die Aktie gab aber mit dem Markt nach. Entscheidend bleibt, ob das Management den angepeilten positiven bereinigten EBITDA im Q4 2026 liefert.",
+   "sources": [
+    [
+     "Simply Wall St",
+     "https://simplywall.st/stocks/us/insurance/nyse-lmnd/lemonade/news/is-lemonade-lmnd-cheap-as-tesla-coverage-expansion-and-hawai"
+    ],
+    [
+     "Bullished",
+     "https://www.bullished.co/lemonades-incoming-cfo-gets-412-500-salary-and-80-000-stock-units-outgoing-cfo-bixby-gets-0db3bcef/"
+    ]
+   ]
+  },
+  {
+   "ticker": "UBER",
+   "name": "Uber",
+   "close": "70,35 $",
+   "change": "−1,29 %",
+   "dir": "down",
+   "news": "Robotaxi-Test in Manchester gestartet; CEO Dara Khosrowshahi kaufte zuletzt Aktien für rund 10 Mio. $. Gegenwind: Leiter der Robotaxi-Expansion verlässt das Unternehmen, Lyft startet Business-Marke Alcove.",
+   "outlook": "Defensivster Wert im Depot heute. Insiderkauf ist ein positives Signal; Autonomes Fahren bleibt die zentrale Story.",
+   "sources": [
+    [
+     "MarketBeat",
+     "https://www.marketbeat.com/instant-alerts/price-uber-technologies-nyse-uber-shares-climb-29-time-to-buy-2026-10-15/"
+    ],
+    [
+     "The Guardian",
+     "https://www.theguardian.com/technology/2026/oct/14/uber-self-driving-robotaxi-trial-manchester"
+    ]
+   ]
+  }
+ ],
+ "market": [
+  "S&P 500: 7.659,44 (−1,09 %), Wochenminus rund 2 %. Nasdaq: 26.140,03 (−2,15 %), Woche −4,5 %. Dow: 52.002,41 (−0,34 %).",
+  "Zinsen: Rendite 10-jähriger US-Staatsanleihen 5,09 % (US-Treasury). Heißer September-CPI schürt die Sorge vor länger hohen Leitzinsen.",
+  "KI-Sektor: Software- und Chipwerte schwächer, Rotation aus Tech. Brent-Öl erreichte wegen Eskalation in der Straße von Hormus erstmals seit Mai 110 $.",
+  "Nächste Woche: Quartalszahlen von Tesla, Netflix und Meta."
+ ],
+ "market_sources": [
+  [
+   "AP News",
+   "https://apnews.com/article/stocks-markets-us-ai-oil-tech-warsh-d2655f64db7ec8ae450525d58f97b628"
+  ],
+  [
+   "Yahoo Finance",
+   "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html"
+  ],
+  [
+   "US Treasury",
+   "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
+  ]
+ ],
+ "ideas": [
+  {
+   "ticker": "ROK",
+   "name": "Rockwell Automation",
+   "sector": "Industrieautomatisierung",
+   "why": "Bisher kaum als KI-Gewinner gehandelt. Wenn KI verlässlich Maschinen steuern und Fabriken optimieren kann, braucht es Steuerungstechnik und Software in den Werkshallen – Rockwells Kerngeschäft."
+  },
+  {
+   "ticker": "DE",
+   "name": "Deere & Company",
+   "sector": "Landtechnik / Autonome Maschinen",
+   "why": "Gilt als klassischer Industriewert, nicht als KI-Aktie. Bessere Bilderkennung und Autonomie machen selbstfahrende Traktoren und präzises Spritzen wirtschaftlicher – Deere sitzt auf Maschinenflotte und Felddaten."
+  },
+  {
+   "ticker": "VEEV",
+   "name": "Veeva Systems",
+   "sector": "Software für Pharma & Life Sciences",
+   "why": "Branchensoftware wurde eher als KI-Verlierer gesehen. Veeva hält aber die Daten für klinische Studien und Zulassungen – KI-Agenten, die diese Prozesse beschleunigen, könnten den Wert der Plattform erhöhen."
+  }
+ ]
+}
