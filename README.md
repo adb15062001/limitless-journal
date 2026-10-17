@@ -1,4 +1,4 @@
-# Die KI-Börsenzeitung
+# Limitless Journal
 
 Statische Zeitungs-Webseite für das tägliche Aktien-Briefing. Layout: lange, vertikal gestapelte Seite (Titelseite, ein großer Abschnitt je Depotwert, Gesamtmarkt, Makro, Ideen, Quellenverzeichnis am Ende).
 

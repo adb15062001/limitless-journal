@@ -51,7 +51,7 @@ def page(title, body):
 <p class="disc">Alle Angaben ohne Gewähr. Keine Anlageberatung – automatisch erstellte Einschätzung auf Basis öffentlicher Quellen.</p></div></body></html>"""
 def mast(pre, sub, tickers=""):
     return f"""<header><div class="bar"><span>{e(sub)}</span><span><a href="{pre}index.html">Aktuelle Ausgabe</a> · <a href="{pre}archiv.html">Archiv</a></span></div>
-<div class="mast"><a href="{pre}index.html">Die KI-Börsenzeitung</a></div><div class="bar"><span>Depot · Makro · Ideen</span><span>{e(tickers)}</span></div></header>"""
+<div class="mast"><a href="{pre}index.html">Limitless Journal</a></div><div class="bar"><span>Depot · Makro · Ideen</span><span>{e(tickers)}</span></div></header>"""
 def edition(d, pre):
     H = d["holdings"]; tick = " · ".join(x["ticker"] for x in H)
     h = mast(pre, dlong(d["date"]), tick)
@@ -77,7 +77,7 @@ def edition(d, pre):
     for g, l in groups:
         if l: h += f"<h3>{e(g)}</h3>" + " · ".join(f'<a href="{e(u)}">{e(n)}</a>' for n,u in l)
     h += "</section>"
-    return page(f'Die KI-Börsenzeitung – {dlong(d["date"])}', h)
+    return page(f'Limitless Journal – {dlong(d["date"])}', h)
 eds = sorted((json.load(open(f, encoding="utf-8")) for f in glob.glob(os.path.join(B,"editions","*.json"))), key=lambda x: x["date"], reverse=True)
 os.makedirs(os.path.join(B,"ausgabe"), exist_ok=True)
 for d in eds: open(os.path.join(B,"ausgabe",d["date"]+".html"),"w",encoding="utf-8").write(edition(d,"../"))
@@ -88,5 +88,5 @@ for d in eds:
     if m != cur: a += ("</ul>" if cur else "") + f'<h2>{m}</h2><ul class="arch">'; cur = m
     a += f'<li><a href="ausgabe/{d["date"]}.html">{dlong(d["date"])}</a> – {e(d["headline"])}</li>'
 a += "</ul>" if cur else "<p>Noch keine Ausgaben.</p>"
-open(os.path.join(B,"archiv.html"),"w",encoding="utf-8").write(page("Archiv – Die KI-Börsenzeitung", a))
+open(os.path.join(B,"archiv.html"),"w",encoding="utf-8").write(page("Archiv – Limitless Journal", a))
 print(f"{len(eds)} Ausgabe(n) gebaut.")
