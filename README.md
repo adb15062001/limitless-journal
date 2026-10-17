@@ -18,8 +18,8 @@ Statische Zeitungs-Webseite für das tägliche Aktien-Briefing. Layout: lange, v
 5. Optional: neu zippen / hochladen (`cd /workspace && zip -r aktien-zeitung.zip aktien-zeitung`).
 
 ## Veröffentlichen (GitHub Pages)
-Repo: `https://github.com/adb15062001/aktien-zeitung` (öffentlich), Pages aus Branch `main`, Ordner `/` (root).
-Öffentliche URL: `https://adb15062001.github.io/aktien-zeitung/`
+Repo: `https://github.com/adb15062001/limitless-journal` (öffentlich), Pages aus Branch `main`, Ordner `/` (root).
+Öffentliche URL: `https://adb15062001.github.io/limitless-journal/`
 
 Nach jedem Build:
 ```
