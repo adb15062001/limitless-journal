@@ -1,0 +1,8 @@
+{"watchlist": [
+ {"ticker": "LMND", "name": "Lemonade"},
+ {"ticker": "CRWV", "name": "CoreWeave"},
+ {"ticker": "UBER", "name": "Uber"},
+ {"ticker": "NBIS", "name": "Nebius"},
+ {"ticker": "COCO", "name": "Vita Coco"},
+ {"ticker": "PATH", "name": "UiPath", "added": "2026-10-17", "requested_by": "Gruppe"}
+]}

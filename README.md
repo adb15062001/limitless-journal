@@ -29,3 +29,6 @@ Nach jedem Build:
 git add -A && git commit -m "Ausgabe <Datum>" && git push origin main
 ```
 GitHub Pages veröffentlicht automatisch innerhalb von ca. 1–2 Minuten. (Push läuft über einen Cursor Cloud Agent bzw. eine authentifizierte Git-Verbindung – keine Tokens im Skript.)
+
+## Watchlist
+Die aktuelle Watchlist steht in `watchlist.json`. Jede Ausgabe deckt alle dort gelisteten Aktien ab. Gruppenmitglieder können per „Hey Bobby!“ Aktien hinzufügen oder entfernen lassen.
