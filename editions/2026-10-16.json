@@ -1,131 +1,70 @@
 {
  "date": "2026-10-16",
  "headline": "Neocloud-Ausverkauf: Nebius und CoreWeave verlieren je rund 12 %",
- "lead": "Ein breiter Tech-Abverkauf drückte die Nasdaq um 2,15 % und beendete ihre schlechteste Woche seit Juni. Besonders hart traf es KI-Infrastruktur-Anbieter: Höhere Zinsen und Sorgen um die Finanzierung des KI-Ausbaus belasten.",
+ "lead": "Ein breiter Tech-Abverkauf drückte die Nasdaq um 2,15 % und beendete ihre schlechteste Woche seit Juni. Besonders hart traf es KI-Infrastruktur-Anbieter: Heiße Inflationsdaten, eine Rendite der 10-jährigen US-Anleihe von über 5 % und Zweifel an der Finanzierung des KI-Ausbaus belasten. Gegen den Trend legte Vita Coco zu.",
  "holdings": [
-  {
-   "ticker": "NBIS",
-   "name": "Nebius Group",
-   "close": "165,47 $",
-   "change": "−12,18 %",
-   "dir": "down",
-   "news": "Starker Verkauf im gesamten Neocloud-Sektor; sechs Verlusttage in den letzten acht Sitzungen. Belastend: heißer September-CPI (Zinsangst), Gartner-Warnung zur Überlebensfähigkeit vieler Neoclouds, Ansteckung durch CoreWeaves Anleihe-Stress; Michael Burry hat seine Short-Wette auf Put-Optionen umgestellt.",
-   "outlook": "Sektor-Sentiment statt Firmen-News. Nebius hat laut DA Davidson kaum Schulden – das spricht gegen eine CoreWeave-ähnliche Bilanzsorge, kurzfristig bleibt die Aktie aber an das Momentum der Gruppe gekoppelt.",
-   "sources": [
-    [
-     "Seeking Alpha",
-     "https://seekingalpha.com/news/4653989-nebius-group-retreats-12-amid-heavy-neocloud-selling"
-    ],
-    [
-     "Investing.com",
-     "https://ca.investing.com/news/stock-market-news/why-is-nebius-stock-sliding-today-93CH-4885440"
-    ],
-    [
-     "CNBC",
-     "https://www.cnbc.com/2026/10/15/whats-behind-the-sell-off-in-ai-neocloud-stocks-like-coreweave-and-nebius-.html"
-    ]
-   ]
-  },
-  {
-   "ticker": "CRWV",
-   "name": "CoreWeave",
-   "close": "61,39 $",
-   "change": "−11,91 %",
-   "dir": "down",
-   "news": "Nach der Erholung am Donnerstag (+5,94 %, nach Lob von Nvidia-Chef Jensen Huang) erneut unter Druck wegen Sorgen um die stark fremdfinanzierte Bilanz. Goldman Sachs: Spreads bei KI-bezogenen Hochzinsanleihen haben sich ausgeweitet.",
-   "outlook": "Höchstes Risiko im Depot: Die Aktie reagiert extrem auf Zinsen und Kreditmärkte. Hohe Volatilität in beide Richtungen ist zu erwarten.",
-   "sources": [
-    [
-     "Yahoo Finance (Goldman)",
-     "https://finance.yahoo.com/markets/stocks/article/why-coreweave-nebius-and-other-neocloud-stocks-are-being-pounded-goldman-sachs-explains-125730269.html"
-    ],
-    [
-     "StockAnalysis",
-     "https://stockanalysis.com/stocks/crwv/history/"
-    ],
-    [
-     "Yahoo Finance Live",
-     "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html"
-    ]
-   ]
-  },
-  {
-   "ticker": "LMND",
-   "name": "Lemonade",
-   "close": "44,20 $",
-   "change": "−3,62 %",
-   "dir": "down",
-   "news": "Ausweitung der Autonomous-Car-Versicherung für Tesla-Fahrer in Arizona, Colorado und Tennessee, Start von Mieterversicherung auf Hawaii. Amended 8-K: neuer CFO Nick Stead ab 1.1.2027, Tim Bixby wechselt ohne Abfindung in den Board.",
-   "outlook": "Produktseitig Rückenwind, die Aktie gab aber mit dem Markt nach. Entscheidend bleibt, ob das Management den angepeilten positiven bereinigten EBITDA im Q4 2026 liefert.",
-   "sources": [
-    [
-     "Simply Wall St",
-     "https://simplywall.st/stocks/us/insurance/nyse-lmnd/lemonade/news/is-lemonade-lmnd-cheap-as-tesla-coverage-expansion-and-hawai"
-    ],
-    [
-     "Bullished",
-     "https://www.bullished.co/lemonades-incoming-cfo-gets-412-500-salary-and-80-000-stock-units-outgoing-cfo-bixby-gets-0db3bcef/"
-    ]
-   ]
-  },
-  {
-   "ticker": "UBER",
-   "name": "Uber",
-   "close": "70,35 $",
-   "change": "−1,29 %",
-   "dir": "down",
-   "news": "Robotaxi-Test in Manchester gestartet; CEO Dara Khosrowshahi kaufte zuletzt Aktien für rund 10 Mio. $. Gegenwind: Leiter der Robotaxi-Expansion verlässt das Unternehmen, Lyft startet Business-Marke Alcove.",
-   "outlook": "Defensivster Wert im Depot heute. Insiderkauf ist ein positives Signal; Autonomes Fahren bleibt die zentrale Story.",
-   "sources": [
-    [
-     "MarketBeat",
-     "https://www.marketbeat.com/instant-alerts/price-uber-technologies-nyse-uber-shares-climb-29-time-to-buy-2026-10-15/"
-    ],
-    [
-     "The Guardian",
-     "https://www.theguardian.com/technology/2026/oct/14/uber-self-driving-robotaxi-trial-manchester"
-    ]
-   ]
-  }
+  {"ticker":"NBIS","name":"Nebius Group","close":"165,47 $","change":"−12,18 %","dir":"down",
+   "figures":[["Vortagesschluss","188,41 $"],["Eröffnung","181,17 $"],["Tageshoch / -tief","182,70 $ / 163,27 $"],["Volumen","34,61 Mio."],["52-Wochen-Spanne","73,52 $ – 299,86 $"],["50-Tage-Linie","223,29 $"],["200-Tage-Linie","173,64 $"],["Short Interest","19,54 % des Streubesitzes"]],
+   "news":["Sechs Verlusttage in den letzten acht Sitzungen, darunter −10,08 % am Mittwoch; das Volumen lag laut Seeking Alpha beim etwa 1,7-Fachen des Monatsdurchschnitts.","Heißer September-CPI schürt die Angst vor länger hohen Zinsen – Gift für kapitalintensive KI-Infrastruktur.","Ein Gartner-Bericht warnt, dass viele Neocloud-Anbieter als eigenständige Firmen nicht überleben könnten.","Ansteckung durch CoreWeave, deren Anleiherenditen Mitte der Woche stark stiegen.","Michael Burry hat seine Short-Position auf Nebius durch gehebelte Put-Optionen mit Laufzeit Juni ersetzt."],
+   "outlook":"Der Rückgang ist vor allem Sektor-Sentiment und keine firmenspezifische Hiobsbotschaft. DA-Davidson-Analyst Gil Luria betont, Nebius verkaufe dasselbe wie CoreWeave an dieselben Kunden – aber nahezu ohne finanziellen Hebel. Das spricht gegen eine Bilanzkrise. Kurzfristig bleibt die Aktie jedoch an Zinsen und das Momentum der Neocloud-Gruppe gekoppelt; die Aktie notiert noch über der 200-Tage-Linie, aber deutlich unter der 50-Tage-Linie. Der hohe Short-Anteil kann Erholungen beschleunigen, aber auch weiteren Druck bedeuten.",
+   "sources":[["Seeking Alpha","https://seekingalpha.com/news/4653989-nebius-group-retreats-12-amid-heavy-neocloud-selling"],["Investing.com","https://ca.investing.com/news/stock-market-news/why-is-nebius-stock-sliding-today-93CH-4885440"],["CNBC","https://www.cnbc.com/2026/10/15/whats-behind-the-sell-off-in-ai-neocloud-stocks-like-coreweave-and-nebius-.html"]]},
+  {"ticker":"CRWV","name":"CoreWeave","close":"61,39 $","change":"−11,91 %","dir":"down",
+   "figures":[["Vortagesschluss","69,69 $"],["Eröffnung","65,20 $"],["Tageshoch / -tief","66,69 $ / 59,90 $"],["Volumen","93,80 Mio."],["Do., 15.10.","+5,94 %"],["Mi., 14.10.","−15,46 %"]],
+   "news":["Nach der Erholung am Donnerstag – Nvidia-Chef Jensen Huang hatte sich optimistisch über CoreWeave geäußert – erneut starker Verkaufsdruck wegen der stark fremdfinanzierten Bilanz.","Goldman Sachs: Die Spreads von KI-bezogenen US-Hochzinsanleihen weiteten sich zwischen 13. und 14. Oktober auf ein neues Hoch aus, während Nicht-KI-Anleihen kaum reagierten.","Laut Yahoo Finance haben CoreWeave und Nebius in den letzten fünf Tagen jeweils rund 15 % verloren.","CNBC/FactSet: forward Debt-to-Equity-Verhältnis extrem hoch; viele Investoren sehen CoreWeave als Gradmesser für die Finanzierbarkeit des KI-Ausbaus."],
+   "outlook":"Das risikoreichste Papier im Depot. Der Kurs hängt derzeit stärker an Kreditmärkten und Zinserwartungen als an operativen Nachrichten – Tagesbewegungen von über 10 % in beide Richtungen sind diese Woche Normalität. Entspannung bei Anleihe-Spreads oder ein Zins-Signal der Fed am 28. Oktober wären mögliche Auslöser für eine Erholung; weiter steigende Renditen das Hauptrisiko.",
+   "sources":[["Yahoo Finance (Goldman)","https://finance.yahoo.com/markets/stocks/article/why-coreweave-nebius-and-other-neocloud-stocks-are-being-pounded-goldman-sachs-explains-125730269.html"],["StockAnalysis","https://stockanalysis.com/stocks/crwv/history/"],["CNBC","https://www.cnbc.com/2026/10/15/whats-behind-the-sell-off-in-ai-neocloud-stocks-like-coreweave-and-nebius-.html"]]},
+  {"ticker":"LMND","name":"Lemonade","close":"44,20 $","change":"−3,62 %","dir":"down",
+   "figures":[["Vortagesschluss","45,86 $"],["Eröffnung","45,81 $"],["Tageshoch / -tief","46,27 $ / 43,52 $"],["Volumen","871,6 Tsd."],["30 Tage (bis 15.10.)","−7,80 %"],["90 Tage (bis 15.10.)","−31,74 %"],["Kurs-Umsatz-Verhältnis","3,6 (Branche: 1,1)"]],
+   "news":["Autonomous-Car-Versicherung für Tesla-Fahrer auf Arizona, Colorado und Tennessee ausgeweitet.","Start der Mieterversicherung auf Hawaii.","Amended 8-K: Der neue CFO Nick Stead erhält 412.500 $ Grundgehalt und 80.000 RSUs; Tim Bixby bleibt CFO bis 1.1.2027, wechselt dann in den Board – ohne Abfindung."],
+   "outlook":"Produktseitig gibt es Rückenwind, doch die Aktie folgt derzeit dem schwachen Wachstumsmarkt. Zentral für die nächsten Monate: ob die Schadenquoten stabil bleiben und das Management das Ziel eines positiven bereinigten EBITDA im vierten Quartal 2026 erreicht. Die Bewertung liegt deutlich über dem Branchenschnitt – das lässt wenig Raum für Enttäuschungen.",
+   "sources":[["Simply Wall St","https://simplywall.st/stocks/us/insurance/nyse-lmnd/lemonade/news/is-lemonade-lmnd-cheap-as-tesla-coverage-expansion-and-hawai"],["Bullished","https://www.bullished.co/lemonades-incoming-cfo-gets-412-500-salary-and-80-000-stock-units-outgoing-cfo-bixby-gets-0db3bcef/"],["Exa Markets","https://exa.ai/library/markets/stock/LMND?date=2026-10-16&view=daily"]]},
+  {"ticker":"UBER","name":"Uber","close":"70,35 $","change":"−1,29 %","dir":"down",
+   "figures":[["Vortagesschluss","71,27 $"],["Eröffnung","71,00 $"],["Tageshoch / -tief","71,86 $ / 69,73 $"],["Volumen","13,52 Mio."],["Ø Analysten-Kursziel (MarketBeat)","103,11 $"]],
+   "news":["Robotaxi-Test in Manchester gestartet – ein Baustein der Autonomie-Strategie in Europa.","CEO Dara Khosrowshahi hat zuletzt eigene Aktien für rund 10 Mio. $ gekauft.","Der Leiter der Robotaxi-Expansion verlässt Uber im nächsten Monat (WSJ).","Konkurrent Lyft startet mit Alcove eine Premium-Marke für Geschäftsreisen."],
+   "outlook":"Heute der stabilste Wert im Depot nach Vita Coco. Der Insiderkauf ist ein positives Signal, der Abgang des Robotaxi-Chefs ein Fragezeichen für die Umsetzung. Autonomes Fahren bleibt die zentrale Langfrist-Story; kurzfristig ist Uber weniger zinsempfindlich als die KI-Infrastrukturwerte, leidet aber unter Druck auf Konsum durch hohe Benzinpreise.",
+   "sources":[["MarketBeat","https://www.marketbeat.com/instant-alerts/price-uber-technologies-nyse-uber-shares-climb-29-time-to-buy-2026-10-15/"],["The Guardian","https://www.theguardian.com/technology/2026/oct/14/uber-self-driving-robotaxi-trial-manchester"],["WSJ","https://www.wsj.com/tech/uber-robotaxi-leader-to-depart-next-month-612295c2"]]},
+  {"ticker":"COCO","name":"Vita Coco","close":"58,69 $","change":"+1,77 %","dir":"up",
+   "figures":[["Vortagesschluss","57,67 $"],["Eröffnung","57,90 $"],["Tageshoch / -tief","59,75 $ / 57,54 $"],["Volumen","1,45 Mio."],["52-Wochen-Spanne","39,46 $ – 85,83 $"],["Marktkapitalisierung","3,40 Mrd. $"],["KGV (TTM)","31,9"],["Seit Jahresbeginn","+10,71 %"],["Quartalszahlen","22. Oktober 2026"]],
+   "news":["Stieg gegen den fallenden Markt – Konsumwerte profitierten von der Rotation aus Tech.","BofA senkt das Kursziel auf 72 $; Wells Fargo hatte am 5. Oktober das Ziel von 85 $ auf 65 $ gesenkt, bei unverändertem Overweight.","Zacks-Konsens für Q3: Gewinn je Aktie 0,51 $ (+27,5 % ggü. Vorjahr), Umsatz 232,06 Mio. $ (+27,3 %)."],
+   "outlook":"Der defensive Gegenpol im Depot: wenig KI- und Zinsabhängigkeit, niedriges Beta. Der nächste große Termin sind die Q3-Zahlen am 22. Oktober – entscheidend ist, ob das erwartete starke Wachstum geliefert wird. Die gesenkten Kursziele zeigen, dass Analysten vorsichtiger geworden sind; höhere Fracht- und Energiekosten durch die Lage in Nahost sind ein Margenrisiko für den Importeur.",
+   "sources":[["Yahoo Finance","https://finance.yahoo.com/quote/COCO/"],["Zacks via Yahoo","https://nz.finance.yahoo.com/news/vita-coco-company-inc-coco-211506335.html"],["ad-hoc-news","https://www.ad-hoc-news.de/boerse/news/nebenwerte/bofa-senkt-ziel-fuer-die-vita-coco-aktie-auf-72-00-dollar/70344051"]]}
  ],
  "market": [
-  "S&P 500: 7.659,44 (−1,09 %), Wochenminus rund 2 %. Nasdaq: 26.140,03 (−2,15 %), Woche −4,5 %. Dow: 52.002,41 (−0,34 %).",
-  "Zinsen: Rendite 10-jähriger US-Staatsanleihen 5,09 % (US-Treasury). Heißer September-CPI schürt die Sorge vor länger hohen Leitzinsen.",
-  "KI-Sektor: Software- und Chipwerte schwächer, Rotation aus Tech. Brent-Öl erreichte wegen Eskalation in der Straße von Hormus erstmals seit Mai 110 $.",
-  "Nächste Woche: Quartalszahlen von Tesla, Netflix und Meta."
+  "S&P 500: 7.659,44 Punkte (−1,09 %), Wochenminus rund 2 % – die Gewinne der Rekordwoche davor sind damit aufgezehrt.",
+  "Nasdaq Composite: 26.140,03 (−2,15 %), Woche −4,5 % – erster Wochenverlust seit fünf Wochen und der schwächste seit Juni. Dow Jones: 52.002,41 (−0,34 %), Woche +0,7 % dank Rotation aus Tech. Russell 2000: 2.721,37 (−1,66 %).",
+  "Seit Jahresbeginn: Dow +8,2 %, S&P 500 +11,9 %, Nasdaq +12,5 %.",
+  "KI-Sektor: Software- und Halbleiterwerte schwächer nach einer volatilen Chip-Woche; Neoclouds und KI-Colocation-Anbieter (Applied Digital, Hut 8, TeraWulf, Cipher) unter Druck."
  ],
- "market_sources": [
-  [
-   "AP News",
-   "https://apnews.com/article/stocks-markets-us-ai-oil-tech-warsh-d2655f64db7ec8ae450525d58f97b628"
-  ],
-  [
-   "Yahoo Finance",
-   "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html"
-  ],
-  [
-   "US Treasury",
-   "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"
-  ]
+ "market_sources": [["AP News","https://apnews.com/article/stocks-markets-us-ai-oil-tech-warsh-d2655f64db7ec8ae450525d58f97b628"],["Yahoo Finance","https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html"],["Portfolio Terminal","https://portfolio-terminal.com/markets/stock-market-close"]],
+ "macro": [
+  {"title":"Zinsen & Fed","what":"Die Fed hat im September erstmals seit über drei Jahren die Zinsen erhöht, auf 3,75–4,00 %. Nächste Entscheidung am 28. Oktober (Sitzung 27./28.). Fed-Chef Kevin Warsh gibt bewusst keine Signale mehr: „Ich nehme Sitzungen nicht vorweg.“ Die Rendite 10-jähriger US-Anleihen lag am Freitag bei 5,09 %.",
+   "effect":"Höhere Zinsen verteuern die Finanzierung von Rechenzentren und drücken die Bewertung von Wachstumswerten – direkt spürbar bei CoreWeave und Nebius, indirekt bei Lemonade. Vita Coco und der Dow sind weniger betroffen.",
+   "next":"Futures preisten am Freitagmorgen nur rund 15 % Wahrscheinlichkeit für eine Erhöhung im Oktober; die Fed-Projektion vom September lässt eine weitere Erhöhung im Dezember zu. Eine Überraschung am 28. Oktober wäre ein klares Risiko für die KI-Infrastrukturwerte.",
+   "sources":[["CNBC","https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html"],["WSJ","https://www.wsj.com/economy/central-banking/warsh-avoids-signal-on-october-rate-move-a176b0d5"],["US Treasury","https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve"]]},
+  {"title":"Inflation","what":"Verbraucherpreise im September +3,7 % zum Vorjahr (+0,6 % zum Vormonat), Kerninflation 2,6 %. Benzin stieg um 9,1 % und machte die Hälfte des Anstiegs aus, doch auch Mieten, Autos und Bekleidung wurden teurer. Erzeugerpreise +1,3 % zum Vormonat (erwartet: 0,6 %), +6,3 % zum Vorjahr.",
+   "effect":"Die Daten lösten steigende Renditen und den Abverkauf zinssensibler Tech-Werte aus. Hohe Erzeugerpreise deuten auf weiteren Preisdruck in den kommenden Monaten.",
+   "next":"Laut CNBC impliziert das Datenbild eine Kern-PCE-Rate um 3,1 % – deutlich über dem 2-%-Ziel, das Warsh als „fest“ bezeichnet. Inflation bleibt der wichtigste Belastungsfaktor für Wachstumsaktien.",
+   "sources":[["CNBC","https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"],["Investing.com","https://www.investing.com/news/economy-news/fed-market-review-hot-inflation-data-raises-october-hike-odds-ahead-of-fomc-93CH-4954682"]]},
+  {"title":"Konjunkturdaten","what":"Einzelhandelsumsätze September +0,8 % (erwartet: 0,3 %), aber die Kontrollgruppe nur +0,1 %. Industrieproduktion +0,7 %. Erstanträge auf Arbeitslosenhilfe 199.000. Philly-Fed-Index 20,9 (erwartet: 28,2).",
+   "effect":"Ein gemischtes Bild: Robuste Schlagzeilen stützen die Fed-Falken, die schwache Kontrollgruppe deutet auf nachlassenden Konsum.",
+   "next":"Kühlt sich die Konjunktur ab, hätte die Fed Spielraum, im Oktober zu pausieren – positiv für zinssensible Werte. Bleibt der Arbeitsmarkt stark, steigt der Druck für weitere Erhöhungen.",
+   "sources":[["Investing.com","https://www.investing.com/news/economy-news/fed-market-review-hot-inflation-data-raises-october-hike-odds-ahead-of-fomc-93CH-4954682"]]},
+  {"title":"Geopolitik & Öl","what":"Iran hat die Angriffe auf Schiffe in der Straße von Hormus verschärft – mindestens neun Schiffe seit Sonntag. Brent schloss bei 109,86 $ (+3,7 %), WTI bei 101,41 $. Der Ölfluss durch die Meerenge lag laut Kpler bei etwa 68 % des Vorkriegsniveaus. Zudem will die Ukraine weiter russische Raffinerien angreifen. Die IEA beschleunigt die Freigabe von rund 100 Mio. Barrel aus Notreserven; die USA erwägen Lockerungen für Teile der „Schattenflotte“.",
+   "effect":"Teures Öl treibt die Inflation (siehe Benzin im CPI), stützt höhere Zinsen und belastet Konsum und Transport – relevant für Uber (Fahrerkosten, Nachfrage) und Vita Coco (Fracht).",
+   "next":"Solange die Angriffe anhalten, bleibt Öl ein Inflationstreiber. Freigaben der Notreserven und mögliche Sanktionslockerungen könnten Preisspitzen dämpfen.",
+   "sources":[["CNBC","https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html"],["BBC","https://www.bbc.com/news/articles/cmde8dpg8g0no"],["Yahoo Finance","https://finance.yahoo.com/energy/articles/oil-prices-fall-despite-strait-094006405.html"]]},
+  {"title":"Handel & Zölle","what":"US-Finanzminister Scott Bessent: Der Handelswaffenstillstand mit China (Busan-Abkommen) wird vom 10. November 2026 bis zum 10. Januar 2027 verlängert. Damit verschiebt sich voraussichtlich auch die Wiedereinführung gegenseitiger Hafengebühren.",
+   "effect":"Nimmt kurzfristig ein Eskalationsrisiko aus dem Markt – positiv für Halbleiter-Lieferketten und importabhängige Firmen.",
+   "next":"Formale Details stehen noch aus. Bis Januar dürfte das Thema eher im Hintergrund bleiben.",
+   "sources":[["Silensea Briefing","https://silenseatrading.com/en/posts/world-briefing-2026-10-17/"]]},
+  {"title":"Termine","what":"22.10.: Vita-Coco-Quartalszahlen. Nächste Woche: Zahlen von Tesla, Netflix und Meta. 28.10.: Zinsentscheid der Fed. Anfang November: US-Zwischenwahlen.",
+   "effect":"Die Big-Tech-Zahlen (besonders Metas Investitionspläne für KI) sind ein wichtiger Stimmungstest für die Nachfrage nach Rechenleistung – und damit für CoreWeave und Nebius.",
+   "next":"Volatilität dürfte bis zur Fed-Sitzung erhöht bleiben.",
+   "sources":[["Yahoo Finance","https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-amid-volatile-week-112939401.html"],["Reuters via Investing.com","https://www.investing.com/news/economy-news/fed-rate-hike-seen-more-likely-after-inflation-data-4949259"]]}
  ],
  "ideas": [
-  {
-   "ticker": "ROK",
-   "name": "Rockwell Automation",
-   "sector": "Industrieautomatisierung",
-   "why": "Bisher kaum als KI-Gewinner gehandelt. Wenn KI verlässlich Maschinen steuern und Fabriken optimieren kann, braucht es Steuerungstechnik und Software in den Werkshallen – Rockwells Kerngeschäft."
-  },
-  {
-   "ticker": "DE",
-   "name": "Deere & Company",
-   "sector": "Landtechnik / Autonome Maschinen",
-   "why": "Gilt als klassischer Industriewert, nicht als KI-Aktie. Bessere Bilderkennung und Autonomie machen selbstfahrende Traktoren und präzises Spritzen wirtschaftlicher – Deere sitzt auf Maschinenflotte und Felddaten."
-  },
-  {
-   "ticker": "VEEV",
-   "name": "Veeva Systems",
-   "sector": "Software für Pharma & Life Sciences",
-   "why": "Branchensoftware wurde eher als KI-Verlierer gesehen. Veeva hält aber die Daten für klinische Studien und Zulassungen – KI-Agenten, die diese Prozesse beschleunigen, könnten den Wert der Plattform erhöhen."
-  }
+  {"ticker":"ROK","name":"Rockwell Automation","sector":"Industrieautomatisierung","why":"Bisher kaum als KI-Gewinner gehandelt. Wenn KI verlässlich Maschinen steuern und Fabriken optimieren kann, braucht es Steuerungstechnik und Software in den Werkshallen – Rockwells Kerngeschäft."},
+  {"ticker":"DE","name":"Deere & Company","sector":"Landtechnik / Autonome Maschinen","why":"Gilt als klassischer Industriewert, nicht als KI-Aktie. Bessere Bilderkennung und Autonomie machen selbstfahrende Traktoren und präzises Spritzen wirtschaftlicher – Deere sitzt auf Maschinenflotte und Felddaten."},
+  {"ticker":"VEEV","name":"Veeva Systems","sector":"Software für Pharma & Life Sciences","why":"Branchensoftware wurde eher als KI-Verlierer gesehen. Veeva hält aber die Daten für klinische Studien und Zulassungen – KI-Agenten, die diese Prozesse beschleunigen, könnten den Wert der Plattform erhöhen."}
  ]
 }
