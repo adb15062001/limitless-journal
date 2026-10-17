@@ -9,7 +9,7 @@ e = html.escape
 def dlong(s):
     d = date.fromisoformat(s); return f"{DAY[d.weekday()]}, {d.day}. {MON[d.month-1]} {d.year}"
 CSS = """*{box-sizing:border-box}
-body{background:#f4efe4;color:#151515;font-family:Georgia,'Times New Roman',serif;margin:0;font-size:21px;line-height:1.6}
+body{background:#fafaf7;color:#151515;font-family:Georgia,'Times New Roman',serif;margin:0;font-size:21px;line-height:1.6}
 .wrap{max-width:1000px;margin:auto;padding:28px 32px 60px}
 header{text-align:center;border-bottom:5px double #151515;padding-bottom:10px}
 .mast{font-family:'UnifrakturMaguntia','Old English Text MT',Georgia,serif;font-size:84px;line-height:1.1;margin:14px 0}
@@ -48,7 +48,7 @@ ul.arch{font-size:22px}ul.arch li{margin:10px 0}
 .tag{display:inline-block;font-family:Helvetica,Arial,sans-serif;font-size:.8em;font-weight:bold;padding:2px 9px;border-radius:3px;color:#fff;white-space:nowrap}
 .tag.up{background:#0b6b0b}.tag.down{background:#a40000}
 .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:14px;margin-top:28px;text-align:left}
-.tile{border:1.5px solid #151515;background:#fbf8f1;padding:10px 12px;font-family:Helvetica,Arial,sans-serif}
+.tile{border:1.5px solid #151515;background:#ffffff;padding:10px 12px;font-family:Helvetica,Arial,sans-serif}
 .tile .t{font-size:14px;letter-spacing:2px;text-transform:uppercase;color:#444}
 .tile .v{font-size:24px;font-weight:bold;margin:2px 0}
 .tile .spark{width:100%;height:36px;display:block;margin-top:6px}
@@ -56,7 +56,7 @@ ul.arch{font-size:22px}ul.arch li{margin:10px 0}
 .chart figcaption{font-family:Helvetica,Arial,sans-serif;font-size:16px;margin-bottom:6px}
 .chart svg{width:100%;height:auto;display:block;font-family:Helvetica,Arial,sans-serif;font-size:13px;fill:#333}
 .chart svg .b{font-weight:bold;fill:#151515}.chart svg .big{font-size:18px}
-.badge{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:50%;background:#151515;color:#f4efe4;font-family:Helvetica,Arial,sans-serif;font-weight:bold;font-size:15px;margin-right:12px;vertical-align:middle}
+.badge{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:50%;background:#151515;color:#fafaf7;font-family:Helvetica,Arial,sans-serif;font-weight:bold;font-size:15px;margin-right:12px;vertical-align:middle}
 .mini{display:grid;grid-template-columns:repeat(auto-fit,minmax(400px,1fr));gap:10px 30px}
 .chartnote{font-size:14px;color:#555;font-style:italic}
 @media(max-width:700px){.tiles{grid-template-columns:repeat(2,1fr);gap:10px}.tile .v{font-size:20px}.badge{width:36px;height:36px;font-size:13px}.chart svg{font-size:21px}.chart svg .big{font-size:22px}.chart figcaption{font-size:14px}}
