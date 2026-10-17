@@ -44,22 +44,93 @@ ul.news li{margin:10px 0}
 .sources a{color:#333;word-break:break-word}
 .disc{margin-top:30px;font-size:15px;text-align:center}
 ul.arch{font-size:22px}ul.arch li{margin:10px 0}
+
+.tag{display:inline-block;font-family:Helvetica,Arial,sans-serif;font-size:.8em;font-weight:bold;padding:2px 9px;border-radius:3px;color:#fff;white-space:nowrap}
+.tag.up{background:#0b6b0b}.tag.down{background:#a40000}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:14px;margin-top:28px;text-align:left}
+.tile{border:1.5px solid #151515;background:#fbf8f1;padding:10px 12px;font-family:Helvetica,Arial,sans-serif}
+.tile .t{font-size:14px;letter-spacing:2px;text-transform:uppercase;color:#444}
+.tile .v{font-size:24px;font-weight:bold;margin:2px 0}
+.tile .spark{width:100%;height:36px;display:block;margin-top:6px}
+.chart{margin:18px 0 8px;padding:0}
+.chart figcaption{font-family:Helvetica,Arial,sans-serif;font-size:16px;margin-bottom:6px}
+.chart svg{width:100%;height:auto;display:block;font-family:Helvetica,Arial,sans-serif;font-size:13px;fill:#333}
+.chart svg .b{font-weight:bold;fill:#151515}.chart svg .big{font-size:18px}
+.badge{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:50%;background:#151515;color:#f4efe4;font-family:Helvetica,Arial,sans-serif;font-weight:bold;font-size:15px;margin-right:12px;vertical-align:middle}
+.mini{display:grid;grid-template-columns:repeat(auto-fit,minmax(400px,1fr));gap:10px 30px}
+.chartnote{font-size:14px;color:#555;font-style:italic}
+@media(max-width:700px){.tiles{grid-template-columns:repeat(2,1fr);gap:10px}.tile .v{font-size:20px}.badge{width:36px;height:36px;font-size:13px}.chart svg{font-size:21px}.chart svg .big{font-size:22px}.chart figcaption{font-size:14px}}
 @media(max-width:700px){body{font-size:18px}.mast{font-size:44px}h1.head{font-size:38px}h2{font-size:34px}.lead{font-size:20px}.wrap{padding:16px}}"""
+
+UP, DN = "#0b6b0b", "#a40000"
+def fmt(v, dec=2): return f"{v:,.{dec}f}".replace(",", "X").replace(".", ",").replace("X", ".")
+def series(d, sym): return (d.get("charts") or {}).get("series", {}).get(sym, {}).get("data", [])
+def pct(a, b): return (b / a - 1) * 100
+def ddm(iso): y, m, dd = iso.split("-"); return f"{int(dd)}.{int(m)}."
+def tag(v): 
+    c = "up" if v >= 0 else "down"; a = "▲" if v >= 0 else "▼"
+    return f'<span class="tag {c}">{a} {fmt(abs(v))} %</span>'
+def spark(data, w=120, h=34):
+    if len(data) < 2: return ""
+    v = [x[1] for x in data]; lo, hi = min(v), max(v); r = (hi - lo) or 1
+    pts = " ".join(f"{i*(w-4)/(len(v)-1)+2:.1f},{h-3-(x-lo)/r*(h-6):.1f}" for i, x in enumerate(v))
+    col = UP if v[-1] >= v[0] else DN
+    return f'<svg class="spark" viewBox="0 0 {w} {h}" preserveAspectRatio="none" aria-hidden="true"><polyline points="{pts}" fill="none" stroke="{col}" stroke-width="2" vector-effect="non-scaling-stroke"/></svg>'
+def linechart(data, title, dec=2, unit=""):
+    if len(data) < 2: return ""
+    W, H, L, R, T, Bm = 640, 280, 80, 14, 22, 34
+    v = [x[1] for x in data]; lo, hi = min(v), max(v); pad = (hi - lo) * 0.08 or 1; lo2, hi2 = lo - pad, hi + pad
+    X = lambda i: L + i * (W - L - R) / (len(v) - 1); Y = lambda x: T + (hi2 - x) / (hi2 - lo2) * (H - T - Bm)
+    col = UP if v[-1] >= v[0] else DN
+    pts = " ".join(f"{X(i):.1f},{Y(x):.1f}" for i, x in enumerate(v))
+    area = f"{X(0):.1f},{H-Bm} {pts} {X(len(v)-1):.1f},{H-Bm}"
+    g = ""
+    for k in range(4):
+        yv = lo2 + (hi2 - lo2) * k / 3; yy = Y(yv)
+        g += f'<line x1="{L}" x2="{W-R}" y1="{yy:.1f}" y2="{yy:.1f}" stroke="#bbb" stroke-dasharray="3 4"/><text x="{L-6}" y="{yy+4:.1f}" text-anchor="end">{fmt(yv, dec)}</text>'
+    for i in (0, len(v)//2, len(v)-1):
+        g += f'<text x="{X(i):.1f}" y="{H-8}" text-anchor="{"start" if i==0 else "end" if i==len(v)-1 else "middle"}">{ddm(data[i][0])}</text>'
+    imax, imin = v.index(hi), v.index(lo)
+    g += f'<circle cx="{X(imax):.1f}" cy="{Y(hi):.1f}" r="3.5" fill="#151515"/><text x="{X(imax):.1f}" y="{Y(hi)-8:.1f}" text-anchor="middle" class="b">Hoch {fmt(hi, dec)}</text>'
+    g += f'<circle cx="{X(imin):.1f}" cy="{Y(lo):.1f}" r="3.5" fill="#151515"/><text x="{X(imin):.1f}" y="{Y(lo)+18:.1f}" text-anchor="middle" class="b">Tief {fmt(lo, dec)}</text>'
+    g += f'<circle cx="{X(len(v)-1):.1f}" cy="{Y(v[-1]):.1f}" r="5" fill="{col}"/>'
+    ch = pct(v[0], v[-1])
+    return (f'<figure class="chart"><figcaption><b>{e(title)}</b> · {ddm(data[0][0])}–{ddm(data[-1][0])} {tag(ch)}</figcaption>'
+            f'<svg viewBox="0 0 {W} {H}" role="img" aria-label="{e(title)}"><polygon points="{area}" fill="{col}" opacity=".10"/>{g}'
+            f'<polyline points="{pts}" fill="none" stroke="{col}" stroke-width="2.5" stroke-linejoin="round"/></svg></figure>')
+def barchart(items):
+    if not items: return ""
+    m = max(abs(v) for _, v in items) or 1; W, rowh = 460, 50; H = rowh * len(items) + 10; mid = W / 2
+    g = f'<line x1="{mid}" x2="{mid}" y1="0" y2="{H}" stroke="#151515"/>'
+    for i, (t, v) in enumerate(sorted(items, key=lambda x: x[1])):
+        y = 8 + i * rowh; w = abs(v) / m * (mid - 110); col = UP if v >= 0 else DN
+        x = mid if v >= 0 else mid - w
+        g += f'<rect x="{x:.1f}" y="{y}" width="{max(w,2):.1f}" height="30" fill="{col}"/>'
+        g += f'<text x="{mid-8 if v>=0 else mid+8}" y="{y+21}" text-anchor="{"end" if v>=0 else "start"}" class="b big">{e(t)}</text>'
+        g += f'<text x="{(x+w+8) if v>=0 else (x-8):.1f}" y="{y+21}" text-anchor="{"start" if v>=0 else "end"}" class="b big" fill="{col}">{"+" if v>=0 else "−"}{fmt(abs(v))} %</text>'
+    return f'<figure class="chart"><svg viewBox="0 0 {W} {H}" role="img" aria-label="Tagesveränderung">{g}</svg></figure>'
+
 def page(title, body):
     return f"""<!doctype html><html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(title)}</title><link href="https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap" rel="stylesheet"><style>{CSS}</style></head><body><div class="wrap">{body}
 <p class="disc">Alle Angaben ohne Gewähr. Keine Anlageberatung – automatisch erstellte Einschätzung auf Basis öffentlicher Quellen.</p></div></body></html>"""
 def mast(pre, sub, tickers=""):
     return f"""<header><div class="bar"><span>{e(sub)}</span><span><a href="{pre}index.html">Aktuelle Ausgabe</a> · <a href="{pre}archiv.html">Archiv</a></span></div>
-<div class="mast"><a href="{pre}index.html">Limitless Journal</a></div><div class="bar"><span>Depot · Makro · Ideen</span><span>{e(tickers)}</span></div></header>"""
+<div class="mast"><a href="{pre}index.html">Limitless Journal</a></div><div class="bar"><span>Watchlist · Makro · Ideen</span><span>{e(tickers)}</span></div></header>"""
 def edition(d, pre):
-    H = d["holdings"]; tick = " · ".join(x["ticker"] for x in H)
+    H = d.get("watchlist") or d.get("holdings", []); tick = " · ".join(x["ticker"] for x in H)
     h = mast(pre, dlong(d["date"]), tick)
-    h += f'<div class="front"><div class="kicker">Die Lage am Morgen</div><h1 class="head">{e(d["headline"])}</h1><p class="lead">{e(d["lead"])}</p><div class="ticker">'
-    h += "".join(f'<span>{e(x["ticker"])} {e(x["close"])} <span class="{x["dir"]}">{e(x["change"])}</span></span>' for x in H) + "</div></div>"
+    h += f'<div class="front"><div class="kicker">Die Lage am Morgen</div><h1 class="head">{e(d["headline"])}</h1><p class="lead">{e(d["lead"])}</p><div class="tiles">'
     for x in H:
-        h += f'<section><div class="label">Ihr Depot · {e(x["ticker"])}</div><h2>{e(x["name"])}</h2>'
+        sd = series(d, x["ticker"]); dc = pct(sd[-2][1], sd[-1][1]) if len(sd) > 1 else None
+        h += f'<div class="tile"><div class="t">{e(x["ticker"])}</div><div class="v">{e(x["close"])}</div>{tag(dc) if dc is not None else e(x["change"])}{spark(sd[-30:])}</div>'
+    h += "</div></div>"
+    bars = [(x["ticker"], pct(series(d, x["ticker"])[-2][1], series(d, x["ticker"])[-1][1])) for x in H if len(series(d, x["ticker"])) > 1]
+    if bars: h += '<section><div class="label">Watchlist im Überblick</div><h2>Tagesveränderung</h2>' + barchart(bars) + '<p class="chartnote">Veränderung zum Vortagesschluss. Daten: Yahoo Finance.</p></section>' 
+    for x in H:
+        h += f'<section><div class="label">Watchlist · {e(x["ticker"])}</div><h2><span class="badge">{e(x["ticker"][:4])}</span>{e(x["name"])}</h2>'
         h += f'<div class="price"><small>Schlusskurs · Kursveränderung seit letzter Ausgabe</small>{e(x["close"])} <span class="{x["dir"]}">{e(x["change"])}</span></div>'
+        h += linechart(series(d, x["ticker"]), f'{x["name"]} – Schlusskurse 3 Monate, $')
         if x.get("figures"): h += '<h3>Kennzahlen</h3><table class="fig">' + "".join(f"<tr><td>{e(k)}</td><td>{e(v)}</td></tr>" for k,v in x["figures"]) + "</table>"
         news = x["news"] if isinstance(x["news"], list) else [x["news"]]
         h += '<h3>Neuigkeiten seit der letzten Ausgabe</h3><ul class="news">' + "".join(f"<li>{e(n)}</li>" for n in news) + "</ul>"
@@ -67,12 +138,20 @@ def edition(d, pre):
     h += '<section><div class="label">Der Gesamtmarkt</div><h2>Wall Street am Freitag</h2>' + "".join(f"<p>{e(m)}</p>" for m in d["market"]) + "</section>"
     if d.get("macro"):
         h += '<section><div class="label">Makro</div><h2>Was die Kurse bewegt</h2>'
+        ms = [(k, v) for k, v in (d.get("charts") or {}).get("series", {}).items() if k.startswith("^") or "=" in k]
+        if ms:
+            h += '<div class="tiles">'
+            for k, v in ms:
+                dt = v["data"]; dc = pct(dt[-2][1], dt[-1][1]) if len(dt) > 1 else 0
+                h += f'<div class="tile"><div class="t">{e(v["label"])}</div><div class="v">{fmt(dt[-1][1], 2)}</div>{tag(dc)}{spark(dt[-30:])}</div>'
+            h += '</div><div class="mini">' + "".join(linechart(v["data"], v["label"] + " – 3 Monate") for k, v in ms) + '</div><p class="chartnote">Kacheln: Schlusswert und Veränderung zum Vortag. 10-J.-Rendite laut Yahoo (^TNX); offizieller Treasury-Wert im Text.</p>'
         for m in d["macro"]:
-            h += f'<div class="macro"><h3>{e(m["title"])}</h3><dl><dt>Was passiert</dt><dd>{e(m["what"])}</dd><dt>Wirkung auf Markt &amp; Depot</dt><dd>{e(m["effect"])}</dd><dt>Was das voraussichtlich bedeutet</dt><dd>{e(m["next"])}</dd></dl></div>'
+            h += f'<div class="macro"><h3>{e(m["title"])}</h3><dl><dt>Was passiert</dt><dd>{e(m["what"])}</dd><dt>Wirkung auf Markt &amp; Watchlist</dt><dd>{e(m["effect"])}</dd><dt>Was das voraussichtlich bedeutet</dt><dd>{e(m["next"])}</dd></dl></div>'
         h += "</section>"
     h += '<section><div class="label">Drei Ideen</div><h2>Noch nicht vom KI-Hype erfasst – mit Potenzial</h2>'
     h += "".join(f'<div class="idea"><h3>{e(i["name"])} ({e(i["ticker"])})</h3><div class="sec">{e(i["sector"])}</div><p>{e(i["why"])}</p></div>' for i in d["ideas"]) + "</section>"
-    groups = [(f'{x["name"]} ({x["ticker"]})', x.get("sources", [])) for x in H] + [("Gesamtmarkt", d.get("market_sources", []))] + [(f'Makro: {m["title"]}', m.get("sources", [])) for m in d.get("macro", [])]
+    groups0 = [(f'{x["name"]} ({x["ticker"]})', x.get("sources", [])) for x in H] + [("Gesamtmarkt", d.get("market_sources", []))] + [(f'Makro: {m["title"]}', m.get("sources", [])) for m in d.get("macro", [])]
+    groups = groups0 + ([("Charts", [((d.get("charts") or {}).get("source","Yahoo Finance"), "https://finance.yahoo.com/")])] if d.get("charts") else [])
     h += '<section class="sources"><div class="label">Quellen</div>'
     for g, l in groups:
         if l: h += f"<h3>{e(g)}</h3>" + " · ".join(f'<a href="{e(u)}">{e(n)}</a>' for n,u in l)
