@@ -50,7 +50,33 @@ ul.arch{font-size:22px}ul.arch li{margin:10px 0}
 .badge{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border-radius:50%;background:#151515;color:#fafaf7;font-family:Helvetica,Arial,sans-serif;font-weight:bold;font-size:15px;margin-right:12px;vertical-align:middle}
 .mini{display:grid;grid-template-columns:repeat(auto-fit,minmax(400px,1fr));gap:10px 30px}
 .chartnote{font-size:14px;color:#555;font-style:italic}
+.sunbadge{display:inline-block;background:#7a1d1d;color:#fff;font-family:Helvetica,Arial,sans-serif;font-size:15px;font-weight:bold;letter-spacing:2px;text-transform:uppercase;padding:6px 14px;border-radius:3px;margin-top:6px}
+.archtag{display:inline-block;background:#7a1d1d;color:#fff;font-family:Helvetica,Arial,sans-serif;font-size:13px;font-weight:bold;letter-spacing:1px;padding:2px 8px;border-radius:3px;margin-right:6px;vertical-align:middle}
+.tznote{font-family:Helvetica,Arial,sans-serif;font-size:16px;background:#fff;border:1px solid #bbb;padding:10px 14px;margin:14px 0}
+.legend{display:flex;flex-wrap:wrap;gap:8px 16px;font-family:Helvetica,Arial,sans-serif;font-size:15px;margin:8px 0 4px}
+.legend span{display:inline-flex;align-items:center;gap:6px}.legend i{display:inline-block;width:14px;height:14px;border-radius:3px}
+.weekgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px;margin:18px 0}
+.daycard{border:1.5px solid #151515;background:#fff;padding:8px 10px;font-family:Helvetica,Arial,sans-serif;font-size:14px;line-height:1.35}
+.daycard .dn{font-weight:bold;font-size:16px;border-bottom:1px solid #151515;margin-bottom:6px;padding-bottom:3px}
+.daycard div.ev{margin:5px 0;padding-left:8px;border-left:4px solid #999}
+.day{margin:30px 0 10px}.day h3{margin:0 0 8px;border-bottom:1px solid #151515;padding-bottom:4px}
+.ev2{display:grid;grid-template-columns:110px 1fr;gap:4px 14px;padding:10px 0;border-bottom:1px dotted #888}
+.ev2 .tm{font-family:Helvetica,Arial,sans-serif;font-weight:bold;font-size:17px}
+.ev2 .tt{font-weight:bold}.ev2 .nt{font-size:18px;color:#333}.ev2 .sr{font-size:14px}.ev2 .sr a{color:#555}
+.chip{display:inline-block;font-family:Helvetica,Arial,sans-serif;font-size:12px;font-weight:bold;color:#fff;padding:1px 7px;border-radius:3px;margin-right:6px;vertical-align:middle;letter-spacing:1px;text-transform:uppercase}
+table.wk{width:100%;border-collapse:collapse;font-family:Helvetica,Arial,sans-serif;font-size:18px;margin:10px 0}
+table.wk th{text-align:left;border-bottom:2px solid #151515;padding:6px;font-size:14px;text-transform:uppercase;letter-spacing:1px}
+table.wk td{padding:8px 6px;border-bottom:1px dotted #888}table.wk td.n{text-align:right;white-space:nowrap}
+.stock{margin:30px 0;padding-top:12px;border-top:1px solid #151515}
+.stock .src{font-size:14px}.stock .src a{color:#555}
+.tidea{margin:30px 0;padding:16px 18px;border:2px solid #151515;background:#fff}
+.tidea h3{margin-top:0}.tidea dt{font-weight:bold;text-transform:uppercase;letter-spacing:2px;font-size:14px;margin-top:12px;font-family:Helvetica,Arial,sans-serif}
+.tidea dd{margin:3px 0 0}.tidea dd.inv{border-left:4px solid #a40000;padding-left:10px}
+.warn{border:3px solid #a40000;background:#fff5f5;padding:14px 18px;font-family:Helvetica,Arial,sans-serif;font-size:18px;margin:16px 0}
+.warn b{color:#a40000;text-transform:uppercase;letter-spacing:2px}
+ul.look{font-size:19px}ul.look li{margin:8px 0}ul.look a{color:#555;font-size:14px}
+@media(max-width:700px){.ev2{grid-template-columns:1fr}.weekgrid{grid-template-columns:1fr}.tidea{padding:12px}.sunbadge{font-size:13px}table.wk{font-size:16px}}
 @media(max-width:700px){.tiles{grid-template-columns:repeat(2,1fr);gap:10px}.tile .v{font-size:20px}.badge{width:36px;height:36px;font-size:13px}.chart svg{font-size:21px}.chart svg .big{font-size:22px}.chart figcaption{font-size:14px}}
 @media(max-width:700px){body{font-size:18px}.mast{font-size:44px}h1.head{font-size:38px}h2{font-size:34px}.lead{font-size:20px}.wrap{padding:16px}}</style></head><body><div class="wrap"><header><div class="bar"><span>Archiv</span><span><a href="index.html">Aktuelle Ausgabe</a> · <a href="archiv.html">Archiv</a></span></div>
-<div class="mast"><a href="index.html">Limitless Journal</a></div><div class="bar"><span>Watchlist · Makro · Ideen</span><span></span></div></header><div class="front"><h1 class="head">Archiv</h1></div><h2>Oktober 2026</h2><ul class="arch"><li><a href="ausgabe/2026-10-16.html">Freitag, 16. Oktober 2026</a> – Neocloud-Ausverkauf: Nebius und CoreWeave verlieren je rund 12 %</li></ul>
+<div class="mast"><a href="index.html">Limitless Journal</a></div><div class="bar"><span>Watchlist · Makro · Ideen</span><span></span></div></header><div class="front"><h1 class="head">Archiv</h1></div><h2>Oktober 2026</h2><ul class="arch"><li><span class="archtag">Sonntagsausgabe – Wochenausblick</span><a href="ausgabe/2026-10-18.html">Sonntag, 18. Oktober 2026</a> – Fed schweigt, Big Tech spricht: Meta und Tesla entscheiden über die KI-Stimmung</li><li><a href="ausgabe/2026-10-16.html">Freitag, 16. Oktober 2026</a> – Neocloud-Ausverkauf: Nebius und CoreWeave verlieren je rund 12 %</li></ul>
 <p class="disc">Alle Angaben ohne Gewähr. Keine Anlageberatung – automatisch erstellte Einschätzung auf Basis öffentlicher Quellen.</p></div></body></html>

@@ -1,0 +1,4036 @@
+{
+ "date": "2026-10-18",
+ "type": "sunday",
+ "theme": "KI-Zahlen in der Fed-Funkstille",
+ "headline": "Fed schweigt, Big Tech spricht: Meta und Tesla entscheiden über die KI-Stimmung",
+ "lead": "Nach der schwächsten Nasdaq-Woche seit Juni (−4,5 %) und einem Einbruch der Neoclouds um rund 25 % blickt der Markt auf eine Woche ohne Fed-Kommentare – die Notenbank ist bis 29. Oktober in der Schweigephase. Umso mehr Gewicht haben die Quartalszahlen: Netflix und SpaceX am Dienstag, Meta, Tesla, IBM, Lam Research und Texas Instruments am Mittwoch, Vita Coco am Donnerstag. Dazu Öl um 110 $ und frische Tanker-Treffer in der Straße von Hormus.",
+ "week": {
+  "from": "2026-10-09",
+  "to": "2026-10-16"
+ },
+ "extra_symbols": [
+  "^DJI",
+  "^VIX"
+ ],
+ "timezone_note": "Alle Uhrzeiten in MESZ (deutsche Sommerzeit, gilt bis Sonntag, 25.10.). US-Termine: 8:30 Uhr New York = 14:30 Uhr MESZ. Nach der Zeitumstellung am 25.10. liegen US-Termine bis zum 1.11. eine Stunde früher (14:30 → 13:30 Uhr).",
+ "calendar": [
+  {
+   "date": "2026-10-19",
+   "items": [
+    {
+     "time": "04:00",
+     "cat": "data",
+     "title": "China: BIP Q3, Industrieproduktion & Einzelhandel (Sept.)",
+     "note": "BIP-Konsens 4,4 % ggü. Vorjahr (zuvor 4,3 %).",
+     "src": [
+      [
+       "LBBW – Wirtschaftskalender 19.–23.10.2026",
+       "https://www.lbbw.de/group/news-and-service/research/economic-calendar/economic-calendar_ajorqffjk6_e.html"
+      ],
+      [
+       "Danske Bank – Kalender 19.–23.10.2026 (PDF)",
+       "https://research.danskebank.com/link/MM161026/$file/MM_161026.pdf"
+      ]
+     ]
+    },
+    {
+     "time": "14:30",
+     "cat": "data",
+     "title": "Kanada: Verbraucherpreise September",
+     "note": "Konsens 3,2 % (zuvor 3,0 %).",
+     "src": [
+      [
+       "TD Economics – Upcoming Releases 19.–23.10.2026",
+       "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-16/upcoming.htm"
+      ]
+     ]
+    },
+    {
+     "time": "16:00",
+     "cat": "data",
+     "title": "USA: NAHB-Immobilienindex Oktober",
+     "note": "Konsens 31 (zuvor 32).",
+     "src": [
+      [
+       "TD Economics – Upcoming Releases 19.–23.10.2026",
+       "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-16/upcoming.htm"
+      ],
+      [
+       "LBBW – Wirtschaftskalender 19.–23.10.2026",
+       "https://www.lbbw.de/group/news-and-service/research/economic-calendar/economic-calendar_ajorqffjk6_e.html"
+      ]
+     ]
+    },
+    {
+     "time": "vor/nach US-Börse",
+     "cat": "earn",
+     "title": "Zahlen: Fifth Third, W. R. Berkley, Steel Dynamics u. a. (Regionalbanken)",
+     "note": "",
+     "src": [
+      [
+       "Newsquawk – Weekly US Earnings 19.–23.10.2026",
+       "https://www.newsquawk.com/headlines/weekly-us-earnings-estimates-19th-23rd-october-2026-earnings-pick-up-with-meta-tsla-spcx-lrcx-and-nflx-the-highlights"
+      ]
+     ]
+    },
+    {
+     "time": "Di 01:00",
+     "cat": "pol",
+     "title": "Trump: Wahlkampf-Rally in Park City/Wichita (Kansas)",
+     "note": "19:00 Uhr US-Ostküste – Midterms am 3. November.",
+     "src": [
+      [
+       "Factba.se – Öffentlicher Terminkalender des Präsidenten",
+       "https://rollcall.com/factbase/trump/calendar/"
+      ],
+      [
+       "RSBN – Trump-Rallys",
+       "https://www.rsbnetwork.com/news/how-to-tune-into-president-trumps-weekend-midterm-rally-blitz/"
+      ]
+     ]
+    },
+    {
+     "time": "ganztägig",
+     "cat": "fed",
+     "title": "Fed-Schweigephase (Blackout) läuft – keine geldpolitischen Aussagen bis 29.10.",
+     "note": "Gilt seit 17.10. bis einen Tag nach der Sitzung am 27./28.10.",
+     "src": [
+      [
+       "TradeSmrt – Week Ahead 19.–23.10. / Fed-Blackout",
+       "https://tradesmrt.com/en/news/week-ahead-tesla-meta-same-day-earnings-fed-blackout-october-19-23/"
+      ],
+      [
+       "TradingKey – The Week Ahead (18.10.2026)",
+       "https://www.tradingkey.com/analysis/stocks/us-stocks/262222431-weekly-preview-tesla-meta-wdc-q3-earnings-us-stocks-trading-window-tradingkey"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "items": [
+    {
+     "time": "08:00",
+     "cat": "data",
+     "title": "UK: Arbeitsmarktdaten (Arbeitslosenquote Aug.)",
+     "note": "Konsens 5,0 % (zuvor 4,9 %).",
+     "src": [
+      [
+       "Danske Bank – Kalender 19.–23.10.2026 (PDF)",
+       "https://research.danskebank.com/link/MM161026/$file/MM_161026.pdf"
+      ]
+     ]
+    },
+    {
+     "time": "11:00",
+     "cat": "data",
+     "title": "Deutschland: ZEW-Konjunkturerwartungen Oktober",
+     "note": "Zuvor 34,7.",
+     "src": [
+      [
+       "LBBW – Wirtschaftskalender 19.–23.10.2026",
+       "https://www.lbbw.de/group/news-and-service/research/economic-calendar/economic-calendar_ajorqffjk6_e.html"
+      ],
+      [
+       "Danske Bank – Kalender 19.–23.10.2026 (PDF)",
+       "https://research.danskebank.com/link/MM161026/$file/MM_161026.pdf"
+      ]
+     ]
+    },
+    {
+     "time": "12:30",
+     "cat": "earn",
+     "title": "General Motors Q3 (Zahlen ca. 12:30, Call 14:30)",
+     "note": "",
+     "src": [
+      [
+       "GM IR – Q3 2026 Call",
+       "https://investor.gm.com/events/event-details/general-motors-company-q3-2026-earnings-conference-call/"
+      ]
+     ]
+    },
+    {
+     "time": "13:30",
+     "cat": "earn",
+     "title": "GE Aerospace Q3 (Webcast 13:30)",
+     "note": "Außerdem vorbörslich laut Newsquawk: RTX, Chubb.",
+     "src": [
+      [
+       "Akros – Termine (Tesla, TI, GE, ISRG)",
+       "https://www.akrostec.com/indices/AUT100/events"
+      ],
+      [
+       "Newsquawk – Weekly US Earnings 19.–23.10.2026",
+       "https://www.newsquawk.com/headlines/weekly-us-earnings-estimates-19th-23rd-october-2026-earnings-pick-up-with-meta-tsla-spcx-lrcx-and-nflx-the-highlights"
+      ]
+     ]
+    },
+    {
+     "time": "14:30",
+     "cat": "data",
+     "title": "USA: Baubeginne & Baugenehmigungen September",
+     "note": "Konsens 1,305 Mio. bzw. 1,385 Mio. (zuvor 1,275 / 1,403 Mio.).",
+     "src": [
+      [
+       "TD Economics – Upcoming Releases 19.–23.10.2026",
+       "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-16/upcoming.htm"
+      ],
+      [
+       "Danske Bank – Kalender 19.–23.10.2026 (PDF)",
+       "https://research.danskebank.com/link/MM161026/$file/MM_161026.pdf"
+      ]
+     ]
+    },
+    {
+     "time": "nach US-Börse",
+     "cat": "earn",
+     "title": "SpaceX (SPCX) Q3 – Webcast 22:30",
+     "note": "Audio-Webcast, laut SpaceX auch live auf X.",
+     "src": [
+      [
+       "SpaceX IR – Q3 2026 am 20.10.",
+       "https://ir.spacex.com/updates/releases-details/2026/SpaceX-to-Post-Third-Quarter-2026-Results-and-Host-Webcast-on-October-20-2026-2026-QssQGye3im/default.aspx"
+      ]
+     ]
+    },
+    {
+     "time": "22:01",
+     "cat": "earn",
+     "title": "Netflix Q3 (Interview 22:45)",
+     "note": "Außerdem Intuitive Surgical nach Börsenschluss.",
+     "src": [
+      [
+       "Netflix IR – Termin Q3 2026",
+       "https://ir.netflix.net/investor-news-and-events/financial-releases/press-release-details/2026/Netflix-to-Announce-Third-Quarter-2026-Financial-Results/default.aspx"
+      ],
+      [
+       "Akros – Termine (Tesla, TI, GE, ISRG)",
+       "https://www.akrostec.com/indices/AUT100/events"
+      ]
+     ]
+    },
+    {
+     "time": "Mi 01:00",
+     "cat": "pol",
+     "title": "Trump: Rally in Greenville (North Carolina)",
+     "note": "",
+     "src": [
+      [
+       "Factba.se – Öffentlicher Terminkalender des Präsidenten",
+       "https://rollcall.com/factbase/trump/calendar/"
+      ],
+      [
+       "RSBN – Trump-Rallys",
+       "https://www.rsbnetwork.com/news/how-to-tune-into-president-trumps-weekend-midterm-rally-blitz/"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "items": [
+    {
+     "time": "08:00",
+     "cat": "data",
+     "title": "UK: Verbraucherpreise September",
+     "note": "Konsens 3,4 % (zuvor 3,1 %).",
+     "src": [
+      [
+       "Danske Bank – Kalender 19.–23.10.2026 (PDF)",
+       "https://research.danskebank.com/link/MM161026/$file/MM_161026.pdf"
+      ],
+      [
+       "TD Economics – Upcoming Releases 19.–23.10.2026",
+       "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-16/upcoming.htm"
+      ]
+     ]
+    },
+    {
+     "time": "16:30",
+     "cat": "data",
+     "title": "USA: Rohöl-Lagerbestände (DOE)",
+     "note": "Wichtig wegen der Hormus-Lage.",
+     "src": [
+      [
+       "Danske Bank – Kalender 19.–23.10.2026 (PDF)",
+       "https://research.danskebank.com/link/MM161026/$file/MM_161026.pdf"
+      ]
+     ]
+    },
+    {
+     "time": "18:00",
+     "cat": "fed",
+     "title": "EZB-Präsidentin Lagarde spricht",
+     "note": "Eine Woche vor der EZB-Sitzung (28./29.10.).",
+     "src": [
+      [
+       "Danske Bank – Kalender 19.–23.10.2026 (PDF)",
+       "https://research.danskebank.com/link/MM161026/$file/MM_161026.pdf"
+      ]
+     ]
+    },
+    {
+     "time": "nach US-Börse",
+     "cat": "earn",
+     "title": "Meta Q3 (Call 22:30) · Tesla Q3 (Webcast 23:30)",
+     "note": "Wichtigster Tag der Woche: Capex, KI-Ausgaben, Robotaxi.",
+     "src": [
+      [
+       "Meta IR – Termin Q3 2026",
+       "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-to-Announce-Third-Quarter-2026-Results/default.aspx"
+      ],
+      [
+       "Akros – Termine (Tesla, TI, GE, ISRG)",
+       "https://www.akrostec.com/indices/AUT100/events"
+      ],
+      [
+       "TradeSmrt – Week Ahead 19.–23.10. / Fed-Blackout",
+       "https://tradesmrt.com/en/news/week-ahead-tesla-meta-same-day-earnings-fed-blackout-october-19-23/"
+      ]
+     ]
+    },
+    {
+     "time": "nach US-Börse",
+     "cat": "earn",
+     "title": "IBM (Call 23:00), Lam Research, Texas Instruments",
+     "note": "Chip- und Software-Nachfrage im Test; tagsüber u. a. Philip Morris, Thermo Fisher, AT&T.",
+     "src": [
+      [
+       "IBM – Termin Q3 2026",
+       "https://newsroom.ibm.com/2026-10-07-ibm-to-announce-third-quarter-2026-financial-results"
+      ],
+      [
+       "Newsquawk – Weekly US Earnings 19.–23.10.2026",
+       "https://www.newsquawk.com/headlines/weekly-us-earnings-estimates-19th-23rd-october-2026-earnings-pick-up-with-meta-tsla-spcx-lrcx-and-nflx-the-highlights"
+      ],
+      [
+       "TradingKey – The Week Ahead (18.10.2026)",
+       "https://www.tradingkey.com/analysis/stocks/us-stocks/262222431-weekly-preview-tesla-meta-wdc-q3-earnings-us-stocks-trading-window-tradingkey"
+      ]
+     ]
+    },
+    {
+     "time": "Do 01:00",
+     "cat": "pol",
+     "title": "Trump: Rally in Pendleton (South Carolina)",
+     "note": "",
+     "src": [
+      [
+       "Factba.se – Öffentlicher Terminkalender des Präsidenten",
+       "https://rollcall.com/factbase/trump/calendar/"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "items": [
+    {
+     "time": "vor US-Börse",
+     "cat": "watch",
+     "title": "Vita Coco (COCO) Q3 – Call 14:30",
+     "note": "Einziger Watchlist-Termin der Woche. Zacks-Konsens: 0,51 $ Gewinn je Aktie, 232 Mio. $ Umsatz.",
+     "src": [
+      [
+       "Vita Coco – Termin Q3 2026 (GlobeNewswire/StockTitan)",
+       "https://www.stocktitan.net/news/COCO/the-vita-coco-company-to-report-third-quarter-2026-financial-results-gwifsfs5elwj.html"
+      ],
+      [
+       "Zacks via Yahoo – Vita Coco steigt gegen den Markt",
+       "https://nz.finance.yahoo.com/news/vita-coco-company-inc-coco-211506335.html"
+      ]
+     ]
+    },
+    {
+     "time": "vor US-Börse",
+     "cat": "earn",
+     "title": "Procter & Gamble (Call 14:30), Union Pacific",
+     "note": "P&G als Gradmesser für den US-Konsum – Read-across für Vita Coco.",
+     "src": [
+      [
+       "P&G IR – Q1 26/27 am 22.10.",
+       "https://www.pginvestor.com/news/news-details/2026/PG-to-Webcast-Discussion-of-First-Quarter-2627-Earnings-Results-on-October-22/default.aspx"
+      ],
+      [
+       "Newsquawk – Weekly US Earnings 19.–23.10.2026",
+       "https://www.newsquawk.com/headlines/weekly-us-earnings-estimates-19th-23rd-october-2026-earnings-pick-up-with-meta-tsla-spcx-lrcx-and-nflx-the-highlights"
+      ]
+     ]
+    },
+    {
+     "time": "14:30",
+     "cat": "data",
+     "title": "USA: Erstanträge Arbeitslosenhilfe",
+     "note": "Konsens 200.000 (zuvor 199.000).",
+     "src": [
+      [
+       "TD Economics – Upcoming Releases 19.–23.10.2026",
+       "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-16/upcoming.htm"
+      ],
+      [
+       "Danske Bank – Kalender 19.–23.10.2026 (PDF)",
+       "https://research.danskebank.com/link/MM161026/$file/MM_161026.pdf"
+      ]
+     ]
+    },
+    {
+     "time": "16:00",
+     "cat": "data",
+     "title": "Eurozone: Verbrauchervertrauen (vorläufig)",
+     "note": "Konsens −16,5.",
+     "src": [
+      [
+       "Danske Bank – Kalender 19.–23.10.2026 (PDF)",
+       "https://research.danskebank.com/link/MM161026/$file/MM_161026.pdf"
+      ]
+     ]
+    },
+    {
+     "time": "nach US-Börse",
+     "cat": "earn",
+     "title": "Western Digital Q3",
+     "note": "Speicher-Nachfrage aus Rechenzentren.",
+     "src": [
+      [
+       "TradingKey – The Week Ahead (18.10.2026)",
+       "https://www.tradingkey.com/analysis/stocks/us-stocks/262222431-weekly-preview-tesla-meta-wdc-q3-earnings-us-stocks-trading-window-tradingkey"
+      ]
+     ]
+    },
+    {
+     "time": "Fr 01:00",
+     "cat": "pol",
+     "title": "Trump: Rally in Sioux City (Iowa)",
+     "note": "",
+     "src": [
+      [
+       "Factba.se – Öffentlicher Terminkalender des Präsidenten",
+       "https://rollcall.com/factbase/trump/calendar/"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "items": [
+    {
+     "time": "09:30/10:00",
+     "cat": "data",
+     "title": "Einkaufsmanagerindizes (PMI) Deutschland & Eurozone, Oktober (vorläufig)",
+     "note": "DE Industrie zuvor 53,9; Eurozone Composite zuvor 53,1.",
+     "src": [
+      [
+       "LBBW – Wirtschaftskalender 19.–23.10.2026",
+       "https://www.lbbw.de/group/news-and-service/research/economic-calendar/economic-calendar_ajorqffjk6_e.html"
+      ],
+      [
+       "Danske Bank – Kalender 19.–23.10.2026 (PDF)",
+       "https://research.danskebank.com/link/MM161026/$file/MM_161026.pdf"
+      ]
+     ]
+    },
+    {
+     "time": "13:00",
+     "cat": "earn",
+     "title": "American Express Q3 (Call 14:30)",
+     "note": "Konsumausgaben & Kreditqualität.",
+     "src": [
+      [
+       "TradingKey – The Week Ahead (18.10.2026)",
+       "https://www.tradingkey.com/analysis/stocks/us-stocks/262222431-weekly-preview-tesla-meta-wdc-q3-earnings-us-stocks-trading-window-tradingkey"
+      ],
+      [
+       "Newsquawk – Weekly US Earnings 19.–23.10.2026",
+       "https://www.newsquawk.com/headlines/weekly-us-earnings-estimates-19th-23rd-october-2026-earnings-pick-up-with-meta-tsla-spcx-lrcx-and-nflx-the-highlights"
+      ]
+     ]
+    },
+    {
+     "time": "15:45",
+     "cat": "data",
+     "title": "USA: S&P-Global-PMIs Oktober (vorläufig)",
+     "note": "Konsens Industrie 55,5 (zuvor 55,9), Dienste 57,9 (zuvor 58,8).",
+     "src": [
+      [
+       "TD Economics – Upcoming Releases 19.–23.10.2026",
+       "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-16/upcoming.htm"
+      ],
+      [
+       "Danske Bank – Kalender 19.–23.10.2026 (PDF)",
+       "https://research.danskebank.com/link/MM161026/$file/MM_161026.pdf"
+      ]
+     ]
+    },
+    {
+     "time": "16:00",
+     "cat": "data",
+     "title": "USA: Uni Michigan Verbraucherstimmung (final)",
+     "note": "Vorläufig 46,3; Inflationserwartung 1 Jahr 4,7 %.",
+     "src": [
+      [
+       "TradingKey – The Week Ahead (18.10.2026)",
+       "https://www.tradingkey.com/analysis/stocks/us-stocks/262222431-weekly-preview-tesla-meta-wdc-q3-earnings-us-stocks-trading-window-tradingkey"
+      ],
+      [
+       "TD Economics – Upcoming Releases 19.–23.10.2026",
+       "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-16/upcoming.htm"
+      ]
+     ]
+    },
+    {
+     "time": "20:00",
+     "cat": "pol",
+     "title": "Trump: Rally in Fort Myers (Florida)",
+     "note": "",
+     "src": [
+      [
+       "Factba.se – Öffentlicher Terminkalender des Präsidenten",
+       "https://rollcall.com/factbase/trump/calendar/"
+      ]
+     ]
+    },
+    {
+     "time": "Woche",
+     "cat": "ipo",
+     "title": "IPOs: nur Kleinst-Emissionen",
+     "note": "Web3Labs Global (MDAT, 4–5 $) und Bitari (BIAI, 7 $) „Woche vom 19.10.“, Starton (STA, 6 $) Listing laut Webull 23.10. – Termine unbestätigt. Kein großer Börsengang angesetzt.",
+     "src": [
+      [
+       "IPOScoop – IPO-Kalender",
+       "https://www.iposcoop.com/ipo-calendar/"
+      ],
+      [
+       "Webull – IPO Center",
+       "https://www.webull.com/quote/us/ipo"
+      ],
+      [
+       "Segmara – IPOs This Week (Nasdaq-Daten)",
+       "https://segmara.com/ipos-this-week"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "items": [
+    {
+     "time": "So 01:00",
+     "cat": "pol",
+     "title": "Trump: Rally in Macon (Georgia)",
+     "note": "",
+     "src": [
+      [
+       "Factba.se – Öffentlicher Terminkalender des Präsidenten",
+       "https://rollcall.com/factbase/trump/calendar/"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "date": "2026-10-25",
+   "items": [
+    {
+     "time": "03:00",
+     "cat": "data",
+     "title": "Zeitumstellung in Europa (MESZ → MEZ)",
+     "note": "US-Termine liegen bis 1.11. eine Stunde früher.",
+     "src": []
+    },
+    {
+     "time": "20:00",
+     "cat": "pol",
+     "title": "Trump: Rally in St. Clair County (Michigan)",
+     "note": "",
+     "src": [
+      [
+       "Factba.se – Öffentlicher Terminkalender des Präsidenten",
+       "https://rollcall.com/factbase/trump/calendar/"
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "lookahead": [
+  [
+   "27.10.",
+   "Coca-Cola Q3 (Read-across Vita Coco)",
+   [
+    "Coca-Cola IR – Q3 erst am 27.10.",
+    "https://investors.coca-colacompany.com/news-events/press-releases/detail/1173/the-coca-cola-company-announces-timing-of-third-quarter-2026-earnings-release"
+   ]
+  ],
+  [
+   "27./28.10.",
+   "Fed-Sitzung, Zinsentscheid am 28.10.",
+   [
+    "TradeSmrt – Week Ahead 19.–23.10. / Fed-Blackout",
+    "https://tradesmrt.com/en/news/week-ahead-tesla-meta-same-day-earnings-fed-blackout-october-19-23/"
+   ]
+  ],
+  [
+   "28./29.10.",
+   "EZB-Sitzung, Entscheid am 29.10.",
+   [
+    "EZB – Sitzungskalender",
+    "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html"
+   ]
+  ],
+  [
+   "3.11.",
+   "US-Zwischenwahlen (Midterms)",
+   [
+    "Al Jazeera – Tanker in der Straße von Hormus (18.10.)",
+    "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz"
+   ]
+  ],
+  [
+   "4.11.",
+   "Uber Q3 (Call 14:00 MEZ)",
+   [
+    "Uber IR – Termin Q3 2026",
+    "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Date-of-Third-Quarter-2026-Results-Conference-Call/default.aspx"
+   ]
+  ],
+  [
+   "10./11.11.",
+   "Nebius (10.11.) und CoreWeave (11.11.) Q3 – laut MarketBeat/FXEmpire, unbestätigt",
+   [
+    "MarketBeat – Nebius Q3",
+    "https://www.marketbeat.com/earnings/reports/2026-11-10-nebius-group-nv-stock/"
+   ]
+  ],
+  [
+   "10.1.2027",
+   "Ende des verlängerten Handelswaffenstillstands USA–China",
+   [
+    "CNBC – Handelswaffenstillstand verlängert",
+    "https://www.cnbc.com/2026/09/24/us-china-trade-truce-bessent-trump-xi.html"
+   ]
+  ]
+ ],
+ "watchlist": [
+  {
+   "ticker": "LMND",
+   "name": "Lemonade",
+   "note": "Am Mittwoch markierte die Aktie ein neues 52-Wochen-Tief, erholte sich am Donnerstag um 4,6 % – eine technische Gegenbewegung ohne klaren Auslöser – und gab sie am Freitag mit dem Markt wieder ab. Operativ: Versicherung für autonom fahrende Teslas auf drei weitere US-Staaten ausgeweitet, Start auf Hawaii.",
+   "sources": [
+    [
+     "Exa Markets – LMND 15.10.",
+     "https://exa.ai/library/markets/stock/LMND?date=2026-10-15&view=daily"
+    ],
+    [
+     "Simply Wall St – Lemonade Tesla/Hawaii",
+     "https://simplywall.st/stocks/us/insurance/nyse-lmnd/lemonade/news/is-lemonade-lmnd-cheap-as-tesla-coverage-expansion-and-hawai"
+    ]
+   ]
+  },
+  {
+   "ticker": "CRWV",
+   "name": "CoreWeave",
+   "note": "Die schwächste Woche seit Langem: Am Mittwoch −15 % nach einem von Social-Media-Posts befeuerten Ausverkauf, die Rendite der 2032er-Anleihe stieg auf 15,77 %, die 5-jährigen Kreditausfallversicherungen (CDS) auf 1.140 Basispunkte. Gartner warnt, über 80 % der Neoclouds könnten bis 2030 ihre Eigenständigkeit verlieren.",
+   "sources": [
+    [
+     "CNBC – Ausverkauf bei Neoclouds (15.10.)",
+     "https://www.cnbc.com/2026/10/15/whats-behind-the-sell-off-in-ai-neocloud-stocks-like-coreweave-and-nebius-.html"
+    ],
+    [
+     "CNBC – CoreWeave-CDS auf Stress-Niveau",
+     "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html"
+    ],
+    [
+     "Reuters via Investing.com – KI-Kreditausfallversicherung auf Rekord",
+     "https://www.investing.com/news/stock-market-news/ai-credit-default-swap-spreads-widen-sharply-4950549"
+    ]
+   ]
+  },
+  {
+   "ticker": "UBER",
+   "name": "Uber",
+   "note": "Leichtes Minus im Tech-Abverkauf (−2,8 % am Mittwoch). Positiv: Robotaxi-Test in Manchester; negativ: Der Leiter der Robotaxi-Expansion geht im November, Erste Group senkte leicht die Gewinnschätzung. Zahlen kommen am 4. November.",
+   "sources": [
+    [
+     "The Guardian – Robotaxi-Test Manchester",
+     "https://www.theguardian.com/technology/2026/oct/14/uber-self-driving-robotaxi-trial-manchester"
+    ],
+    [
+     "WSJ – Robotaxi-Chef verlässt Uber",
+     "https://www.wsj.com/tech/uber-robotaxi-leader-to-depart-next-month-612295c2"
+    ],
+    [
+     "MarketBeat – Uber −2,8 % (14.10.)",
+     "https://www.marketbeat.com/instant-alerts/price-uber-technologies-nyse-uber-stock-falls-28-heres-what-happened-2026-10-14/"
+    ]
+   ]
+  },
+  {
+   "ticker": "NBIS",
+   "name": "Nebius",
+   "note": "Fiel im Gleichschritt mit CoreWeave – obwohl Nebius laut DA Davidson kaum Schulden hat. Das zeigt: Der Markt stellt das Geschäftsmodell der Neoclouds insgesamt infrage, nicht nur einzelne Bilanzen. Allein am Freitag −12 % bei hohem Volumen.",
+   "sources": [
+    [
+     "CNBC – Ausverkauf bei Neoclouds (15.10.)",
+     "https://www.cnbc.com/2026/10/15/whats-behind-the-sell-off-in-ai-neocloud-stocks-like-coreweave-and-nebius-.html"
+    ],
+    [
+     "Seeking Alpha – Nebius −12 %",
+     "https://seekingalpha.com/news/4653989-nebius-group-retreats-12-amid-heavy-neocloud-selling"
+    ],
+    [
+     "Yahoo Finance – Goldman zu Neoclouds",
+     "https://finance.yahoo.com/markets/stocks/article/why-coreweave-nebius-and-other-neocloud-stocks-are-being-pounded-goldman-sachs-explains-125730269.html"
+    ]
+   ]
+  },
+  {
+   "ticker": "COCO",
+   "name": "Vita Coco",
+   "note": "Einziger Gewinner der Watchlist: Anleger flüchteten in Basiskonsumwerte („Pantry-Loading“), Vita Coco stieg am Freitag gegen den fallenden Markt. Belastend wirkte nur die Kursziel-Senkung der BofA auf 72 $. Am Donnerstag kommen die Q3-Zahlen.",
+   "sources": [
+    [
+     "Seeking Alpha – Flucht in Basiskonsum",
+     "https://seekingalpha.com/news/4653430-pantry-loading-investors-push-into-consumer-staples-stocks-amid-market-anxiety"
+    ],
+    [
+     "Zacks via Yahoo – Vita Coco steigt gegen den Markt",
+     "https://nz.finance.yahoo.com/news/vita-coco-company-inc-coco-211506335.html"
+    ],
+    [
+     "ad-hoc-news – BofA senkt Ziel auf 72 $",
+     "https://www.ad-hoc-news.de/boerse/news/nebenwerte/bofa-senkt-ziel-fuer-die-vita-coco-aktie-auf-72-00-dollar/70344051"
+    ]
+   ]
+  },
+  {
+   "ticker": "PATH",
+   "name": "UiPath",
+   "note": "Nach einem Plus von 5 % am Donnerstag rutschte die Aktie am Freitag um 6,3 % ab: DA Davidson stufte auf „Underperform“ (Ziel 10 $) ab, UBS, BMO und RBC senkten ihre Kursziele auf 14–15 $ – Sorgen um ARR-Wachstum, Wettbewerb und KI-Preisdruck.",
+   "sources": [
+    [
+     "StocksToTrade – UiPath nach Kurszielsenkungen",
+     "https://stockstotrade.com/news/uipath-inc-path-news-2026_10_16/"
+    ],
+    [
+     "MarketBeat – UiPath Kursziele",
+     "https://www.marketbeat.com/stocks/NYSE/PATH/forecast/"
+    ]
+   ]
+  }
+ ],
+ "review_market": [
+  "S&P 500 −1,9 % auf 7.659 Punkte, Nasdaq Composite −4,5 % (schwächste Woche seit Juni), Dow Jones dagegen +0,7 % dank Umschichtung aus Tech in defensive Werte. Der Halbleiterindex SOX verlor acht Sitzungen in Folge – die längste Serie seit 2006.",
+  "Auslöser waren heiße Inflationsdaten (September-CPI +3,7 % ggü. Vorjahr, Erzeugerpreise +1,3 % ggü. Vormonat) und die Angst vor einer Kreditblase bei KI-Rechenzentren. Brent stieg auf der Woche um rund 5 % auf 109,86 $, der Volatilitätsindex VIX kletterte von 14,8 auf 20,0. Die 10-jährige US-Rendite sank dagegen leicht auf 5,10 % (Yahoo-Wert).",
+  "Fed-Chef Kevin Warsh gab am Freitag keine Signale für die Sitzung am 28. Oktober; seit Samstag gilt die Schweigephase. Am Wochenende meldete Irans Revolutionsgarde zwei Tanker, die in der Straße von Hormus auf Minen gelaufen sein sollen; Trump erwartet ein Kriegsende-Abkommen erst nach den Midterms am 3. November."
+ ],
+ "review_sources": [
+  [
+   "AP News – Wall Street am 16.10.",
+   "https://apnews.com/article/stocks-markets-us-ai-oil-tech-warsh-d2655f64db7ec8ae450525d58f97b628"
+  ],
+  [
+   "Charles Schwab – Marktupdate",
+   "https://www.schwab.com/learn/story/stock-market-update-open"
+  ],
+  [
+   "TradeSmrt – Week Ahead 19.–23.10. / Fed-Blackout",
+   "https://tradesmrt.com/en/news/week-ahead-tesla-meta-same-day-earnings-fed-blackout-october-19-23/"
+  ],
+  [
+   "CNBC – US-Inflation September 2026",
+   "https://www.cnbc.com/2026/10/14/cpi-inflation-report-september-2026.html"
+  ],
+  [
+   "CNBC – Warsh vor der Oktober-Sitzung",
+   "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html"
+  ],
+  [
+   "CNBC – Ölpreis 16.10.",
+   "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html"
+  ],
+  [
+   "Al Jazeera – Tanker in der Straße von Hormus (18.10.)",
+   "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz"
+  ]
+ ],
+ "ideas_intro": "Szenarien für die kommende Woche auf Basis der Termine und der Makrolage – keine Kauf- oder Verkaufsempfehlungen. Jede Idee nennt, was sie entkräften würde.",
+ "trade_ideas": [
+  {
+   "title": "Meta-Capex als Stimmungstest für die Neoclouds",
+   "scenario": "Meta (Mi., 21.10., nachbörslich) zeigt starkes Werbewachstum und verbindet die hohen KI-Investitionen klar mit Umsatz. Das könnte die Sorge um die Rendite der KI-Ausgaben dämpfen – nach −25 % in einer Woche sind Nebius und CoreWeave anfällig für heftige Gegenbewegungen in beide Richtungen.",
+   "assets": "NBIS, CRWV; KI-Colocation (Applied Digital, Hut 8, TeraWulf, Cipher); Halbleiter (Lam Research, Texas Instruments am selben Abend)",
+   "direction": "Zweiseitig: Erholungschance bei überzeugenden Meta-Zahlen; weiterer Druck, wenn Capex ohne Ertragsbezug steigt oder gekürzt wird.",
+   "trigger": "Meta-Capex-Ausblick 2027, Kommentare zu externer Rechenkapazität; Lam-Research-Ausblick; Entwicklung der CoreWeave-Anleiherenditen und CDS.",
+   "risks": "Kreditstress bei KI-Schuldnern hält an; eine Zinserhöhung am 28.10. wird wahrscheinlicher; Social-Media-getriebene Abverkäufe wie am 14.10.",
+   "invalidation": "Die CoreWeave-CDS steigen weiter über 1.140 Basispunkte und NBIS/CRWV fallen trotz guter Meta-Zahlen unter ihre Freitagsschlusskurse (165,47 $ / 61,39 $).",
+   "sources": [
+    [
+     "Meta IR – Termin Q3 2026",
+     "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-to-Announce-Third-Quarter-2026-Results/default.aspx"
+    ],
+    [
+     "TradeSmrt – Week Ahead 19.–23.10. / Fed-Blackout",
+     "https://tradesmrt.com/en/news/week-ahead-tesla-meta-same-day-earnings-fed-blackout-october-19-23/"
+    ],
+    [
+     "CNBC – Ausverkauf bei Neoclouds (15.10.)",
+     "https://www.cnbc.com/2026/10/15/whats-behind-the-sell-off-in-ai-neocloud-stocks-like-coreweave-and-nebius-.html"
+    ],
+    [
+     "CNBC – CoreWeave-CDS auf Stress-Niveau",
+     "https://www.cnbc.com/2026/10/15/coreweave-credit-default-swaps-hit-distress-levels-as-investors-sour-on-ai-debt.html"
+    ]
+   ]
+  },
+  {
+   "title": "Vita Coco: Zahlen nach der defensiven Rotation",
+   "scenario": "Vita Coco (Do., 22.10., vorbörslich) profitierte zuletzt von der Flucht in Basiskonsum. Übertrifft das Unternehmen den Konsens (0,51 $ Gewinn je Aktie, 232 Mio. $ Umsatz) und bestätigt die Prognose, könnte die relative Stärke anhalten. Am selben Morgen liefert P&G ein Bild vom US-Konsum.",
+   "assets": "COCO; Getränke-/Basiskonsumwerte (P&G am 22.10., Coca-Cola erst am 27.10.)",
+   "direction": "Ereignisgetrieben: Aufwärts bei Beat + Prognoseanhebung, abwärts bei Margen- oder Mengenenttäuschung.",
+   "trigger": "Umsatzwachstum (Q2: +28 %), Bruttomarge, Jahresprognose, Aussagen zu Zöllen und Frachtkosten.",
+   "risks": "Hohe Erwartungen nach starkem Lauf; Analysten senkten zuletzt Kursziele (BofA auf 72 $); laufende Insider-Verkäufe; Rotation zurück in Tech.",
+   "invalidation": "Umsatz oder Marge unter Konsens bzw. gesenkte Jahresprognose – dann wäre die Defensiv-These für COCO kurzfristig geschwächt.",
+   "sources": [
+    [
+     "Vita Coco – Termin Q3 2026 (GlobeNewswire/StockTitan)",
+     "https://www.stocktitan.net/news/COCO/the-vita-coco-company-to-report-third-quarter-2026-financial-results-gwifsfs5elwj.html"
+    ],
+    [
+     "Zacks via Yahoo – Vita Coco steigt gegen den Markt",
+     "https://nz.finance.yahoo.com/news/vita-coco-company-inc-coco-211506335.html"
+    ],
+    [
+     "Seeking Alpha – Flucht in Basiskonsum",
+     "https://seekingalpha.com/news/4653430-pantry-loading-investors-push-into-consumer-staples-stocks-amid-market-anxiety"
+    ],
+    [
+     "P&G IR – Q1 26/27 am 22.10.",
+     "https://www.pginvestor.com/news/news-details/2026/PG-to-Webcast-Discussion-of-First-Quarter-2627-Earnings-Results-on-October-22/default.aspx"
+    ],
+    [
+     "Quiver Quantitative – Vita Coco Q2-Umsatz & Insider",
+     "https://www.quiverquant.com/news/The+Vita+Coco+Company+Announces+Third+Quarter+2026+Earnings+Conference+Call+and+Webcast"
+    ]
+   ]
+  },
+  {
+   "title": "Öl und Hormus: Inflationsrisiko in der Fed-Funkstille",
+   "scenario": "Weitere Angriffe oder Minentreffer in der Straße von Hormus halten Brent um 110 $. Steigende Energiepreise heizen die Inflationssorgen an und erhöhen das Risiko einer Fed-Zinserhöhung am 28.10. – ohne dass Fed-Vertreter gegensteuern können.",
+   "assets": "Energiewerte (relativ stark); zinssensible Wachstumswerte wie LMND, PATH, NBIS (unter Druck); Mobilität (UBER) über Treibstoffkosten",
+   "direction": "Energie relativ fester, unprofitable Wachstumswerte schwächer – solange die Eskalation anhält.",
+   "trigger": "Meldungen zu Schiffsangriffen, US-Ölvorräte (Mi.), Preiskomponenten der PMIs (Fr.), Inflationserwartungen der Uni Michigan (Fr.).",
+   "risks": "Diplomatische Überraschung (Berichte über einen iranischen Plan zur Wiedereröffnung der Meerenge); Freigaben aus Notreserven; Nachfragesorgen drücken den Ölpreis.",
+   "invalidation": "Ein glaubwürdiges Abkommen zur Öffnung der Meerenge oder Brent deutlich unter 100 $.",
+   "sources": [
+    [
+     "Al Jazeera – Tanker in der Straße von Hormus (18.10.)",
+     "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz"
+    ],
+    [
+     "CNBC – Ölpreis 16.10.",
+     "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html"
+    ],
+    [
+     "TradeSmrt – Week Ahead 19.–23.10. / Fed-Blackout",
+     "https://tradesmrt.com/en/news/week-ahead-tesla-meta-same-day-earnings-fed-blackout-october-19-23/"
+    ],
+    [
+     "Times of Middle East – Berichte über Hormus-Plan",
+     "https://timesofmiddleeast.com/oil-slips-iran-offered-reopen-hormuz-seven-days/"
+    ]
+   ]
+  },
+  {
+   "title": "PMIs am Freitag: Daten statt Fed-Worte",
+   "scenario": "Die vorläufigen US-PMIs (Fr., 15:45) sind der wichtigste Konjunkturtermin der Woche. Bleiben sie hoch (Konsens 55,5/57,9) und steigen die Einkaufspreise, dürfte der Markt eine Zinserhöhung am 28.10. stärker einpreisen. Kühlen sie ab, wäre das eine Entlastung für zinssensible Werte.",
+   "assets": "LMND, PATH, NBIS, CRWV (lange Duration/Finanzierungsbedarf); Anleihen; Nasdaq",
+   "direction": "Heiße Daten: Druck auf Wachstumswerte, Renditen hoch. Kühle Daten: Entlastung.",
+   "trigger": "PMI-Preisindizes, Uni-Michigan-Inflationserwartung (vorläufig 4,7 %), Erstanträge (Do.).",
+   "risks": "Die Daten gehen im Lärm der Quartalszahlen unter; Öl überlagert alles.",
+   "invalidation": "PMIs im Rahmen der Erwartungen und stabile Renditen – dann bleiben die Quartalszahlen der dominierende Treiber.",
+   "sources": [
+    [
+     "TD Economics – Upcoming Releases 19.–23.10.2026",
+     "https://economics.td.com/domains/economics.td.com/documents/reports/bottom-line/tables/2026-10-16/upcoming.htm"
+    ],
+    [
+     "TradingKey – The Week Ahead (18.10.2026)",
+     "https://www.tradingkey.com/analysis/stocks/us-stocks/262222431-weekly-preview-tesla-meta-wdc-q3-earnings-us-stocks-trading-window-tradingkey"
+    ],
+    [
+     "TradeSmrt – Week Ahead 19.–23.10. / Fed-Blackout",
+     "https://tradesmrt.com/en/news/week-ahead-tesla-meta-same-day-earnings-fed-blackout-october-19-23/"
+    ]
+   ]
+  },
+  {
+   "title": "Tesla & Robotaxi: Signal für Uber und Lemonade",
+   "scenario": "Tesla (Mi., 21.10.) hat die Auslieferungen schon gemeldet (486.532, über Konsens); im Fokus stehen Robotaxi-Fortschritte. Konkrete Ausbaupläne würden das Autonomie-Thema befeuern – relevant für Uber (eigene Robotaxi-Strategie) und Lemonade (Versicherung für autonom fahrende Teslas).",
+   "assets": "UBER, LMND; Tesla",
+   "direction": "Nachrichtengetrieben; Optionen preisen laut TradeSmrt rund ±6 % Bewegung bei Tesla ein.",
+   "trigger": "Robotaxi-Zeitplan, Städte, Regulierung; Aussagen zu Versicherung/Haftung autonomer Fahrten.",
+   "risks": "Tesla als Konkurrent für Uber; Enttäuschung beim Robotaxi-Tempo; Ubers Robotaxi-Chef geht.",
+   "invalidation": "Tesla verschiebt Robotaxi-Ziele oder UBER/LMND reagieren nicht – dann ist der Read-across schwach.",
+   "sources": [
+    [
+     "TradeSmrt – Week Ahead 19.–23.10. / Fed-Blackout",
+     "https://tradesmrt.com/en/news/week-ahead-tesla-meta-same-day-earnings-fed-blackout-october-19-23/"
+    ],
+    [
+     "Akros – Termine (Tesla, TI, GE, ISRG)",
+     "https://www.akrostec.com/indices/AUT100/events"
+    ],
+    [
+     "WSJ – Robotaxi-Chef verlässt Uber",
+     "https://www.wsj.com/tech/uber-robotaxi-leader-to-depart-next-month-612295c2"
+    ],
+    [
+     "Simply Wall St – Lemonade Tesla/Hawaii",
+     "https://simplywall.st/stocks/us/insurance/nyse-lmnd/lemonade/news/is-lemonade-lmnd-cheap-as-tesla-coverage-expansion-and-hawai"
+    ]
+   ]
+  }
+ ],
+ "charts": {
+  "source": "Yahoo Finance (Tagesschlusskurse)",
+  "series": {
+   "LMND": {
+    "label": "LMND",
+    "data": [
+     [
+      "2026-07-20",
+      67.45
+     ],
+     [
+      "2026-07-21",
+      68.62
+     ],
+     [
+      "2026-07-22",
+      63.42
+     ],
+     [
+      "2026-07-23",
+      60.71
+     ],
+     [
+      "2026-07-24",
+      60.14
+     ],
+     [
+      "2026-07-27",
+      61.99
+     ],
+     [
+      "2026-07-28",
+      62.11
+     ],
+     [
+      "2026-07-29",
+      47.38
+     ],
+     [
+      "2026-07-30",
+      48.57
+     ],
+     [
+      "2026-07-31",
+      48.31
+     ],
+     [
+      "2026-08-03",
+      53.05
+     ],
+     [
+      "2026-08-04",
+      54.11
+     ],
+     [
+      "2026-08-05",
+      52.06
+     ],
+     [
+      "2026-08-06",
+      51.86
+     ],
+     [
+      "2026-08-07",
+      52.94
+     ],
+     [
+      "2026-08-10",
+      52.68
+     ],
+     [
+      "2026-08-11",
+      52.87
+     ],
+     [
+      "2026-08-12",
+      51.64
+     ],
+     [
+      "2026-08-13",
+      52.98
+     ],
+     [
+      "2026-08-14",
+      52.64
+     ],
+     [
+      "2026-08-17",
+      49.95
+     ],
+     [
+      "2026-08-18",
+      50.12
+     ],
+     [
+      "2026-08-19",
+      51.25
+     ],
+     [
+      "2026-08-20",
+      50.71
+     ],
+     [
+      "2026-08-21",
+      53.37
+     ],
+     [
+      "2026-08-24",
+      53.85
+     ],
+     [
+      "2026-08-25",
+      54.42
+     ],
+     [
+      "2026-08-26",
+      53.64
+     ],
+     [
+      "2026-08-27",
+      53.93
+     ],
+     [
+      "2026-08-28",
+      52.96
+     ],
+     [
+      "2026-08-31",
+      52.23
+     ],
+     [
+      "2026-09-01",
+      51.34
+     ],
+     [
+      "2026-09-02",
+      53.14
+     ],
+     [
+      "2026-09-03",
+      55.08
+     ],
+     [
+      "2026-09-04",
+      53.41
+     ],
+     [
+      "2026-09-08",
+      50.55
+     ],
+     [
+      "2026-09-09",
+      49.22
+     ],
+     [
+      "2026-09-10",
+      49.61
+     ],
+     [
+      "2026-09-11",
+      49.4
+     ],
+     [
+      "2026-09-14",
+      50.03
+     ],
+     [
+      "2026-09-15",
+      49.74
+     ],
+     [
+      "2026-09-16",
+      48.57
+     ],
+     [
+      "2026-09-17",
+      48.58
+     ],
+     [
+      "2026-09-18",
+      47.09
+     ],
+     [
+      "2026-09-21",
+      47.86
+     ],
+     [
+      "2026-09-22",
+      47.69
+     ],
+     [
+      "2026-09-23",
+      44.36
+     ],
+     [
+      "2026-09-24",
+      45.28
+     ],
+     [
+      "2026-09-25",
+      44.93
+     ],
+     [
+      "2026-09-28",
+      43.91
+     ],
+     [
+      "2026-09-29",
+      44.6
+     ],
+     [
+      "2026-09-30",
+      45.14
+     ],
+     [
+      "2026-10-01",
+      46.76
+     ],
+     [
+      "2026-10-02",
+      46.49
+     ],
+     [
+      "2026-10-05",
+      46.67
+     ],
+     [
+      "2026-10-06",
+      46.3
+     ],
+     [
+      "2026-10-07",
+      46.83
+     ],
+     [
+      "2026-10-08",
+      46.91
+     ],
+     [
+      "2026-10-09",
+      46.46
+     ],
+     [
+      "2026-10-12",
+      45.15
+     ],
+     [
+      "2026-10-13",
+      44.71
+     ],
+     [
+      "2026-10-14",
+      43.86
+     ],
+     [
+      "2026-10-15",
+      45.86
+     ],
+     [
+      "2026-10-16",
+      44.2
+     ]
+    ]
+   },
+   "CRWV": {
+    "label": "CRWV",
+    "data": [
+     [
+      "2026-07-20",
+      73.06
+     ],
+     [
+      "2026-07-21",
+      79.58
+     ],
+     [
+      "2026-07-22",
+      82.64
+     ],
+     [
+      "2026-07-23",
+      81.1
+     ],
+     [
+      "2026-07-24",
+      71.88
+     ],
+     [
+      "2026-07-27",
+      70.79
+     ],
+     [
+      "2026-07-28",
+      67.3
+     ],
+     [
+      "2026-07-29",
+      60.82
+     ],
+     [
+      "2026-07-30",
+      73.9
+     ],
+     [
+      "2026-07-31",
+      71.77
+     ],
+     [
+      "2026-08-03",
+      85.76
+     ],
+     [
+      "2026-08-04",
+      91.9
+     ],
+     [
+      "2026-08-05",
+      89.89
+     ],
+     [
+      "2026-08-06",
+      85.33
+     ],
+     [
+      "2026-08-07",
+      90.67
+     ],
+     [
+      "2026-08-10",
+      88.19
+     ],
+     [
+      "2026-08-11",
+      90.32
+     ],
+     [
+      "2026-08-12",
+      107.73
+     ],
+     [
+      "2026-08-13",
+      106.29
+     ],
+     [
+      "2026-08-14",
+      105.26
+     ],
+     [
+      "2026-08-17",
+      106.0
+     ],
+     [
+      "2026-08-18",
+      93.17
+     ],
+     [
+      "2026-08-19",
+      90.87
+     ],
+     [
+      "2026-08-20",
+      89.76
+     ],
+     [
+      "2026-08-21",
+      87.85
+     ],
+     [
+      "2026-08-24",
+      86.25
+     ],
+     [
+      "2026-08-25",
+      88.04
+     ],
+     [
+      "2026-08-26",
+      88.01
+     ],
+     [
+      "2026-08-27",
+      86.8
+     ],
+     [
+      "2026-08-28",
+      84.23
+     ],
+     [
+      "2026-08-31",
+      84.89
+     ],
+     [
+      "2026-09-01",
+      81.85
+     ],
+     [
+      "2026-09-02",
+      80.93
+     ],
+     [
+      "2026-09-03",
+      84.56
+     ],
+     [
+      "2026-09-04",
+      89.36
+     ],
+     [
+      "2026-09-08",
+      99.83
+     ],
+     [
+      "2026-09-09",
+      94.94
+     ],
+     [
+      "2026-09-10",
+      89.12
+     ],
+     [
+      "2026-09-11",
+      88.99
+     ],
+     [
+      "2026-09-14",
+      82.98
+     ],
+     [
+      "2026-09-15",
+      80.92
+     ],
+     [
+      "2026-09-16",
+      83.35
+     ],
+     [
+      "2026-09-17",
+      79.88
+     ],
+     [
+      "2026-09-18",
+      81.36
+     ],
+     [
+      "2026-09-21",
+      85.43
+     ],
+     [
+      "2026-09-22",
+      86.76
+     ],
+     [
+      "2026-09-23",
+      86.9
+     ],
+     [
+      "2026-09-24",
+      90.13
+     ],
+     [
+      "2026-09-25",
+      87.59
+     ],
+     [
+      "2026-09-28",
+      85.07
+     ],
+     [
+      "2026-09-29",
+      85.93
+     ],
+     [
+      "2026-09-30",
+      87.12
+     ],
+     [
+      "2026-10-01",
+      88.57
+     ],
+     [
+      "2026-10-02",
+      89.62
+     ],
+     [
+      "2026-10-05",
+      87.39
+     ],
+     [
+      "2026-10-06",
+      91.72
+     ],
+     [
+      "2026-10-07",
+      88.45
+     ],
+     [
+      "2026-10-08",
+      81.58
+     ],
+     [
+      "2026-10-09",
+      82.08
+     ],
+     [
+      "2026-10-12",
+      80.26
+     ],
+     [
+      "2026-10-13",
+      77.81
+     ],
+     [
+      "2026-10-14",
+      65.78
+     ],
+     [
+      "2026-10-15",
+      69.69
+     ],
+     [
+      "2026-10-16",
+      61.39
+     ]
+    ]
+   },
+   "UBER": {
+    "label": "UBER",
+    "data": [
+     [
+      "2026-07-20",
+      72.17
+     ],
+     [
+      "2026-07-21",
+      71.55
+     ],
+     [
+      "2026-07-22",
+      70.33
+     ],
+     [
+      "2026-07-23",
+      68.91
+     ],
+     [
+      "2026-07-24",
+      65.94
+     ],
+     [
+      "2026-07-27",
+      68.18
+     ],
+     [
+      "2026-07-28",
+      70.74
+     ],
+     [
+      "2026-07-29",
+      71.2
+     ],
+     [
+      "2026-07-30",
+      70.37
+     ],
+     [
+      "2026-07-31",
+      70.36
+     ],
+     [
+      "2026-08-03",
+      71.61
+     ],
+     [
+      "2026-08-04",
+      71.99
+     ],
+     [
+      "2026-08-05",
+      68.18
+     ],
+     [
+      "2026-08-06",
+      70.47
+     ],
+     [
+      "2026-08-07",
+      75.02
+     ],
+     [
+      "2026-08-10",
+      78.03
+     ],
+     [
+      "2026-08-11",
+      78.54
+     ],
+     [
+      "2026-08-12",
+      75.36
+     ],
+     [
+      "2026-08-13",
+      75.88
+     ],
+     [
+      "2026-08-14",
+      75.95
+     ],
+     [
+      "2026-08-17",
+      74.99
+     ],
+     [
+      "2026-08-18",
+      74.66
+     ],
+     [
+      "2026-08-19",
+      78.04
+     ],
+     [
+      "2026-08-20",
+      78.55
+     ],
+     [
+      "2026-08-21",
+      78.8
+     ],
+     [
+      "2026-08-24",
+      79.29
+     ],
+     [
+      "2026-08-25",
+      80.35
+     ],
+     [
+      "2026-08-26",
+      78.49
+     ],
+     [
+      "2026-08-27",
+      76.95
+     ],
+     [
+      "2026-08-28",
+      78.82
+     ],
+     [
+      "2026-08-31",
+      75.65
+     ],
+     [
+      "2026-09-01",
+      75.24
+     ],
+     [
+      "2026-09-02",
+      76.45
+     ],
+     [
+      "2026-09-03",
+      75.96
+     ],
+     [
+      "2026-09-04",
+      75.76
+     ],
+     [
+      "2026-09-08",
+      73.13
+     ],
+     [
+      "2026-09-09",
+      71.08
+     ],
+     [
+      "2026-09-10",
+      72.56
+     ],
+     [
+      "2026-09-11",
+      71.67
+     ],
+     [
+      "2026-09-14",
+      72.63
+     ],
+     [
+      "2026-09-15",
+      71.43
+     ],
+     [
+      "2026-09-16",
+      70.97
+     ],
+     [
+      "2026-09-17",
+      70.87
+     ],
+     [
+      "2026-09-18",
+      70.5
+     ],
+     [
+      "2026-09-21",
+      70.84
+     ],
+     [
+      "2026-09-22",
+      69.89
+     ],
+     [
+      "2026-09-23",
+      69.42
+     ],
+     [
+      "2026-09-24",
+      69.22
+     ],
+     [
+      "2026-09-25",
+      69.62
+     ],
+     [
+      "2026-09-28",
+      68.16
+     ],
+     [
+      "2026-09-29",
+      69.36
+     ],
+     [
+      "2026-09-30",
+      68.51
+     ],
+     [
+      "2026-10-01",
+      67.88
+     ],
+     [
+      "2026-10-02",
+      68.11
+     ],
+     [
+      "2026-10-05",
+      69.48
+     ],
+     [
+      "2026-10-06",
+      69.08
+     ],
+     [
+      "2026-10-07",
+      68.45
+     ],
+     [
+      "2026-10-08",
+      70.24
+     ],
+     [
+      "2026-10-09",
+      71.51
+     ],
+     [
+      "2026-10-12",
+      71.5
+     ],
+     [
+      "2026-10-13",
+      71.32
+     ],
+     [
+      "2026-10-14",
+      69.29
+     ],
+     [
+      "2026-10-15",
+      71.27
+     ],
+     [
+      "2026-10-16",
+      70.35
+     ]
+    ]
+   },
+   "NBIS": {
+    "label": "NBIS",
+    "data": [
+     [
+      "2026-07-20",
+      182.62
+     ],
+     [
+      "2026-07-21",
+      216.92
+     ],
+     [
+      "2026-07-22",
+      218.16
+     ],
+     [
+      "2026-07-23",
+      220.97
+     ],
+     [
+      "2026-07-24",
+      187.77
+     ],
+     [
+      "2026-07-27",
+      187.88
+     ],
+     [
+      "2026-07-28",
+      169.69
+     ],
+     [
+      "2026-07-29",
+      148.22
+     ],
+     [
+      "2026-07-30",
+      188.43
+     ],
+     [
+      "2026-07-31",
+      190.41
+     ],
+     [
+      "2026-08-03",
+      212.58
+     ],
+     [
+      "2026-08-04",
+      225.74
+     ],
+     [
+      "2026-08-05",
+      218.99
+     ],
+     [
+      "2026-08-06",
+      189.88
+     ],
+     [
+      "2026-08-07",
+      187.97
+     ],
+     [
+      "2026-08-10",
+      184.11
+     ],
+     [
+      "2026-08-11",
+      193.23
+     ],
+     [
+      "2026-08-12",
+      259.2
+     ],
+     [
+      "2026-08-13",
+      255.04
+     ],
+     [
+      "2026-08-14",
+      277.68
+     ],
+     [
+      "2026-08-17",
+      268.85
+     ],
+     [
+      "2026-08-18",
+      248.43
+     ],
+     [
+      "2026-08-19",
+      223.9
+     ],
+     [
+      "2026-08-20",
+      220.11
+     ],
+     [
+      "2026-08-21",
+      219.13
+     ],
+     [
+      "2026-08-24",
+      210.91
+     ],
+     [
+      "2026-08-25",
+      221.97
+     ],
+     [
+      "2026-08-26",
+      213.93
+     ],
+     [
+      "2026-08-27",
+      218.48
+     ],
+     [
+      "2026-08-28",
+      209.18
+     ],
+     [
+      "2026-08-31",
+      206.32
+     ],
+     [
+      "2026-09-01",
+      199.54
+     ],
+     [
+      "2026-09-02",
+      204.09
+     ],
+     [
+      "2026-09-03",
+      210.63
+     ],
+     [
+      "2026-09-04",
+      226.39
+     ],
+     [
+      "2026-09-08",
+      243.88
+     ],
+     [
+      "2026-09-09",
+      240.35
+     ],
+     [
+      "2026-09-10",
+      228.11
+     ],
+     [
+      "2026-09-11",
+      224.55
+     ],
+     [
+      "2026-09-14",
+      212.19
+     ],
+     [
+      "2026-09-15",
+      207.37
+     ],
+     [
+      "2026-09-16",
+      209.37
+     ],
+     [
+      "2026-09-17",
+      217.99
+     ],
+     [
+      "2026-09-18",
+      223.54
+     ],
+     [
+      "2026-09-21",
+      232.8
+     ],
+     [
+      "2026-09-22",
+      236.12
+     ],
+     [
+      "2026-09-23",
+      226.61
+     ],
+     [
+      "2026-09-24",
+      243.48
+     ],
+     [
+      "2026-09-25",
+      237.33
+     ],
+     [
+      "2026-09-28",
+      231.88
+     ],
+     [
+      "2026-09-29",
+      237.355
+     ],
+     [
+      "2026-09-30",
+      235.88
+     ],
+     [
+      "2026-10-01",
+      232.28
+     ],
+     [
+      "2026-10-02",
+      242.81
+     ],
+     [
+      "2026-10-05",
+      232.57
+     ],
+     [
+      "2026-10-06",
+      249.87
+     ],
+     [
+      "2026-10-07",
+      237.15
+     ],
+     [
+      "2026-10-08",
+      219.71
+     ],
+     [
+      "2026-10-09",
+      221.07
+     ],
+     [
+      "2026-10-12",
+      210.06
+     ],
+     [
+      "2026-10-13",
+      206.86
+     ],
+     [
+      "2026-10-14",
+      186.01
+     ],
+     [
+      "2026-10-15",
+      188.41
+     ],
+     [
+      "2026-10-16",
+      165.47
+     ]
+    ]
+   },
+   "COCO": {
+    "label": "COCO",
+    "data": [
+     [
+      "2026-07-20",
+      73.87
+     ],
+     [
+      "2026-07-21",
+      75.89
+     ],
+     [
+      "2026-07-22",
+      74.45
+     ],
+     [
+      "2026-07-23",
+      69.37
+     ],
+     [
+      "2026-07-24",
+      65.97
+     ],
+     [
+      "2026-07-27",
+      67.35
+     ],
+     [
+      "2026-07-28",
+      69.58
+     ],
+     [
+      "2026-07-29",
+      67.54
+     ],
+     [
+      "2026-07-30",
+      66.95
+     ],
+     [
+      "2026-07-31",
+      65.94
+     ],
+     [
+      "2026-08-03",
+      63.39
+     ],
+     [
+      "2026-08-04",
+      64.38
+     ],
+     [
+      "2026-08-05",
+      64.84
+     ],
+     [
+      "2026-08-06",
+      64.12
+     ],
+     [
+      "2026-08-07",
+      62.25
+     ],
+     [
+      "2026-08-10",
+      62.78
+     ],
+     [
+      "2026-08-11",
+      64.46
+     ],
+     [
+      "2026-08-12",
+      66.45
+     ],
+     [
+      "2026-08-13",
+      65.21
+     ],
+     [
+      "2026-08-14",
+      65.21
+     ],
+     [
+      "2026-08-17",
+      65.5
+     ],
+     [
+      "2026-08-18",
+      63.54
+     ],
+     [
+      "2026-08-19",
+      67.57
+     ],
+     [
+      "2026-08-20",
+      65.17
+     ],
+     [
+      "2026-08-21",
+      63.35
+     ],
+     [
+      "2026-08-24",
+      63.36
+     ],
+     [
+      "2026-08-25",
+      63.57
+     ],
+     [
+      "2026-08-26",
+      62.8
+     ],
+     [
+      "2026-08-27",
+      61.63
+     ],
+     [
+      "2026-08-28",
+      61.71
+     ],
+     [
+      "2026-08-31",
+      58.715
+     ],
+     [
+      "2026-09-01",
+      58.06
+     ],
+     [
+      "2026-09-02",
+      57.69
+     ],
+     [
+      "2026-09-03",
+      55.08
+     ],
+     [
+      "2026-09-04",
+      55.13
+     ],
+     [
+      "2026-09-08",
+      53.27
+     ],
+     [
+      "2026-09-09",
+      51.49
+     ],
+     [
+      "2026-09-10",
+      51.1
+     ],
+     [
+      "2026-09-11",
+      52.01
+     ],
+     [
+      "2026-09-14",
+      55.03
+     ],
+     [
+      "2026-09-15",
+      55.78
+     ],
+     [
+      "2026-09-16",
+      56.37
+     ],
+     [
+      "2026-09-17",
+      56.24
+     ],
+     [
+      "2026-09-18",
+      55.82
+     ],
+     [
+      "2026-09-21",
+      57.25
+     ],
+     [
+      "2026-09-22",
+      59.6
+     ],
+     [
+      "2026-09-23",
+      57.98
+     ],
+     [
+      "2026-09-24",
+      59.17
+     ],
+     [
+      "2026-09-25",
+      58.59
+     ],
+     [
+      "2026-09-28",
+      57.66
+     ],
+     [
+      "2026-09-29",
+      56.55
+     ],
+     [
+      "2026-09-30",
+      57.255
+     ],
+     [
+      "2026-10-01",
+      57.01
+     ],
+     [
+      "2026-10-02",
+      55.97
+     ],
+     [
+      "2026-10-05",
+      55.32
+     ],
+     [
+      "2026-10-06",
+      54.48
+     ],
+     [
+      "2026-10-07",
+      50.65
+     ],
+     [
+      "2026-10-08",
+      55.98
+     ],
+     [
+      "2026-10-09",
+      58.39
+     ],
+     [
+      "2026-10-12",
+      57.72
+     ],
+     [
+      "2026-10-13",
+      57.61
+     ],
+     [
+      "2026-10-14",
+      58.56
+     ],
+     [
+      "2026-10-15",
+      57.67
+     ],
+     [
+      "2026-10-16",
+      58.69
+     ]
+    ]
+   },
+   "PATH": {
+    "label": "PATH",
+    "data": [
+     [
+      "2026-07-20",
+      12.16
+     ],
+     [
+      "2026-07-21",
+      12.04
+     ],
+     [
+      "2026-07-22",
+      10.7
+     ],
+     [
+      "2026-07-23",
+      10.2
+     ],
+     [
+      "2026-07-24",
+      10.84
+     ],
+     [
+      "2026-07-27",
+      11.62
+     ],
+     [
+      "2026-07-28",
+      12.19
+     ],
+     [
+      "2026-07-29",
+      12.59
+     ],
+     [
+      "2026-07-30",
+      12.37
+     ],
+     [
+      "2026-07-31",
+      12.76
+     ],
+     [
+      "2026-08-03",
+      13.05
+     ],
+     [
+      "2026-08-04",
+      14.1
+     ],
+     [
+      "2026-08-05",
+      13.82
+     ],
+     [
+      "2026-08-06",
+      14.0
+     ],
+     [
+      "2026-08-07",
+      15.05
+     ],
+     [
+      "2026-08-10",
+      15.59
+     ],
+     [
+      "2026-08-11",
+      15.72
+     ],
+     [
+      "2026-08-12",
+      15.26
+     ],
+     [
+      "2026-08-13",
+      16.68
+     ],
+     [
+      "2026-08-14",
+      16.01
+     ],
+     [
+      "2026-08-17",
+      15.99
+     ],
+     [
+      "2026-08-18",
+      15.58
+     ],
+     [
+      "2026-08-19",
+      15.78
+     ],
+     [
+      "2026-08-20",
+      15.92
+     ],
+     [
+      "2026-08-21",
+      16.39
+     ],
+     [
+      "2026-08-24",
+      16.57
+     ],
+     [
+      "2026-08-25",
+      16.66
+     ],
+     [
+      "2026-08-26",
+      16.76
+     ],
+     [
+      "2026-08-27",
+      18.33
+     ],
+     [
+      "2026-08-28",
+      18.15
+     ],
+     [
+      "2026-08-31",
+      18.67
+     ],
+     [
+      "2026-09-01",
+      18.14
+     ],
+     [
+      "2026-09-02",
+      17.99
+     ],
+     [
+      "2026-09-03",
+      18.22
+     ],
+     [
+      "2026-09-04",
+      15.19
+     ],
+     [
+      "2026-09-08",
+      14.01
+     ],
+     [
+      "2026-09-09",
+      13.57
+     ],
+     [
+      "2026-09-10",
+      13.87
+     ],
+     [
+      "2026-09-11",
+      13.75
+     ],
+     [
+      "2026-09-14",
+      14.66
+     ],
+     [
+      "2026-09-15",
+      14.23
+     ],
+     [
+      "2026-09-16",
+      13.63
+     ],
+     [
+      "2026-09-17",
+      13.76
+     ],
+     [
+      "2026-09-18",
+      13.39
+     ],
+     [
+      "2026-09-21",
+      13.59
+     ],
+     [
+      "2026-09-22",
+      13.25
+     ],
+     [
+      "2026-09-23",
+      13.04
+     ],
+     [
+      "2026-09-24",
+      12.6
+     ],
+     [
+      "2026-09-25",
+      12.46
+     ],
+     [
+      "2026-09-28",
+      12.19
+     ],
+     [
+      "2026-09-29",
+      12.32
+     ],
+     [
+      "2026-09-30",
+      12.84
+     ],
+     [
+      "2026-10-01",
+      13.32
+     ],
+     [
+      "2026-10-02",
+      13.12
+     ],
+     [
+      "2026-10-05",
+      13.16
+     ],
+     [
+      "2026-10-06",
+      13.1
+     ],
+     [
+      "2026-10-07",
+      13.07
+     ],
+     [
+      "2026-10-08",
+      13.25
+     ],
+     [
+      "2026-10-09",
+      13.48
+     ],
+     [
+      "2026-10-12",
+      13.32
+     ],
+     [
+      "2026-10-13",
+      13.25
+     ],
+     [
+      "2026-10-14",
+      13.06
+     ],
+     [
+      "2026-10-15",
+      13.71
+     ],
+     [
+      "2026-10-16",
+      12.85
+     ]
+    ]
+   },
+   "^GSPC": {
+    "label": "S&P 500",
+    "data": [
+     [
+      "2026-07-20",
+      7443.2798
+     ],
+     [
+      "2026-07-21",
+      7509.2002
+     ],
+     [
+      "2026-07-22",
+      7498.96
+     ],
+     [
+      "2026-07-23",
+      7408.2998
+     ],
+     [
+      "2026-07-24",
+      7411.98
+     ],
+     [
+      "2026-07-27",
+      7413.1802
+     ],
+     [
+      "2026-07-28",
+      7428.7798
+     ],
+     [
+      "2026-07-29",
+      7316.1499
+     ],
+     [
+      "2026-07-30",
+      7437.6299
+     ],
+     [
+      "2026-07-31",
+      7489.7202
+     ],
+     [
+      "2026-08-03",
+      7600.5
+     ],
+     [
+      "2026-08-04",
+      7736.52
+     ],
+     [
+      "2026-08-05",
+      7723.5498
+     ],
+     [
+      "2026-08-06",
+      7709.96
+     ],
+     [
+      "2026-08-07",
+      7757.6401
+     ],
+     [
+      "2026-08-10",
+      7753.1099
+     ],
+     [
+      "2026-08-11",
+      7728.2002
+     ],
+     [
+      "2026-08-12",
+      7748.5
+     ],
+     [
+      "2026-08-13",
+      7798.9902
+     ],
+     [
+      "2026-08-14",
+      7785.7598
+     ],
+     [
+      "2026-08-17",
+      7745.0601
+     ],
+     [
+      "2026-08-18",
+      7691.7598
+     ],
+     [
+      "2026-08-19",
+      7707.98
+     ],
+     [
+      "2026-08-20",
+      7641.1602
+     ],
+     [
+      "2026-08-21",
+      7674.3701
+     ],
+     [
+      "2026-08-24",
+      7652.8599
+     ],
+     [
+      "2026-08-25",
+      7677.2798
+     ],
+     [
+      "2026-08-26",
+      7675.7002
+     ],
+     [
+      "2026-08-27",
+      7730.9902
+     ],
+     [
+      "2026-08-28",
+      7711.7598
+     ],
+     [
+      "2026-08-31",
+      7686.1401
+     ],
+     [
+      "2026-09-01",
+      7631.4702
+     ],
+     [
+      "2026-09-02",
+      7666.6001
+     ],
+     [
+      "2026-09-03",
+      7747.71
+     ],
+     [
+      "2026-09-04",
+      7718.6001
+     ],
+     [
+      "2026-09-08",
+      7673.52
+     ],
+     [
+      "2026-09-09",
+      7636.3599
+     ],
+     [
+      "2026-09-10",
+      7591.7002
+     ],
+     [
+      "2026-09-11",
+      7656.98
+     ],
+     [
+      "2026-09-14",
+      7619.98
+     ],
+     [
+      "2026-09-15",
+      7585.73
+     ],
+     [
+      "2026-09-16",
+      7551.8101
+     ],
+     [
+      "2026-09-17",
+      7637.7598
+     ],
+     [
+      "2026-09-18",
+      7650.5
+     ],
+     [
+      "2026-09-21",
+      7764.7002
+     ],
+     [
+      "2026-09-22",
+      7764.6401
+     ],
+     [
+      "2026-09-23",
+      7706.0298
+     ],
+     [
+      "2026-09-24",
+      7704.1299
+     ],
+     [
+      "2026-09-25",
+      7743.4102
+     ],
+     [
+      "2026-09-28",
+      7683.6899
+     ],
+     [
+      "2026-09-29",
+      7670.8398
+     ],
+     [
+      "2026-09-30",
+      7651.54
+     ],
+     [
+      "2026-10-01",
+      7666.4502
+     ],
+     [
+      "2026-10-02",
+      7722.7202
+     ],
+     [
+      "2026-10-05",
+      7773.9502
+     ],
+     [
+      "2026-10-06",
+      7818.9302
+     ],
+     [
+      "2026-10-07",
+      7801.77
+     ],
+     [
+      "2026-10-08",
+      7765.3599
+     ],
+     [
+      "2026-10-09",
+      7811.54
+     ],
+     [
+      "2026-10-12",
+      7807.2402
+     ],
+     [
+      "2026-10-13",
+      7805.4502
+     ],
+     [
+      "2026-10-14",
+      7718.9399
+     ],
+     [
+      "2026-10-15",
+      7744.0601
+     ],
+     [
+      "2026-10-16",
+      7659.4399
+     ]
+    ]
+   },
+   "^IXIC": {
+    "label": "Nasdaq",
+    "data": [
+     [
+      "2026-07-20",
+      25508.0703
+     ],
+     [
+      "2026-07-21",
+      25837.2109
+     ],
+     [
+      "2026-07-22",
+      25690.9004
+     ],
+     [
+      "2026-07-23",
+      25137.6895
+     ],
+     [
+      "2026-07-24",
+      24975.8203
+     ],
+     [
+      "2026-07-27",
+      24932.0801
+     ],
+     [
+      "2026-07-28",
+      24876.9102
+     ],
+     [
+      "2026-07-29",
+      24442.9395
+     ],
+     [
+      "2026-07-30",
+      25122.1797
+     ],
+     [
+      "2026-07-31",
+      25373.8496
+     ],
+     [
+      "2026-08-03",
+      25913.9004
+     ],
+     [
+      "2026-08-04",
+      26584.9902
+     ],
+     [
+      "2026-08-05",
+      26363.4395
+     ],
+     [
+      "2026-08-06",
+      26348.3496
+     ],
+     [
+      "2026-08-07",
+      26690.6191
+     ],
+     [
+      "2026-08-10",
+      26605.3594
+     ],
+     [
+      "2026-08-11",
+      26445.4492
+     ],
+     [
+      "2026-08-12",
+      26588.4902
+     ],
+     [
+      "2026-08-13",
+      26803.0293
+     ],
+     [
+      "2026-08-14",
+      26729.1602
+     ],
+     [
+      "2026-08-17",
+      26644.9102
+     ],
+     [
+      "2026-08-18",
+      26289.7109
+     ],
+     [
+      "2026-08-19",
+      26331.0898
+     ],
+     [
+      "2026-08-20",
+      26067.1699
+     ],
+     [
+      "2026-08-21",
+      26180.4609
+     ],
+     [
+      "2026-08-24",
+      25980.1895
+     ],
+     [
+      "2026-08-25",
+      26151.3008
+     ],
+     [
+      "2026-08-26",
+      26130.1992
+     ],
+     [
+      "2026-08-27",
+      26541.3496
+     ],
+     [
+      "2026-08-28",
+      26402.4199
+     ],
+     [
+      "2026-08-31",
+      26370.8906
+     ],
+     [
+      "2026-09-01",
+      26099.7695
+     ],
+     [
+      "2026-09-02",
+      26217.8301
+     ],
+     [
+      "2026-09-03",
+      26584.0605
+     ],
+     [
+      "2026-09-04",
+      26506.9902
+     ],
+     [
+      "2026-09-08",
+      26421.4102
+     ],
+     [
+      "2026-09-09",
+      26253.3398
+     ],
+     [
+      "2026-09-10",
+      26081.7207
+     ],
+     [
+      "2026-09-11",
+      26333.0391
+     ],
+     [
+      "2026-09-14",
+      26186.4102
+     ],
+     [
+      "2026-09-15",
+      25981.5703
+     ],
+     [
+      "2026-09-16",
+      25978.4297
+     ],
+     [
+      "2026-09-17",
+      26418.3008
+     ],
+     [
+      "2026-09-18",
+      26522.5391
+     ],
+     [
+      "2026-09-21",
+      27122.0898
+     ],
+     [
+      "2026-09-22",
+      27244.2793
+     ],
+     [
+      "2026-09-23",
+      26936.0391
+     ],
+     [
+      "2026-09-24",
+      26939.3691
+     ],
+     [
+      "2026-09-25",
+      27068.7207
+     ],
+     [
+      "2026-09-28",
+      26820.3809
+     ],
+     [
+      "2026-09-29",
+      26797.5391
+     ],
+     [
+      "2026-09-30",
+      26861.0605
+     ],
+     [
+      "2026-10-01",
+      26871.5996
+     ],
+     [
+      "2026-10-02",
+      27190.8594
+     ],
+     [
+      "2026-10-05",
+      27477.3105
+     ],
+     [
+      "2026-10-06",
+      27599.7891
+     ],
+     [
+      "2026-10-07",
+      27538.6895
+     ],
+     [
+      "2026-10-08",
+      27193.3398
+     ],
+     [
+      "2026-10-09",
+      27366.1699
+     ],
+     [
+      "2026-10-12",
+      27245.9004
+     ],
+     [
+      "2026-10-13",
+      27204.3809
+     ],
+     [
+      "2026-10-14",
+      26692.8691
+     ],
+     [
+      "2026-10-15",
+      26713.0293
+     ],
+     [
+      "2026-10-16",
+      26140.0293
+     ]
+    ]
+   },
+   "^TNX": {
+    "label": "US-Rendite 10 J. (%)",
+    "data": [
+     [
+      "2026-07-20",
+      4.598
+     ],
+     [
+      "2026-07-21",
+      4.628
+     ],
+     [
+      "2026-07-22",
+      4.657
+     ],
+     [
+      "2026-07-23",
+      4.703
+     ],
+     [
+      "2026-07-24",
+      4.679
+     ],
+     [
+      "2026-07-27",
+      4.641
+     ],
+     [
+      "2026-07-28",
+      4.604
+     ],
+     [
+      "2026-07-29",
+      4.622
+     ],
+     [
+      "2026-07-30",
+      4.663
+     ],
+     [
+      "2026-07-31",
+      4.745
+     ],
+     [
+      "2026-08-03",
+      4.686
+     ],
+     [
+      "2026-08-04",
+      4.627
+     ],
+     [
+      "2026-08-05",
+      4.617
+     ],
+     [
+      "2026-08-06",
+      4.67
+     ],
+     [
+      "2026-08-07",
+      4.66
+     ],
+     [
+      "2026-08-10",
+      4.699
+     ],
+     [
+      "2026-08-11",
+      4.684
+     ],
+     [
+      "2026-08-12",
+      4.682
+     ],
+     [
+      "2026-08-13",
+      4.641
+     ],
+     [
+      "2026-08-14",
+      4.696
+     ],
+     [
+      "2026-08-17",
+      4.724
+     ],
+     [
+      "2026-08-18",
+      4.706
+     ],
+     [
+      "2026-08-19",
+      4.653
+     ],
+     [
+      "2026-08-20",
+      4.696
+     ],
+     [
+      "2026-08-21",
+      4.738
+     ],
+     [
+      "2026-08-24",
+      4.704
+     ],
+     [
+      "2026-08-25",
+      4.639
+     ],
+     [
+      "2026-08-26",
+      4.664
+     ],
+     [
+      "2026-08-27",
+      4.672
+     ],
+     [
+      "2026-08-28",
+      4.72
+     ],
+     [
+      "2026-08-31",
+      4.758
+     ],
+     [
+      "2026-09-01",
+      4.796
+     ],
+     [
+      "2026-09-02",
+      4.796
+     ],
+     [
+      "2026-09-03",
+      4.762
+     ],
+     [
+      "2026-09-04",
+      4.784
+     ],
+     [
+      "2026-09-08",
+      4.806
+     ],
+     [
+      "2026-09-09",
+      4.837
+     ],
+     [
+      "2026-09-10",
+      4.944
+     ],
+     [
+      "2026-09-11",
+      4.975
+     ],
+     [
+      "2026-09-14",
+      4.961
+     ],
+     [
+      "2026-09-15",
+      4.996
+     ],
+     [
+      "2026-09-16",
+      5.006
+     ],
+     [
+      "2026-09-17",
+      4.947
+     ],
+     [
+      "2026-09-18",
+      4.998
+     ],
+     [
+      "2026-09-21",
+      4.963
+     ],
+     [
+      "2026-09-22",
+      4.968
+     ],
+     [
+      "2026-09-23",
+      5.114
+     ],
+     [
+      "2026-09-24",
+      5.162
+     ],
+     [
+      "2026-09-25",
+      5.184
+     ],
+     [
+      "2026-09-28",
+      5.24
+     ],
+     [
+      "2026-09-29",
+      5.255
+     ],
+     [
+      "2026-09-30",
+      5.293
+     ],
+     [
+      "2026-10-01",
+      5.237
+     ],
+     [
+      "2026-10-02",
+      5.277
+     ],
+     [
+      "2026-10-05",
+      5.311
+     ],
+     [
+      "2026-10-06",
+      5.269
+     ],
+     [
+      "2026-10-07",
+      5.277
+     ],
+     [
+      "2026-10-08",
+      5.231
+     ],
+     [
+      "2026-10-09",
+      5.244
+     ],
+     [
+      "2026-10-12",
+      5.24
+     ],
+     [
+      "2026-10-13",
+      5.217
+     ],
+     [
+      "2026-10-14",
+      5.19
+     ],
+     [
+      "2026-10-15",
+      5.089
+     ],
+     [
+      "2026-10-16",
+      5.098
+     ]
+    ]
+   },
+   "BZ=F": {
+    "label": "Brent ($/Barrel)",
+    "data": [
+     [
+      "2026-07-20",
+      89.22
+     ],
+     [
+      "2026-07-21",
+      91.01
+     ],
+     [
+      "2026-07-22",
+      94.07
+     ],
+     [
+      "2026-07-23",
+      100.69
+     ],
+     [
+      "2026-07-24",
+      96.78
+     ],
+     [
+      "2026-07-27",
+      88.36
+     ],
+     [
+      "2026-07-28",
+      84.09
+     ],
+     [
+      "2026-07-29",
+      90.74
+     ],
+     [
+      "2026-07-30",
+      89.03
+     ],
+     [
+      "2026-07-31",
+      90.12
+     ],
+     [
+      "2026-08-03",
+      83.77
+     ],
+     [
+      "2026-08-04",
+      79.36
+     ],
+     [
+      "2026-08-05",
+      79.45
+     ],
+     [
+      "2026-08-06",
+      82.49
+     ],
+     [
+      "2026-08-07",
+      83.55
+     ],
+     [
+      "2026-08-10",
+      87.72
+     ],
+     [
+      "2026-08-11",
+      88.91
+     ],
+     [
+      "2026-08-12",
+      88.98
+     ],
+     [
+      "2026-08-13",
+      87.07
+     ],
+     [
+      "2026-08-14",
+      88.52
+     ],
+     [
+      "2026-08-17",
+      90.87
+     ],
+     [
+      "2026-08-18",
+      91.02
+     ],
+     [
+      "2026-08-19",
+      91.62
+     ],
+     [
+      "2026-08-20",
+      93.78
+     ],
+     [
+      "2026-08-21",
+      94.39
+     ],
+     [
+      "2026-08-24",
+      92.17
+     ],
+     [
+      "2026-08-25",
+      88.58
+     ],
+     [
+      "2026-08-26",
+      87.84
+     ],
+     [
+      "2026-08-27",
+      89.7
+     ],
+     [
+      "2026-08-28",
+      89.31
+     ],
+     [
+      "2026-08-31",
+      90.49
+     ],
+     [
+      "2026-09-01",
+      94.65
+     ],
+     [
+      "2026-09-02",
+      95.63
+     ],
+     [
+      "2026-09-03",
+      95.52
+     ],
+     [
+      "2026-09-04",
+      96.28
+     ],
+     [
+      "2026-09-08",
+      97.92
+     ],
+     [
+      "2026-09-09",
+      101.21
+     ],
+     [
+      "2026-09-10",
+      107.63
+     ],
+     [
+      "2026-09-11",
+      104.61
+     ],
+     [
+      "2026-09-14",
+      105.68
+     ],
+     [
+      "2026-09-15",
+      108.75
+     ],
+     [
+      "2026-09-16",
+      105.83
+     ],
+     [
+      "2026-09-17",
+      104.82
+     ],
+     [
+      "2026-09-18",
+      103.87
+     ],
+     [
+      "2026-09-21",
+      100.34
+     ],
+     [
+      "2026-09-22",
+      99.25
+     ],
+     [
+      "2026-09-23",
+      103.08
+     ],
+     [
+      "2026-09-24",
+      106.6
+     ],
+     [
+      "2026-09-25",
+      104.32
+     ],
+     [
+      "2026-09-28",
+      105.28
+     ],
+     [
+      "2026-09-29",
+      102.59
+     ],
+     [
+      "2026-09-30",
+      103.53
+     ],
+     [
+      "2026-10-01",
+      102.31
+     ],
+     [
+      "2026-10-02",
+      102.25
+     ],
+     [
+      "2026-10-05",
+      100.32
+     ],
+     [
+      "2026-10-06",
+      100.58
+     ],
+     [
+      "2026-10-07",
+      100.2
+     ],
+     [
+      "2026-10-08",
+      104.28
+     ],
+     [
+      "2026-10-09",
+      104.72
+     ],
+     [
+      "2026-10-12",
+      106.65
+     ],
+     [
+      "2026-10-13",
+      105.69
+     ],
+     [
+      "2026-10-14",
+      106.06
+     ],
+     [
+      "2026-10-15",
+      105.92
+     ],
+     [
+      "2026-10-16",
+      109.86
+     ]
+    ]
+   },
+   "^DJI": {
+    "label": "Dow Jones",
+    "data": [
+     [
+      "2026-07-20",
+      51839.2617
+     ],
+     [
+      "2026-07-21",
+      52224.6406
+     ],
+     [
+      "2026-07-22",
+      52218.5781
+     ],
+     [
+      "2026-07-23",
+      51711.6484
+     ],
+     [
+      "2026-07-24",
+      51947.25
+     ],
+     [
+      "2026-07-27",
+      52210.0781
+     ],
+     [
+      "2026-07-28",
+      52747.3203
+     ],
+     [
+      "2026-07-29",
+      51594.1406
+     ],
+     [
+      "2026-07-30",
+      52208.0586
+     ],
+     [
+      "2026-07-31",
+      52485.0312
+     ],
+     [
+      "2026-08-03",
+      53178.4102
+     ],
+     [
+      "2026-08-04",
+      54085.8789
+     ],
+     [
+      "2026-08-05",
+      54349.1211
+     ],
+     [
+      "2026-08-06",
+      53885.1016
+     ],
+     [
+      "2026-08-07",
+      54036.9297
+     ],
+     [
+      "2026-08-10",
+      53975.9805
+     ],
+     [
+      "2026-08-11",
+      53791.8516
+     ],
+     [
+      "2026-08-12",
+      53770.2695
+     ],
+     [
+      "2026-08-13",
+      53839.9883
+     ],
+     [
+      "2026-08-14",
+      53732.4102
+     ],
+     [
+      "2026-08-17",
+      53459.7812
+     ],
+     [
+      "2026-08-18",
+      53343.3984
+     ],
+     [
+      "2026-08-19",
+      53463.0508
+     ],
+     [
+      "2026-08-20",
+      52759.2109
+     ],
+     [
+      "2026-08-21",
+      53277.0117
+     ],
+     [
+      "2026-08-24",
+      53417.1602
+     ],
+     [
+      "2026-08-25",
+      53577.3984
+     ],
+     [
+      "2026-08-26",
+      53463.8789
+     ],
+     [
+      "2026-08-27",
+      53569.4414
+     ],
+     [
+      "2026-08-28",
+      53559.9883
+     ],
+     [
+      "2026-08-31",
+      53185.8984
+     ],
+     [
+      "2026-09-01",
+      52766.8789
+     ],
+     [
+      "2026-09-02",
+      53061.9492
+     ],
+     [
+      "2026-09-03",
+      53686.1094
+     ],
+     [
+      "2026-09-04",
+      53414.25
+     ],
+     [
+      "2026-09-08",
+      52786.0703
+     ],
+     [
+      "2026-09-09",
+      52380.6602
+     ],
+     [
+      "2026-09-10",
+      52064.1016
+     ],
+     [
+      "2026-09-11",
+      52573.2891
+     ],
+     [
+      "2026-09-14",
+      52421.1992
+     ],
+     [
+      "2026-09-15",
+      52093.1094
+     ],
+     [
+      "2026-09-16",
+      51461.8984
+     ],
+     [
+      "2026-09-17",
+      51778.0391
+     ],
+     [
+      "2026-09-18",
+      51682.6406
+     ],
+     [
+      "2026-09-21",
+      52048.8281
+     ],
+     [
+      "2026-09-22",
+      51863.6914
+     ],
+     [
+      "2026-09-23",
+      51511.5898
+     ],
+     [
+      "2026-09-24",
+      51349.9805
+     ],
+     [
+      "2026-09-25",
+      51828.6211
+     ],
+     [
+      "2026-09-28",
+      51481.5117
+     ],
+     [
+      "2026-09-29",
+      51349.9219
+     ],
+     [
+      "2026-09-30",
+      50906.0508
+     ],
+     [
+      "2026-10-01",
+      50926.5586
+     ],
+     [
+      "2026-10-02",
+      51176.9609
+     ],
+     [
+      "2026-10-05",
+      51267.8984
+     ],
+     [
+      "2026-10-06",
+      51521.2812
+     ],
+     [
+      "2026-10-07",
+      51179.8711
+     ],
+     [
+      "2026-10-08",
+      51231.6406
+     ],
+     [
+      "2026-10-09",
+      51654.9492
+     ],
+     [
+      "2026-10-12",
+      51850.5508
+     ],
+     [
+      "2026-10-13",
+      51670.1016
+     ],
+     [
+      "2026-10-14",
+      51621.4805
+     ],
+     [
+      "2026-10-15",
+      52177.6914
+     ],
+     [
+      "2026-10-16",
+      52002.4102
+     ]
+    ]
+   },
+   "^VIX": {
+    "label": "VIX (Volatilität)",
+    "data": [
+     [
+      "2026-07-21",
+      17.05
+     ],
+     [
+      "2026-07-22",
+      16.64
+     ],
+     [
+      "2026-07-23",
+      18.7
+     ],
+     [
+      "2026-07-24",
+      18.58
+     ],
+     [
+      "2026-07-27",
+      18.67
+     ],
+     [
+      "2026-07-28",
+      18.21
+     ],
+     [
+      "2026-07-29",
+      20.66
+     ],
+     [
+      "2026-07-30",
+      17.09
+     ],
+     [
+      "2026-07-31",
+      15.99
+     ],
+     [
+      "2026-08-03",
+      15.86
+     ],
+     [
+      "2026-08-04",
+      16.5
+     ],
+     [
+      "2026-08-05",
+      15.81
+     ],
+     [
+      "2026-08-06",
+      15.15
+     ],
+     [
+      "2026-08-07",
+      14.9
+     ],
+     [
+      "2026-08-10",
+      15.46
+     ],
+     [
+      "2026-08-11",
+      15.28
+     ],
+     [
+      "2026-08-12",
+      14.55
+     ],
+     [
+      "2026-08-13",
+      14.63
+     ],
+     [
+      "2026-08-14",
+      14.25
+     ],
+     [
+      "2026-08-17",
+      15.19
+     ],
+     [
+      "2026-08-18",
+      15.84
+     ],
+     [
+      "2026-08-19",
+      14.89
+     ],
+     [
+      "2026-08-20",
+      16.01
+     ],
+     [
+      "2026-08-21",
+      15.13
+     ],
+     [
+      "2026-08-24",
+      15.85
+     ],
+     [
+      "2026-08-25",
+      15.45
+     ],
+     [
+      "2026-08-26",
+      15.21
+     ],
+     [
+      "2026-08-27",
+      14.51
+     ],
+     [
+      "2026-08-28",
+      14.43
+     ],
+     [
+      "2026-08-31",
+      14.92
+     ],
+     [
+      "2026-09-01",
+      16.34
+     ],
+     [
+      "2026-09-02",
+      15.2
+     ],
+     [
+      "2026-09-03",
+      14.32
+     ],
+     [
+      "2026-09-04",
+      14.53
+     ],
+     [
+      "2026-09-07",
+      15.3
+     ],
+     [
+      "2026-09-08",
+      15.72
+     ],
+     [
+      "2026-09-09",
+      16.46
+     ],
+     [
+      "2026-09-10",
+      17.84
+     ],
+     [
+      "2026-09-11",
+      15.84
+     ],
+     [
+      "2026-09-14",
+      17.1
+     ],
+     [
+      "2026-09-15",
+      17.2
+     ],
+     [
+      "2026-09-16",
+      17.71
+     ],
+     [
+      "2026-09-17",
+      15.44
+     ],
+     [
+      "2026-09-18",
+      14.81
+     ],
+     [
+      "2026-09-21",
+      14.87
+     ],
+     [
+      "2026-09-22",
+      14.21
+     ],
+     [
+      "2026-09-23",
+      15.18
+     ],
+     [
+      "2026-09-24",
+      15.67
+     ],
+     [
+      "2026-09-25",
+      14.87
+     ],
+     [
+      "2026-09-28",
+      16.07
+     ],
+     [
+      "2026-09-29",
+      16.04
+     ],
+     [
+      "2026-09-30",
+      16.34
+     ],
+     [
+      "2026-10-01",
+      16.39
+     ],
+     [
+      "2026-10-02",
+      15.31
+     ],
+     [
+      "2026-10-05",
+      15.52
+     ],
+     [
+      "2026-10-06",
+      15.01
+     ],
+     [
+      "2026-10-07",
+      15.08
+     ],
+     [
+      "2026-10-08",
+      15.41
+     ],
+     [
+      "2026-10-09",
+      14.84
+     ],
+     [
+      "2026-10-12",
+      15.21
+     ],
+     [
+      "2026-10-13",
+      15.27
+     ],
+     [
+      "2026-10-14",
+      16.87
+     ],
+     [
+      "2026-10-15",
+      16.46
+     ],
+     [
+      "2026-10-16",
+      19.99
+     ]
+    ]
+   }
+  }
+ }
+}

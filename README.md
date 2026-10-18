@@ -4,7 +4,7 @@ Statische Zeitungs-Webseite für das tägliche Aktien-Briefing. Layout: lange, v
 
 - `editions/YYYY-MM-DD.json` – eine Datei pro Ausgabe. Felder:
   - `date`, `headline`, `lead`
-  - `watchlist[]` – beobachtete Aktien, kein Depot (aktuell NBIS, CRWV, LMND, UBER, COCO), je Wert: `ticker`, `name`, `close`, `change` (= Kursveränderung seit letzter Ausgabe), `dir` (up/down), `figures` [[Bezeichnung, Wert], …] (Kennzahlen), `news` [Liste] (= Neuigkeiten seit letzter Ausgabe), `outlook` (= Ausblick, Absatz), `sources` [[Name, URL], …]
+  - `watchlist[]` – beobachtete Aktien, kein Depot (aktuell laut `watchlist.json`: LMND, CRWV, UBER, NBIS, COCO, PATH), je Wert: `ticker`, `name`, `close`, `change` (= Kursveränderung seit letzter Ausgabe), `dir` (up/down), `figures` [[Bezeichnung, Wert], …] (Kennzahlen), `news` [Liste] (= Neuigkeiten seit letzter Ausgabe), `outlook` (= Ausblick, Absatz), `sources` [[Name, URL], …]
   - `market[]` (Absätze Gesamtmarkt), `market_sources[]`
   - `macro[]` – Makro-Faktoren (Zinsen/Notenbanken, Inflation, Konjunkturdaten, Geopolitik/Öl/Rohstoffe, Zölle, Termine), je: `title`, `what` (was passiert), `effect` (Wirkung auf Markt & Watchlist), `next` (was das voraussichtlich bedeutet), `sources`
   - `ideas[]` – 3 Aktien, die vom KI-Hype noch NICHT profitiert haben, aber künftig profitieren könnten: `ticker`, `name`, `sector`, `why`
@@ -19,6 +19,25 @@ Statische Zeitungs-Webseite für das tägliche Aktien-Briefing. Layout: lange, v
 4. `python3 build.py` ausführen – erzeugt Inline-SVG-Grafiken (Sparklines, Balkendiagramm Tagesveränderung, 3-Monats-Charts je Aktie, Makro-Kacheln und -Charts); kein externes JavaScript.
 5. Screenshot (optional): `google-chrome --headless=new --no-sandbox --window-size=1100,16000 --screenshot=/tmp/full.png file://$PWD/index.html` und unten zuschneiden.
 6. Optional: neu zippen / hochladen (`cd /workspace && zip -r aktien-zeitung.zip aktien-zeitung`).
+
+## Sonntagsausgabe – Wochenausblick (`"type": "sunday"`)
+Sonntags erscheint statt der Tagesausgabe eine eigene Ausgabe „Sonntagsausgabe – Wochenausblick“ (eigene Datei im Archiv, Badge im Kopf und Archiv-Label). `build.py` erkennt sie am Feld `type` und rendert sie mit einer eigenen Vorlage (`sunday()`); Ausgaben ohne `type` werden unverändert als Tagesausgabe gebaut.
+
+Felder (`editions/YYYY-MM-DD.json`, Datum = Sonntag):
+- `date`, `type: "sunday"`, `headline`, `lead`, `theme` (kurzes „Thema der Woche“)
+- `week`: `{"from": "<Freitag Vorwoche>", "to": "<letzter Freitag>"}` – Wochenperformance = Schlusskurs `to` ggü. `from` (aus den Chartdaten berechnet)
+- `extra_symbols` (optional): zusätzliche Yahoo-Symbole für `fetch_charts.py`, z. B. `["^DJI", "^VIX"]`
+- `timezone_note`: Hinweis zur Zeitzone (MESZ/MEZ, Zeitumstellung)
+- `calendar[]`: je Tag `{"date", "items": [{"time", "cat", "title", "note", "src": [[Name, URL], …]}]}`; `cat` ∈ `fed` (Notenbanken), `data` (Konjunktur), `earn` (Quartalszahlen), `watch` (Watchlist-Termin), `pol` (Politik/Trump), `geo` (Geopolitik/Handel), `ipo`. Daraus entstehen Termin-Dichte-Grafik, Wochenkalender-Kacheln und die Detailliste.
+- `lookahead[]`: `[Datum, Text, [Quelle, URL]]` – wichtige Termine nach der Woche
+- `watchlist[]`: `ticker`, `name`, `note` (1–2 Sätze, was die Woche bewegt hat), `sources`
+- `review_market[]` (Absätze Gesamtmarkt), `review_sources[]`
+- `ideas_intro`, `trade_ideas[]`: `title`, `scenario`, `assets`, `direction`, `trigger`, `risks`, `invalidation` (Entkräftung), `sources` – mit prominentem Hinweis „Keine Anlageberatung“
+- `charts`: wie bei der Tagesausgabe (von `fetch_charts.py`; warnt, wenn der letzte Kurs nicht `week.to` entspricht)
+
+Grafiken: Wochen-Kacheln mit Sparklines, Termin-Dichte (gestapelte Balken je Tag/Kategorie), Wochenkalender, Balkendiagramm Wochenperformance (inkl. Indizes), indexierter Wochenverlauf, Tabelle (inkl. Brent, 10-J.-Rendite in Basispunkten, VIX), 3-Monats-Chart je Aktie.
+
+Ablauf: JSON anlegen → `python3 fetch_charts.py <Sonntagsdatum>` → `python3 build.py` → committen/pushen.
 
 ## Veröffentlichen (GitHub Pages)
 Repo: `https://github.com/adb15062001/limitless-journal` (öffentlich), Pages aus Branch `main`, Ordner `/` (root).
