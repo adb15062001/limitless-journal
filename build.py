@@ -27,7 +27,7 @@ h2{font-size:48px;line-height:1.1;margin:8px 0 6px}
 h3{font-size:30px;margin:28px 0 8px}
 .price{font-family:Helvetica,Arial,sans-serif;font-size:34px;font-weight:bold;margin:8px 0 22px}
 .price small{font-size:17px;font-weight:normal;color:#444;display:block;letter-spacing:1px;text-transform:uppercase}
-.down{color:#a40000}.up{color:#0b6b0b}
+.down{color:#a40000}.up{color:#0b6b0b}.newbadge{display:inline-block;background:#b36b00;color:#fff;font:700 13px/1 sans-serif;letter-spacing:.05em;text-transform:uppercase;padding:6px 9px;margin:0 0 10px}
 table.fig{width:100%;border-collapse:collapse;font-family:Helvetica,Arial,sans-serif;font-size:18px;margin:6px 0 10px}
 table.fig td{padding:9px 6px;border-bottom:1px dotted #888}
 table.fig td:last-child{text-align:right;font-weight:bold}
@@ -153,16 +153,17 @@ def edition(d, pre):
         h += f'<div class="tile"><div class="t">{e(x["ticker"])}</div><div class="v">{e(x["close"])}</div>{tag(dc) if dc is not None else e(x["change"])}{spark(sd[-30:])}</div>'
     h += "</div></div>"
     bars = [(x["ticker"], pct(series(d, x["ticker"])[-2][1], series(d, x["ticker"])[-1][1])) for x in H if len(series(d, x["ticker"])) > 1]
-    if bars: h += '<section><div class="label">Watchlist im Überblick</div><h2>Tagesveränderung</h2>' + barchart(bars) + '<p class="chartnote">Veränderung zum Vortagesschluss. Daten: Yahoo Finance.</p></section>' 
+    if bars: h += f'<section><div class="label">Watchlist im Überblick</div><h2>{e(d.get("bar_title", "Tagesveränderung"))}</h2>' + barchart(bars) + f'<p class="chartnote">{e(d.get("bar_note", "Veränderung zum Vortagesschluss. Daten: Yahoo Finance."))}</p></section>' 
     for x in H:
-        h += f'<section><div class="label">Watchlist · {e(x["ticker"])}</div><h2><span class="badge">{e(x["ticker"][:4])}</span>{e(x["name"])}</h2>'
+        nb = '<span class="newbadge">NEU auf der Watchlist</span>' if x.get("new") else ""
+        h += f'<section><div class="label">Watchlist · {e(x["ticker"])}</div><h2><span class="badge">{e(x["ticker"][:4])}</span>{e(x["name"])}</h2>{nb}'
         h += f'<div class="price"><small>Schlusskurs · Kursveränderung seit letzter Ausgabe</small>{e(x["close"])} <span class="{x["dir"]}">{e(x["change"])}</span></div>'
         h += linechart(series(d, x["ticker"]), f'{x["name"]} – Schlusskurse 3 Monate, $')
         if x.get("figures"): h += '<h3>Kennzahlen</h3><table class="fig">' + "".join(f"<tr><td>{e(k)}</td><td>{e(v)}</td></tr>" for k,v in x["figures"]) + "</table>"
         news = x["news"] if isinstance(x["news"], list) else [x["news"]]
         h += '<h3>Neuigkeiten seit der letzten Ausgabe</h3><ul class="news">' + "".join(f"<li>{e(n)}</li>" for n in news) + "</ul>"
         h += f'<h3>Ausblick</h3><p class="outlook">{e(x["outlook"])}</p></section>'
-    h += '<section><div class="label">Der Gesamtmarkt</div><h2>Wall Street am Freitag</h2>' + "".join(f"<p>{e(m)}</p>" for m in d["market"]) + "</section>"
+    h += f'<section><div class="label">Der Gesamtmarkt</div><h2>{e(d.get("market_title", "Wall Street am Freitag"))}</h2>' + "".join(f"<p>{e(m)}</p>" for m in d["market"]) + "</section>"
     if d.get("macro"):
         h += '<section><div class="label">Makro</div><h2>Was die Kurse bewegt</h2>'
         ms = [(k, v) for k, v in (d.get("charts") or {}).get("series", {}).items() if k.startswith("^") or "=" in k]
@@ -176,8 +177,8 @@ def edition(d, pre):
             h += f'<div class="macro"><h3>{e(m["title"])}</h3><dl><dt>Was passiert</dt><dd>{e(m["what"])}</dd><dt>Wirkung auf Markt &amp; Watchlist</dt><dd>{e(m["effect"])}</dd><dt>Was das voraussichtlich bedeutet</dt><dd>{e(m["next"])}</dd></dl></div>'
         h += "</section>"
     h += '<section><div class="label">Drei Ideen</div><h2>Noch nicht vom KI-Hype erfasst – mit Potenzial</h2>'
-    h += "".join(f'<div class="idea"><h3>{e(i["name"])} ({e(i["ticker"])})</h3><div class="sec">{e(i["sector"])}</div><p>{e(i["why"])}</p></div>' for i in d["ideas"]) + "</section>"
-    groups0 = [(f'{x["name"]} ({x["ticker"]})', x.get("sources", [])) for x in H] + [("Gesamtmarkt", d.get("market_sources", []))] + [(f'Makro: {m["title"]}', m.get("sources", [])) for m in d.get("macro", [])]
+    h += "".join(f'<div class="idea"><h3>{e(i["name"])} ({e(i["ticker"])})</h3><div class="sec">{e(i["sector"])}</div><p>{e(i["why"])}</p>' + (f'<p class="chartnote">Quellen: {srclinks(i["sources"])}</p>' if i.get("sources") else "") + '</div>' for i in d["ideas"]) + '<p class="chartnote"><b>Keine Anlageberatung.</b> Die Ideen sind unverbindliche, automatisch erstellte Einschätzungen auf Basis öffentlicher Quellen – keine Aufforderung zum Kauf oder Verkauf.</p></section>'
+    groups0 = [(f'{x["name"]} ({x["ticker"]})', x.get("sources", [])) for x in H] + [("Gesamtmarkt", d.get("market_sources", []))] + [(f'Makro: {m["title"]}', m.get("sources", [])) for m in d.get("macro", [])] + [(f'Idee: {i["name"]} ({i["ticker"]})', i.get("sources", [])) for i in d.get("ideas", [])]
     groups = groups0 + ([("Charts", [((d.get("charts") or {}).get("source","Yahoo Finance"), "https://finance.yahoo.com/")])] if d.get("charts") else [])
     h += '<section class="sources"><div class="label">Quellen</div>'
     for g, l in groups:
