@@ -1,0 +1,4040 @@
+{
+ "date": "2026-11-02",
+ "headline": "Intel-Schock und Neocloud-Ausverkauf: Nebius −10 %, CoreWeave −10 %, Lemonade auf Jahrestief – jetzt beginnt mit Apple, Midterms und Uber die Wahlwoche, Öl fällt dank Iran-Gesprächen um 3 %",
+ "lead": "Der Oktober endete mit dem schwächsten Tag des S&P 500 seit Juni (−1,8 %): Intel stürzte nach einer schwachen Prognose um 28,6 % ab – teurer Speicher würgt das PC-Geschäft ab –, der Chipindex SOX fiel um 7,2 %, der Nasdaq um 2,9 %. In der Watchlist verloren Nebius (−10,4 %) und CoreWeave (−9,7 %) am stärksten, Lemonade (−6,5 %) markierte ein neues 52-Wochen-Tief, Micron gab 5,3 % ab; Vita Coco (+3,9 %) profitierte als einziger Wert von der Flucht in defensive Konsumtitel. Drei Fed-Mitglieder werben für weitere Zinserhöhungen, der Markt preist den Dezember zu 73 % ein. Zum Wochenstart steigen die Futures, und Brent fällt um rund 3 % auf etwa 110 $, weil der Iran mit Katar über ein Kriegsende verhandelt. Jetzt folgen Apple (heute), die Midterms (Di.), Uber (Mi.), Lemonade (Do.) und der Arbeitsmarktbericht (Fr.). Keine Anlageberatung.",
+ "bar_title": "Freitag, 30.10., gegenüber Donnerstag, 29.10.",
+ "bar_note": "Schlusskurse vom Freitag, 30.10.2026 (letzter Handelstag vor dieser Ausgabe), verglichen mit den Schlusskursen der letzten Tagesausgabe (Donnerstag, 29.10.). Nachbörsliche Bewegungen und der Wochenendhandel sind nicht enthalten – sie stehen in den Aktienabschnitten.",
+ "market_title": "Die Märkte: Intels Rekordabsturz, ein 5-Billionen-Ausverkauf im KI-Sektor – und Erholung in den Futures",
+ "watchlist": [
+  {
+   "ticker": "LMND",
+   "name": "Lemonade",
+   "close": "42,94 $",
+   "change": "−6,47 %",
+   "dir": "down",
+   "figures": [
+    [
+     "Kursveränderung seit letzter Ausgabe",
+     "−6,47 % (Freitag ggü. Donnerstag, 45,91 $ → 42,94 $)"
+    ],
+    [
+     "Eröffnung / Hoch / Tief (Fr.)",
+     "44,49 $ / 44,97 $ / 42,53 $ (neues 52-Wochen-Tief)"
+    ],
+    [
+     "Volumen Freitag",
+     "1,39 Mio. (Ø 20 Tage 1,10 Mio.)"
+    ],
+    [
+     "Nachbörslich (Fr.)",
+     "44,44 $ (+3,5 %, StockAnalysis)"
+    ],
+    [
+     "52-Wochen-Spanne",
+     "42,53 $ – 99,90 $ (Kursentwicklung 52 Wochen −29,3 %)"
+    ],
+    [
+     "Marktkapitalisierung / Unternehmenswert",
+     "3,32 Mrd. $ / 3,18 Mrd. $"
+    ],
+    [
+     "Umsatz / Nettoverlust (12 Monate)",
+     "975,0 Mio. $ / −138,4 Mio. $; freier Cashflow +8,1 Mio. $"
+    ],
+    [
+     "Nettoliquidität",
+     "141,2 Mio. $ (Barmittel 376,8 Mio. $, Schulden 226,4 Mio. $)"
+    ],
+    [
+     "Kurs-Umsatz-Verhältnis (TTM / erwartet)",
+     "3,41 / 2,33"
+    ],
+    [
+     "50-/200-Tage-Linie",
+     "47,87 $ / 58,41 $; RSI 38,1"
+    ],
+    [
+     "Short Interest",
+     "16,20 % des Streubesitzes (9,7 Tage zur Eindeckung)"
+    ],
+    [
+     "Beta (5 Jahre)",
+     "1,87"
+    ],
+    [
+     "Konsens Q3 (Zacks)",
+     "Verlust je Aktie −0,60 $, Umsatz 322,1 Mio. $ (+65,6 %)"
+    ],
+    [
+     "Ø Analysten-Kursziel (StockAnalysis)",
+     "58,44 $ („Hold“, 11 Analysten, +36,1 %)"
+    ],
+    [
+     "Quartalszahlen Q3",
+     "Do., 5. November 2026, vorbörslich (Telefonkonferenz 14:00 Uhr MEZ)"
+    ]
+   ],
+   "news": [
+    "Lemonade war am Freitag der zweitschwächste Wert der Watchlist: Die Aktie fiel um 6,47 % auf 42,94 $ und markierte mit 42,53 $ im Verlauf ein neues 52-Wochen-Tief. Schon die Eröffnung (44,49 $) lag deutlich unter dem Donnerstagsschluss; das Volumen war mit 1,39 Mio. Aktien rund ein Viertel höher als im 20-Tage-Schnitt. Seit dem Hoch von 99,90 $ hat die Aktie damit mehr als die Hälfte ihres Werts verloren (24/7 Wall St.). Eine eigene Unternehmensmeldung gab es nicht – der Abschlag kam mit dem breiten Ausverkauf bei Wachstumswerten (Nasdaq −2,86 %).",
+    "Erholung im nachbörslichen Handel: Laut StockAnalysis stieg Lemonade nach Börsenschluss auf 44,44 $ (+3,5 %). Auch die US-Futures notieren heute früh im Plus (Nasdaq-100 rund +0,9 %), sodass sich der Freitagsverlust zum Wochenstart teilweise wieder aufholen könnte. Über das Wochenende gab es keine Nachrichten des Unternehmens.",
+    "Zinsen und Fed: Drei Fed-Mitglieder warben am Freitag für weitere Erhöhungen – Dallas-Fed-Chefin Lorie Logan hält „mindestens zwei weitere“ Schritte um 0,25 Prozentpunkte für nötig. Laut CME FedWatch liegt die Wahrscheinlichkeit einer Erhöhung im Dezember bei rund 73 %. Positiv für Wachstumswerte: Die zehnjährige US-Rendite fiel am Freitag auf 4,93 % (Anfang Oktober über 5,30 %), weil Anleger in sichere Staatsanleihen flüchteten.",
+    "Vor den Zahlen am Donnerstag: Zacks erwartet einen Verlust von 0,60 $ je Aktie und 322,1 Mio. $ Umsatz (+65,6 %). Der Leerverkaufsanteil liegt mit 16,2 % des Streubesitzes hoch, die Zahl der leerverkauften Aktien stieg gegenüber dem Vormonat von 10,85 auf 11,63 Mio. – die Skepsis vor dem Termin wächst."
+   ],
+   "outlook": "Lemonade geht mit einem neuen Jahrestief und knapp 10 Tagen Eindeckungsdauer in die Zahlenwoche – eine Konstellation, die am Donnerstag in beide Richtungen große Ausschläge erwarten lässt. Überzeugen Wachstum der Bestandsprämien, Bruttogewinn und der Weg zum positiven bereinigten EBITDA, kann eine Eindeckungsrally einsetzen; erste Hürde wäre die Zone um 45,30–46,50 $, in der die Aktie zuvor eine Woche lang pendelte, danach die 50-Tage-Linie bei 47,87 $. Enttäuscht das Quartal (etwa durch höhere Schadenquoten oder eine schwächere Prognose), fehlt unterhalb von 42,53 $ eine klare Unterstützung. Vorher prägen die Midterms (Di.), Ubers Zahlen (Mi.) und der Arbeitsmarktbericht (Fr.) die Stimmung für Wachstumswerte; die nachbörsliche Erholung vom Freitag (+3,5 %) und freundliche Futures sprechen für einen festeren Start.",
+   "sources": [
+    [
+     "Investing.com – Lemonade auf 52-Wochen-Tief",
+     "https://www.investing.com/news/company-news/lemonade-stock-hits-52week-low-at-4265-usd-93CH-4988506"
+    ],
+    [
+     "24/7 Wall St. – Lemonade mehr als halbiert seit dem Hoch",
+     "https://247wallst.com/cards/lemonade-just-carved-a-new-52-week-low-at-42-94-0-49-unde-lmnd-price-extreme-01m67kc6j4qs7z6btem2t75bq1"
+    ],
+    [
+     "Yahoo Finance (Zacks) – Lemonade vor den Q3-Zahlen",
+     "https://finance.yahoo.com/markets/stocks/articles/lemonade-lmnd-expected-beat-earnings-130033141.html"
+    ],
+    [
+     "PR Newswire – Lemonade Q3-Termin",
+     "https://www.prnewswire.com/news-releases/lemonade-to-announce-third-quarter-2026-financial-results-302912804.html"
+    ],
+    [
+     "Investing.com (Reuters) – Logan: mindestens zwei weitere Zinserhöhungen",
+     "https://www.investing.com/news/economic-indicators/fed-needs-at-least-two-more-rate-hikes-logan-says-4988462"
+    ],
+    [
+     "CNBC (Reuters) – Gold erholt sich, 73 % Wahrscheinlichkeit für Dezember-Erhöhung",
+     "https://www.cnbc.com/2026/11/02/gold-rises-on-softer-oil-markets-parse-fed-signals.html"
+    ],
+    [
+     "StockAnalysis – Kennzahlen",
+     "https://stockanalysis.com/stocks/lmnd/statistics/"
+    ],
+    [
+     "Yahoo Finance – Kursdaten",
+     "https://finance.yahoo.com/quote/LMND/history/"
+    ]
+   ]
+  },
+  {
+   "ticker": "CRWV",
+   "name": "CoreWeave",
+   "close": "54,87 $",
+   "change": "−9,66 %",
+   "dir": "down",
+   "figures": [
+    [
+     "Kursveränderung seit letzter Ausgabe",
+     "−9,66 % (Freitag ggü. Donnerstag, 60,74 $ → 54,87 $)"
+    ],
+    [
+     "Eröffnung / Hoch / Tief (Fr.)",
+     "56,12 $ / 56,90 $ / 53,48 $"
+    ],
+    [
+     "Volumen Freitag",
+     "53,3 Mio. (Ø 20 Tage 60,4 Mio.)"
+    ],
+    [
+     "Nachbörslich (Fr.)",
+     "55,16 $ (+0,5 %)"
+    ],
+    [
+     "52-Wochen-Spanne",
+     "51,24 $ – 138,25 $ (Abstand zum Tief +7,1 %, zum Hoch −60,3 %)"
+    ],
+    [
+     "Oktober-Bilanz",
+     "−37,0 % (YieldCove)"
+    ],
+    [
+     "Marktkapitalisierung / Unternehmenswert",
+     "30,26 Mrd. $ / 76,29 Mrd. $"
+    ],
+    [
+     "Schulden & Leasing (30.6.)",
+     "35,07 Mrd. $ Kredite + 16,54 Mrd. $ Leasing = 51,61 Mrd. $; Barmittel 5,52 Mrd. $"
+    ],
+    [
+     "Zinslast (Q2)",
+     "Nettozinsaufwand 640 Mio. $ = 24,9 % des Quartalsumsatzes (2,575 Mrd. $)"
+    ],
+    [
+     "Umsatz / EBITDA (12 Monate)",
+     "7,59 Mrd. $ / 3,79 Mrd. $; Bruttomarge 67,4 %"
+    ],
+    [
+     "Freier Cashflow (12 Monate)",
+     "−13,66 Mrd. $ (Investitionen 20,57 Mrd. $)"
+    ],
+    [
+     "Kreditausfall-Swaps (5 Jahre)",
+     "rund 1.145 Basispunkte (CNBC, 21.10.)"
+    ],
+    [
+     "50-/200-Tage-Linie",
+     "79,45 $ / 91,35 $; RSI 33,4"
+    ],
+    [
+     "Short Interest",
+     "21,25 % des Streubesitzes (69,8 Mio. Aktien, Vormonat 60,0 Mio.)"
+    ],
+    [
+     "Ø Analysten-Kursziel (StockAnalysis)",
+     "134,58 $ („Buy“, 42 Analysten); Morgan Stanley 70 $, Goldman 106 $"
+    ],
+    [
+     "Nächste Quartalszahlen",
+     "Di., 10. November 2026, nach US-Börsenschluss (bestätigt)"
+    ]
+   ],
+   "news": [
+    "CoreWeave fiel am Freitag um 9,66 % auf 54,87 $ und damit nur noch rund 7 % über dem Jahrestief (51,24 $). Die Aktie eröffnete nach den Amazon-Zahlen schon deutlich tiefer (56,12 $), erholte sich kaum (Hoch 56,90 $) und rutschte bis 53,48 $ ab. Damit endete der Oktober mit einem Minus von 37,0 %; vom Hoch bei 138,25 $ ist die Aktie rund 60 % entfernt. Auslöser war die Kombination aus Amazons negativem freiem Cashflow (−42,4 Mrd. $ in zwölf Monaten), Intels Prognose-Schock (−28,6 %) und Microsofts Investitionen von 45,2 Mrd. $, die unter den erwarteten 50,7 Mrd. $ lagen – Microsoft begründete das mit Verzögerungen bei Drittanbieter-Kapazitäten.",
+    "Finanzierung bleibt das Kernthema: Eine Wochenend-Analyse von YieldCove stellt die Bilanz zum 30. Juni auseinander – 35,07 Mrd. $ Kredite plus 16,54 Mrd. $ Leasingverbindlichkeiten ergeben die oft zitierten rund 52 Mrd. $, dem stehen 5,52 Mrd. $ Barmittel gegenüber. Der Nettozinsaufwand stieg im zweiten Quartal auf 640 Mio. $ (Vorjahr 267 Mio. $), das sind knapp 25 % des Umsatzes; der Nettoverlust weitete sich auf 626 Mio. $ aus, obwohl der Umsatz um 112 % auf 2,575 Mrd. $ wuchs. Positiv: Am 27.10. meldete CoreWeave, dass der Großteil der 22,5 MW im Kopenhagener Rechenzentrum DEN01 in Betrieb ist.",
+    "Optionsmarkt und Analysten: Laut YieldCove preisen Put-Optionen mit Strike 50 $ für den 13. November (also über die Zahlen am 10.11. hinweg) eine implizite Volatilität von rund 133 % ein – der Markt rechnet mit sehr großen Ausschlägen. Morgan Stanley hatte das Kursziel am 23.10. von 99 auf 70 $ gesenkt (Equal-weight) und die unsichere Finanzierung des Ausbaus genannt. Laut FactSet erwarten Analysten für das dritte Quartal einen negativen freien Cashflow von rund 10,1 Mrd. $ – so viel wie nie zuvor.",
+    "Wochenendlage: Die Futures auf den Nasdaq 100 stiegen am Sonntagabend und heute früh um bis zu 0,9 %; nachbörslich hatte sich CoreWeave am Freitag bereits leicht auf 55,16 $ erholt. Gegenwind kommt aus Asien: Der japanische Speicherhersteller Kioxia fiel heute um rund 14 %, nachdem er vor stagnierenden Flash-Preisen gewarnt hatte – ein weiteres Signal, dass Teile der KI-Lieferkette ihren Höhepunkt erreicht haben könnten."
+   ],
+   "outlook": "CoreWeave startet mit nur noch rund 7 % Abstand zum Jahrestief (51,24 $) in eine Woche, in der Apple (Mo.), AMD (Di.) und der Arbeitsmarktbericht (Fr.) die Stimmung im KI-Sektor bestimmen. Der Optionsmarkt zeigt, dass Anleger für die Zahlen am 10. November extreme Bewegungen erwarten; bis dahin hängt die Aktie an Finanzierungsnachrichten und den Anleihekursen. Eine freundliche Reaktion auf Apple/AMD und weiter fallende Renditen (10 Jahre zuletzt 4,93 %) könnten eine technische Gegenbewegung Richtung 60 $ auslösen – der hohe Leerverkaufsanteil (21 %) verstärkt solche Bewegungen. Fällt das Jahrestief, wäre charttechnisch Raum nach unten frei. Wichtigste Risiken: Zinsaufwand von einem Viertel des Umsatzes, weitere Fed-Erhöhungen (Dezember zu rund 73 % eingepreist), Kundenkonzentration und das Vertrauen des Kreditmarkts (CDS über 1.100 Basispunkte). Neutrale Kennzahl zum Einordnen: Altman-Z-Score 0,29.",
+   "sources": [
+    [
+     "YieldCove – CoreWeave fällt 9,66 %: Wachstum im Finanzierungstest",
+     "https://yieldcove.com/en/news/coreweave-november-10-funding-debt-lease-options-november-1-2026"
+    ],
+    [
+     "CNBC – CoreWeave: Vertrauenskrise bei Aktie und Anleihen",
+     "https://www.cnbc.com/2026/10/21/coreweaves-market-confidence-erodes-as-bond-yields-spike-stock-sinks.html"
+    ],
+    [
+     "Investing.com – Morgan Stanley senkt Kursziel für CoreWeave",
+     "https://www.investing.com/news/analyst-ratings/morgan-stanley-cuts-coreweave-stock-price-target-on-financing-concerns-93CH-4968818"
+    ],
+    [
+     "CNBC – Amazon und Intel fallen nach den Zahlen",
+     "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html"
+    ],
+    [
+     "StreetInsider – Neoclouds unter Druck nach Big-Tech-Zahlen",
+     "https://www.streetinsider.com/Investing/Nebius+shares+fall+as+Big+Tech+earnings+fuel+AI+spending+concerns/27263509.html"
+    ],
+    [
+     "Fortune (AP) – Intel −28,6 %, S&P 500 mit schwächstem Tag seit Juni",
+     "https://fortune.com/2026/10/30/intel-worst-drop-since-1974-sp-500-worst-day-since-june-ai-selloff/"
+    ],
+    [
+     "CNBC – Live-Blog 1./2.11.",
+     "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html"
+    ],
+    [
+     "StockAnalysis – Kennzahlen",
+     "https://stockanalysis.com/stocks/crwv/statistics/"
+    ],
+    [
+     "Yahoo Finance – Kursdaten",
+     "https://finance.yahoo.com/quote/CRWV/history/"
+    ]
+   ]
+  },
+  {
+   "ticker": "UBER",
+   "name": "Uber",
+   "close": "65,25 $",
+   "change": "−0,75 %",
+   "dir": "down",
+   "figures": [
+    [
+     "Kursveränderung seit letzter Ausgabe",
+     "−0,75 % (Freitag ggü. Donnerstag, 65,74 $ → 65,25 $)"
+    ],
+    [
+     "Eröffnung / Hoch / Tief (Fr.)",
+     "65,61 $ / 65,80 $ / 64,68 $"
+    ],
+    [
+     "Volumen Freitag",
+     "17,9 Mio. (Ø 20 Tage 16,1 Mio.)"
+    ],
+    [
+     "Nachbörslich (Fr.)",
+     "65,33 $ (+0,1 %)"
+    ],
+    [
+     "52-Wochen-Spanne",
+     "64,04 $ – 100,35 $ (Abstand zum Tief +1,9 %, zum Hoch −35,0 %)"
+    ],
+    [
+     "Marktkapitalisierung / Unternehmenswert",
+     "133,28 Mrd. $ / 138,02 Mrd. $"
+    ],
+    [
+     "KGV (TTM / erwartet)",
+     "14,2 / 16,1; PEG 0,59"
+    ],
+    [
+     "Umsatz / Nettogewinn (12 Monate)",
+     "55,23 Mrd. $ / 9,58 Mrd. $"
+    ],
+    [
+     "Freier Cashflow (12 Monate)",
+     "10,12 Mrd. $ (Rendite 7,6 %)"
+    ],
+    [
+     "Aktienrückkauf",
+     "Aktienzahl −2,3 % in einem Jahr"
+    ],
+    [
+     "50-/200-Tage-Linie",
+     "71,21 $ / 73,34 $; RSI 35,8"
+    ],
+    [
+     "Short Interest",
+     "2,40 % des Streubesitzes"
+    ],
+    [
+     "Konsens Q3",
+     "Gewinn je Aktie 0,90 $ (AlphaStreet, 31 Analysten; Spanne 0,79–1,13 $) bzw. 0,94 $ (Zacks); Umsatz 14,67–14,74 Mrd. $"
+    ],
+    [
+     "Ø Analysten-Kursziel (StockAnalysis)",
+     "100,86 $ („Buy“, 50 Analysten, +54,6 %)"
+    ],
+    [
+     "Nächste Quartalszahlen",
+     "Mi., 4. November 2026, vorbörslich (Telefonkonferenz 14:00 Uhr MEZ)"
+    ]
+   ],
+   "news": [
+    "Uber hielt sich am Freitag deutlich besser als der Gesamtmarkt und schloss mit −0,75 % bei 65,25 $. Das Tagestief (64,68 $) blieb über dem 52-Wochen-Tief vom Donnerstag (64,04 $); das Volumen lag mit 17,9 Mio. Aktien leicht über dem Durchschnitt. Nachbörslich war die Aktie mit 65,33 $ nahezu unverändert. Uber gehört damit zu den Werten, die vom Ausverkauf bei KI- und Chipaktien kaum getroffen wurden – Yahoo Finance zufolge haben die großen KI- und Chipwerte seit dem 6. Oktober rund 5 Bio. $ an Börsenwert verloren, die übrigen 625 großen US-Aktien zusammen rund 1,3 Bio. $ gewonnen.",
+    "Vorschau auf die Zahlen am Mittwoch: Laut AlphaStreet erwarten 31 Analysten im Schnitt 0,90 $ Gewinn je Aktie (Spanne 0,79–1,13 $) bei 14,67 Mrd. $ Umsatz (+8,9 %); die Gewinnschätzung wurde in den letzten 30 und 90 Tagen um 2,2 % gesenkt. Der Vergleich mit dem Vorjahr (3,11 $ je Aktie) ist durch einen Sondereffekt im dritten Quartal 2025 verzerrt. Im Fokus stehen Bruttobuchungen in Mobilität und Lieferdienst, die Take Rate, das Fahrerangebot, Versicherungskosten und Aussagen zu Robotaxi-Partnerschaften sowie der Ausblick auf das vierte Quartal.",
+    "Delivery Hero: Die Annahmefrist für Ubers Barangebot (41,50 € je Aktie) endet am Donnerstag, 5. November, um 24:00 Uhr (Frankfurter Zeit). Delivery Hero hatte am 28.10. die Jahresprognose angehoben (bereinigtes EBITDA nun 980 Mio. bis 1,02 Mrd. €, freier Cashflow über 300 Mio. €) und erstmals mehr als eine Milliarde Bestellungen in einem Quartal gemeldet (Umsatz +22 % auf 4,3 Mrd. €). Die Aktie schloss am Freitag bei 37,30 € – rund 10 % unter dem Angebotspreis; der Abschluss wird für das zweite Halbjahr 2027 erwartet, vorbehaltlich der Genehmigungen.",
+    "Kostenfaktor Öl: Brent fiel heute früh um rund 3 % auf etwa 110 $ (Januar-Kontrakt), weil der Iran mit Vermittlern aus Katar über ein Kriegsende verhandelt. Niedrigere Spritpreise entlasten Fahrer und Kuriere – das Thema dürfte in der Telefonkonferenz zur Sprache kommen. Am Mittwochabend berichtet zudem Konkurrent DoorDash, der gerade Instacart übernimmt."
+   ],
+   "outlook": "Für Uber wird der Mittwoch zum wichtigsten Tag des Jahres: Die Aktie notiert nur knapp 2 % über dem 52-Wochen-Tief, die Bewertung (KGV 16 auf erwartete Gewinne, 7,6 % freie Cashflow-Rendite) ist für einen profitablen Plattformkonzern niedrig, und Analysten sehen im Schnitt über 50 % Kurspotenzial. Was den Abschlag erklärt, sind die Robotaxi-Sorgen und die neue Konkurrenz durch DoorDash/Instacart. Ein solides Quartal mit stabiler Buchungsdynamik und klaren Aussagen zur Autonomie-Strategie könnte eine Erholung Richtung 50-Tage-Linie (71,21 $) einleiten; ein schwacher Ausblick würde einen Bruch des Jahrestiefs (64,04 $) wahrscheinlich machen. Zusätzliche Einflüsse: das Ende der Delivery-Hero-Annahmefrist (Do.), der fallende Ölpreis (positiv) und der Arbeitsmarktbericht (Fr.).",
+   "sources": [
+    [
+     "AlphaStreet – Uber Q3-Vorschau",
+     "https://news.alphastreet.com/uber-technologies-uber-q3-2026-preview-eps-est-0-90-reports-november-4/"
+    ],
+    [
+     "Yahoo Finance (Zacks) – Uber: Schätzungen vor den Q3-Zahlen",
+     "https://au.finance.yahoo.com/news/ahead-uber-uber-q3-earnings-121505723.html"
+    ],
+    [
+     "Uber IR – Angebotsunterlage Delivery Hero",
+     "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Publishes-Offer-Document-for-its-Takeover-Offer-for-Delivery-Hero/default.aspx"
+    ],
+    [
+     "Ad-hoc-news – Delivery Hero vor Ende der Annahmefrist",
+     "https://www.ad-hoc-news.de/boerse/news/corporate-news/delivery-hero-stock-faces-uber-tender-deadline-after-q3-growth/70442304"
+    ],
+    [
+     "Delivery Hero – Q3 und angehobene Prognose",
+     "https://www.deliveryhero.com/newsroom/delivery-hero-hits-one-billion-orders-in-q3-as-growth-accelerates-further-raises-full-year-guidance/"
+    ],
+    [
+     "Yahoo Finance – Futures starten nach 5-Billionen-KI-Ausverkauf in die Woche",
+     "https://finance.yahoo.com/markets/article/stock-futures-open-a-monster-week-after-a-5-trillion-ai-wipeout-232500194.html"
+    ],
+    [
+     "CNBC – Öl fällt um über 3 %: USA und Iran suchen Diplomatie",
+     "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html"
+    ],
+    [
+     "StockAnalysis – Kennzahlen",
+     "https://stockanalysis.com/stocks/uber/statistics/"
+    ],
+    [
+     "Yahoo Finance – Kursdaten",
+     "https://finance.yahoo.com/quote/UBER/history/"
+    ]
+   ]
+  },
+  {
+   "ticker": "NBIS",
+   "name": "Nebius",
+   "close": "154,14 $",
+   "change": "−10,38 %",
+   "dir": "down",
+   "figures": [
+    [
+     "Kursveränderung seit letzter Ausgabe",
+     "−10,38 % (Freitag ggü. Donnerstag, 171,99 $ → 154,14 $)"
+    ],
+    [
+     "Eröffnung / Hoch / Tief (Fr.)",
+     "157,05 $ / 161,42 $ / 149,96 $"
+    ],
+    [
+     "Volumen Freitag",
+     "21,5 Mio. (Ø 20 Tage 23,0 Mio.)"
+    ],
+    [
+     "Nachbörslich (Fr.)",
+     "155,79 $ (+1,1 %)"
+    ],
+    [
+     "52-Wochen-Spanne",
+     "73,52 $ – 299,86 $ (Abstand zum Hoch −48,6 %)"
+    ],
+    [
+     "Ein-Monats-Bilanz",
+     "rund −26 % (Investing.com)"
+    ],
+    [
+     "Marktkapitalisierung / Unternehmenswert",
+     "42,25 Mrd. $ / 44,40 Mrd. $"
+    ],
+    [
+     "Barmittel / Schulden",
+     "8,04 Mrd. $ / 10,20 Mrd. $ (netto −2,15 Mrd. $); Current Ratio 4,03"
+    ],
+    [
+     "Umsatz (12 Monate)",
+     "1,36 Mrd. $; Bruttomarge 74,3 %"
+    ],
+    [
+     "Freier Cashflow (12 Monate)",
+     "−5,88 Mrd. $ (Investitionen 11,14 Mrd. $)"
+    ],
+    [
+     "Kurs-Umsatz-Verhältnis (TTM / erwartet)",
+     "31,2 / 5,9"
+    ],
+    [
+     "50-/200-Tage-Linie",
+     "209,70 $ / 177,49 $ (Schluss 13 % unter der 200-Tage-Linie); RSI 35,6"
+    ],
+    [
+     "Short Interest",
+     "20,83 % des Streubesitzes"
+    ],
+    [
+     "Ø Analysten-Kursziel (StockAnalysis)",
+     "281,00 $ („Buy“, 22 Analysten); BofA 310 $"
+    ],
+    [
+     "Nächste Quartalszahlen",
+     "Do., 12. November 2026, vorbörslich (bestätigt)"
+    ]
+   ],
+   "news": [
+    "Nebius war am Freitag der schwächste Wert der Watchlist: −10,38 % auf 154,14 $. Bereits am Morgen lag die Aktie laut Investing.com 9,1 % im Minus (156,41 $), im Tief ging es bis 149,96 $. Damit hat Nebius den gesamten Sprung über die 200-Tage-Linie vom Mittwoch (182,34 $) wieder abgegeben und liegt nun rund 13 % darunter. Über einen Monat summiert sich das Minus auf etwa 26 %.",
+    "Die Gründe: Laut StreetInsider und Investing.com trafen die Amazon-Zahlen (zweites Quartal in Folge negativer freier Cashflow, Umsatz und Gewinn unter den Erwartungen) und Intels enttäuschende Prognose die Neoclouds besonders hart, weil sie unmittelbar von den Investitionen der Hyperscaler abhängen. Microsofts Investitionen von 45,2 Mrd. $ (erwartet 50,7 Mrd. $) – begründet mit Verzögerungen bei Drittanbieter-Kapazitäten – hatten die Sorge schon zuvor verstärkt. Zusätzlich nannte Investing.com eine Form-144-Meldung und Insiderverkäufe im Oktober als Belastung.",
+    "Fundamentale Einordnung: Im Unterschied zu CoreWeave verfügt Nebius über 8,04 Mrd. $ Barmittel bei 10,20 Mrd. $ Schulden und eine Current Ratio von 4,0. Auf erwartete Umsätze bewertet liegt das Kurs-Umsatz-Verhältnis bei 5,9. Analysten bleiben optimistisch (Ø Kursziel 281 $, BofA 310 $); BofA erwartet für das dritte Quartal 905,6 Mio. $ Umsatz (+520 %).",
+    "Zum Wochenstart: Nachbörslich erholte sich die Aktie am Freitag leicht (155,79 $), die Nasdaq-Futures steigen heute früh. Gegenwind kommt von Kioxia (−14 %), dessen Warnung vor stagnierenden Flash-Preisen die Debatte über den Höhepunkt des KI-Hardwarezyklus neu belebt. Positiv für die Branche: Laut CNBC wertet 3Fourteen Research den Börsenprospekt von Anthropic als Beleg, dass am KI-Handel „fundamental nichts kaputt“ sei."
+   ],
+   "outlook": "Nebius hat sich innerhalb von zwei Handelstagen um 15 % verbilligt und notiert wieder weit unter der 200-Tage-Linie – das Chartbild ist angeschlagen, die Bilanz dagegen deutlich robuster als bei CoreWeave. Kurzfristig entscheiden Apple und AMD (Mo./Di.) sowie der Anleihemarkt darüber, ob der Ausverkauf im KI-Sektor anhält; die Zahlen am 12. November müssen dann zeigen, dass die aktive Kapazität (BofA: rund 525 MW) und die Verträge mit Großkunden in Umsatz umschlagen. Gelingt eine Stabilisierung über 150 $, wäre eine Rückkehr Richtung 170–177 $ (200-Tage-Linie) denkbar; fällt die Marke, rückt der Bereich um 140 $ in den Blick. Risiken: negativer freier Cashflow (−5,9 Mrd. $), ein Leerverkaufsanteil von fast 21 %, Insiderverkäufe und eine Fed, die im Dezember erhöhen dürfte.",
+   "sources": [
+    [
+     "Investing.com – Warum Nebius heute fällt",
+     "https://www.investing.com/news/stock-market-news/why-is-nebius-stock-sliding-today-93CH-4988114"
+    ],
+    [
+     "StreetInsider – Nebius fällt nach Big-Tech-Zahlen",
+     "https://www.streetinsider.com/Investing/Nebius+shares+fall+as+Big+Tech+earnings+fuel+AI+spending+concerns/27263509.html"
+    ],
+    [
+     "Global Banking & Finance – Nebius −10,40 % am Freitag",
+     "https://www.globalbankingandfinance.com/nebius-group-nbis-falls-2026-10-30/"
+    ],
+    [
+     "Blockspace – BofA bestätigt Kaufvotum (310 $)",
+     "https://blockspace.media/insight/nebius-buy-rating-310-target/"
+    ],
+    [
+     "CNBC – Live-Blog 1./2.11.",
+     "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html"
+    ],
+    [
+     "Fortune (AP) – Intel −28,6 %, S&P 500 mit schwächstem Tag seit Juni",
+     "https://fortune.com/2026/10/30/intel-worst-drop-since-1974-sp-500-worst-day-since-june-ai-selloff/"
+    ],
+    [
+     "StockAnalysis – Kennzahlen",
+     "https://stockanalysis.com/stocks/nbis/statistics/"
+    ],
+    [
+     "Yahoo Finance – Kursdaten",
+     "https://finance.yahoo.com/quote/NBIS/history/"
+    ]
+   ]
+  },
+  {
+   "ticker": "COCO",
+   "name": "Vita Coco",
+   "close": "58,48 $",
+   "change": "+3,93 %",
+   "dir": "up",
+   "figures": [
+    [
+     "Kursveränderung seit letzter Ausgabe",
+     "+3,93 % (Freitag ggü. Donnerstag, 56,27 $ → 58,48 $)"
+    ],
+    [
+     "Eröffnung / Hoch / Tief (Fr.)",
+     "57,03 $ / 58,72 $ / 56,73 $"
+    ],
+    [
+     "Volumen Freitag",
+     "1,27 Mio. (Ø 20 Tage 1,44 Mio.)"
+    ],
+    [
+     "Nachbörslich (Fr.)",
+     "57,66 $ (−1,4 %, StockAnalysis)"
+    ],
+    [
+     "52-Wochen-Spanne",
+     "39,69 $ – 85,83 $ (Kursentwicklung 52 Wochen +29,2 %)"
+    ],
+    [
+     "Marktkapitalisierung / Unternehmenswert",
+     "3,34 Mrd. $ / 3,20 Mrd. $"
+    ],
+    [
+     "Umsatz / Nettogewinn (12 Monate)",
+     "767,5 Mio. $ / 120,5 Mio. $"
+    ],
+    [
+     "KGV (TTM / erwartet)",
+     "29,5 / 28,8; PEG 1,52"
+    ],
+    [
+     "Bilanz",
+     "152 Mio. $ Barmittel, 13,7 Mio. $ Schulden (Nettoliquidität 138,3 Mio. $); freier Cashflow 144,0 Mio. $"
+    ],
+    [
+     "Bruttomarge / operative Marge (12 Monate)",
+     "38,9 % / 18,3 %"
+    ],
+    [
+     "Jahresprognose 2026",
+     "Umsatz 810–820 Mio. $, ber. EBITDA 170–175 Mio. $"
+    ],
+    [
+     "50-/200-Tage-Linie",
+     "57,44 $ / 61,74 $ (Schluss über der 50-Tage-Linie); RSI 52,1"
+    ],
+    [
+     "Short Interest",
+     "13,46 % des Streubesitzes (5,3 Tage zur Eindeckung)"
+    ],
+    [
+     "Beta (5 Jahre)",
+     "0,75 – niedrigster Wert der Watchlist"
+    ],
+    [
+     "Ø Analysten-Kursziel (StockAnalysis)",
+     "79,10 $ („Buy“, 12 Analysten, +35,3 %)"
+    ]
+   ],
+   "news": [
+    "Vita Coco war am Freitag der einzige Gewinner der Watchlist – und das deutlich: +3,93 % auf 58,48 $, Schluss knapp unter dem Tageshoch (58,72 $). Damit schloss die Aktie erstmals seit den Quartalszahlen wieder über der 50-Tage-Linie (57,44 $) und war mit +3,4 % auch Wochensieger der Watchlist. Das Volumen (1,27 Mio.) lag leicht unter dem Durchschnitt. Nachbörslich gab der Kurs laut StockAnalysis auf 57,66 $ nach.",
+    "Rückenwind durch die Flucht in defensive Konsumwerte: Laut AP stiegen am Freitag u. a. Mondelez (+3,9 %, stärker als erwartetes Wachstum) und Colgate-Palmolive (+2,3 %, höhere Preise). CNBC nennt Coca-Cola und Procter & Gamble als Gewinner der Woche; laut Yahoo Finance legten 9 von 11 S&P-Sektoren in der Woche um rund 1 % oder mehr zu, obwohl der Index fiel – so breit war die Rotation seit mindestens 1999 nicht. Eigene Meldungen von Vita Coco gab es nicht.",
+    "Kostenseite entspannt sich etwas: Brent fiel heute früh um rund 3 % auf etwa 110 $, weil die Gespräche zwischen Iran und Katar über ein Kriegsende in den dritten Tag gingen. Für den Importeur von Kokoswasser sind Seefracht und Treibstoff wichtige Kostenblöcke; die Straße von Hormus bleibt allerdings faktisch geschlossen (laut IMF PortWatch zwei Durchfahrten am 25.10. statt 85 pro Tag vor der Krise)."
+   ],
+   "outlook": "Vita Coco profitiert derzeit doppelt: von der Umschichtung aus KI-Werten in defensive Konsumtitel und von soliden Fundamentaldaten (34 % Umsatzwachstum im dritten Quartal, angehobene Jahresprognose, schuldenfreie Bilanz). Mit dem Sprung über die 50-Tage-Linie hat sich das Chartbild aufgehellt; nächste Marke ist die 200-Tage-Linie bei 61,74 $. Kurzfristig könnte eine Erholung der Tech-Werte (Futures im Plus) die Rotation bremsen. Wichtige Einflüsse in dieser Woche: Ölpreis und Frachtkosten (Iran-Verhandlungen, mögliche Eskalation nach den Midterms), die US-Verbraucherstimmung (Fr.) und der Arbeitsmarktbericht. Risiken: Die erwartete Bruttomarge im vierten Quartal (rund 33 %) liegt deutlich unter dem Jahresschnitt, und die Bewertung (KGV knapp 29) lässt wenig Raum für Enttäuschungen.",
+   "sources": [
+    [
+     "Fortune (AP) – Intel −28,6 %, S&P 500 mit schwächstem Tag seit Juni",
+     "https://fortune.com/2026/10/30/intel-worst-drop-since-1974-sp-500-worst-day-since-june-ai-selloff/"
+    ],
+    [
+     "CNBC – Ausblick auf die Woche 2.–6.11.",
+     "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html"
+    ],
+    [
+     "Yahoo Finance – Futures starten nach 5-Billionen-KI-Ausverkauf in die Woche",
+     "https://finance.yahoo.com/markets/article/stock-futures-open-a-monster-week-after-a-5-trillion-ai-wipeout-232500194.html"
+    ],
+    [
+     "CNBC (Reuters) – Öl fällt, Iran-Gespräche gehen weiter",
+     "https://www.cnbc.com/2026/11/02/oil-slips-more-than-1percent-as-talks-continue-on-ending-iran-war.html"
+    ],
+    [
+     "Straits Daily Brief – Straße von Hormus, 2.11.",
+     "https://straits.live/briefs/2026-11-02"
+    ],
+    [
+     "Global Banking & Finance – Vita Coco +3,93 % am Freitag",
+     "https://www.globalbankingandfinance.com/vita-coco-company-coco-rises-2026-10-30/"
+    ],
+    [
+     "GlobeNewswire – Vita Coco Q3 2026",
+     "https://www.globenewswire.com/news-release/2026/10/22/3386198/0/en/the-vita-coco-company-reports-third-quarter-2026-financial-results-and-raises-full-year-guidance.html"
+    ],
+    [
+     "StockAnalysis – Kennzahlen",
+     "https://stockanalysis.com/stocks/coco/statistics/"
+    ],
+    [
+     "Yahoo Finance – Kursdaten",
+     "https://finance.yahoo.com/quote/COCO/history/"
+    ]
+   ]
+  },
+  {
+   "ticker": "PATH",
+   "name": "UiPath",
+   "close": "13,73 $",
+   "change": "−0,36 %",
+   "dir": "down",
+   "figures": [
+    [
+     "Kursveränderung seit letzter Ausgabe",
+     "−0,36 % (Freitag ggü. Donnerstag, 13,78 $ → 13,73 $)"
+    ],
+    [
+     "Eröffnung / Hoch / Tief (Fr.)",
+     "13,75 $ / 14,03 $ / 13,53 $"
+    ],
+    [
+     "Volumen Freitag",
+     "19,2 Mio. (Ø 20 Tage 26,0 Mio.)"
+    ],
+    [
+     "Nachbörslich (Fr.)",
+     "13,71 $ (−0,1 %)"
+    ],
+    [
+     "52-Wochen-Spanne",
+     "9,20 $ – 19,84 $"
+    ],
+    [
+     "Marktkapitalisierung / Unternehmenswert",
+     "7,16 Mrd. $ / 5,83 Mrd. $ (Nettoliquidität 1,33 Mrd. $)"
+    ],
+    [
+     "KGV (TTM / erwartet)",
+     "20,3 / 16,0; PEG 0,64"
+    ],
+    [
+     "Umsatz / freier Cashflow (12 Monate)",
+     "1,72 Mrd. $ / 363,0 Mio. $ (Rendite 5,1 %)"
+    ],
+    [
+     "Bruttomarge / operative Marge",
+     "82,6 % / 9,4 %"
+    ],
+    [
+     "Aktienrückkauf",
+     "Aktienzahl −1,85 % in einem Jahr"
+    ],
+    [
+     "50-/200-Tage-Linie",
+     "14,31 $ / 12,38 $; RSI 50,3"
+    ],
+    [
+     "Short Interest",
+     "25,95 % des Streubesitzes (höchster Wert der Watchlist)"
+    ],
+    [
+     "Bank of America (29.10.)",
+     "Kursziel von 15 auf 12 $ gesenkt, „Underperform“"
+    ],
+    [
+     "Ø Analysten-Kursziel (StockAnalysis)",
+     "15,41 $ („Hold“, 20 Analysten, +12,2 %)"
+    ],
+    [
+     "Nächste Quartalszahlen",
+     "ca. 2. Dezember 2026, nach US-Börsenschluss (geschätzt)"
+    ]
+   ],
+   "news": [
+    "UiPath zeigte sich am Freitag erstaunlich stabil: −0,36 % auf 13,73 $, während der Nasdaq fast 3 % verlor. Die Aktie pendelte zwischen 13,53 und 14,03 $; das Volumen war mit 19,2 Mio. Aktien unterdurchschnittlich. Auf Wochensicht steht ein Minus von 2,8 %; die Aktie notiert knapp unter der 50-Tage-Linie (14,31 $), aber klar über der 200-Tage-Linie (12,38 $).",
+    "Nachtrag zu Donnerstag: Die Bank of America senkte das Kursziel von 15 auf 12 $ und bestätigte das Votum „Underperform“. Begründung laut StocksToTrade: UiPath habe in seiner Vergleichsgruppe das höchste Risiko, dass Umsatz- und Gewinnschätzungen gesenkt werden müssen – wegen des harten Wettbewerbs im Geschäft mit KI für Unternehmen. Der breitere Analystenkonsens bleibt bei „Hold“ mit einem Kursziel um 15,41 $.",
+    "Einordnung: Softwarewerte litten in der Vorwoche unter dem schwachen Ausblick von ServiceNow. Von der Umschichtung in defensive Branchen profitierte UiPath zwar nicht, wurde aber auch nicht wie Chip- und Neocloud-Werte abgestraft – die Aktie hängt weniger an Hardware-Investitionen als an den Software-Budgets der Unternehmen. Eigene Meldungen gab es seit der letzten Ausgabe nicht."
+   ],
+   "outlook": "UiPath steckt zwischen zwei Lagern fest: Die solide Bilanz (1,33 Mrd. $ Nettoliquidität, 5 % freie Cashflow-Rendite, Aktienrückkäufe) stützt, die Sorge um den Wettbewerb durch die Agenten-Plattformen von Microsoft, ServiceNow und Co. belastet. Der extrem hohe Leerverkaufsanteil (26 % des Streubesitzes) zeigt, wie viele Anleger auf fallende Kurse setzen – und birgt bei positiven Nachrichten Potenzial für schnelle Eindeckungen. Kurzfristig ist die Spanne 13,50–14,30 $ entscheidend: Ein Schluss über der 50-Tage-Linie würde das Bild aufhellen, unter 13,37 $ (Donnerstagstief) droht eine Annäherung an das BofA-Ziel von 12 $. Diese Woche geben die Zahlen von Palantir (Mo.) und Datadog (Mi.) Hinweise auf die Nachfrage nach Unternehmenssoftware mit KI.",
+   "sources": [
+    [
+     "StocksToTrade – BofA senkt Kursziel für UiPath",
+     "https://stockstotrade.com/news/uipath-inc-path-news-2026_10_29/"
+    ],
+    [
+     "Business Insider – BofA: Sell-Votum für UiPath",
+     "https://markets.businessinsider.com/news/stocks/uipath-path-receives-a-sell-from-bank-of-america-securities-1036662722"
+    ],
+    [
+     "Investing.com – ServiceNow fällt nach schwachem Ausblick",
+     "https://www.investing.com/news/earnings/servicenow-shares-sink-on-earnings-miss-weak-q4-revenue-outlook-4980689"
+    ],
+    [
+     "finanznachrichten.de (Dow Jones) – Wochenvorschau KW 45",
+     "https://www.finanznachrichten.de/nachrichten-2026-10/69990682-wochenvorschau-2-bis-8-november-45-kw-015.htm"
+    ],
+    [
+     "StockAnalysis – Kennzahlen",
+     "https://stockanalysis.com/stocks/path/statistics/"
+    ],
+    [
+     "Yahoo Finance – Kursdaten",
+     "https://finance.yahoo.com/quote/PATH/history/"
+    ]
+   ]
+  },
+  {
+   "ticker": "MU",
+   "name": "Micron Technology",
+   "close": "884,74 $",
+   "change": "−5,30 %",
+   "dir": "down",
+   "figures": [
+    [
+     "Kursveränderung seit letzter Ausgabe",
+     "−5,30 % (Freitag ggü. Donnerstag, 934,27 $ → 884,74 $)"
+    ],
+    [
+     "Eröffnung / Hoch / Tief (Fr.)",
+     "884,00 $ / 906,54 $ / 861,59 $"
+    ],
+    [
+     "Volumen Freitag",
+     "30,8 Mio. (Ø 20 Tage 26,1 Mio.)"
+    ],
+    [
+     "Nachbörslich (Fr.)",
+     "889,15 $ (+0,5 %)"
+    ],
+    [
+     "52-Wochen-Spanne",
+     "192,59 $ – 1.255,00 $ (Abstand zum Hoch −29,5 %); 52 Wochen +290 %"
+    ],
+    [
+     "Marktkapitalisierung / Unternehmenswert",
+     "1,00 Bio. $ / 932,7 Mrd. $"
+    ],
+    [
+     "KGV (TTM / erwartet)",
+     "11,9 / 5,0"
+    ],
+    [
+     "Umsatz / Nettogewinn (12 Monate)",
+     "133,19 Mrd. $ / 84,97 Mrd. $"
+    ],
+    [
+     "Nettoliquidität",
+     "68,27 Mrd. $"
+    ],
+    [
+     "Operative Marge / freier Cashflow (12 Monate)",
+     "74,6 % / 58,96 Mrd. $"
+    ],
+    [
+     "50-/200-Tage-Linie",
+     "978,71 $ / 746,83 $ (Schluss 9,6 % unter der 50-Tage-Linie); RSI 42,0"
+    ],
+    [
+     "Short Interest",
+     "2,0 % des Streubesitzes (Vormonat höher: 26,0 → 22,5 Mio. Aktien)"
+    ],
+    [
+     "Beta (5 Jahre)",
+     "2,23"
+    ],
+    [
+     "Ø Analysten-Kursziel (StockAnalysis)",
+     "1.561,91 $ („Strong Buy“, 49 Analysten); BofA 1.550 $"
+    ],
+    [
+     "Nächste Quartalszahlen",
+     "ca. 16. Dezember 2026, nach US-Börsenschluss (geschätzt)"
+    ]
+   ],
+   "news": [
+    "Micron verlor am Freitag 5,30 % auf 884,74 $ – nach −4,98 % am Donnerstag. Die Aktie eröffnete bei 884 $, erholte sich kurz auf 906,54 $ und fiel im Tief bis 861,59 $; das Volumen lag mit 30,8 Mio. Aktien klar über dem Durchschnitt. Der Chipindex SOX brach um 7,2 % ein, AMD verlor 10,9 %, Nvidia 4,2 % (Nvidia war laut AP der größte Einzelbelastungsfaktor für den S&P 500).",
+    "Der Auslöser kam von Intel: Die Aktie stürzte um 28,6 % ab – der größte Tagesverlust seit 1974. Intel prognostizierte für das vierte Quartal nur 15–16 Mrd. $ Umsatz und nannte als Grund einen PC-Einbruch, der durch stark gestiegene Speicherpreise und Engpässe ausgelöst wird; eine nachhaltige Erholung erwartet Intel erst, wenn sich Verfügbarkeit und Preise von Speicher normalisieren. Für Micron ist das zweischneidig: Die Knappheit treibt die Margen (operative Marge 74,6 %), doch Kunden im unteren Gerätesegment reduzieren laut BORSA bereits die Ausstattung oder geben Preise weiter. Die Sorge: Lassen die KI-Investitionen nach, können PC- und Smartphone-Kunden die Lücke nicht füllen.",
+    "Heute früh aus Asien: Kioxia fiel um rund 14 %, nachdem das Unternehmen in seiner Telefonkonferenz am Freitag vor stagnierenden Flash-Preisen gewarnt hatte – die Durchschnittspreise für NAND stiegen im Septemberquartal nur noch im mittleren 20-%-Bereich (Vorquartal rund 70 %), die Gewinnprognose (2 Bio. Yen) lag unter den erwarteten 2,35 Bio. Yen. Der Kospi drehte dagegen nach schwachem Start auf +2,4 %. Heute Abend legt Apple Zahlen vor – laut TradingKey sind steigende Speicherkosten ein Kernrisiko für Apples Bruttomarge (Prognose 47–48 %).",
+    "Positionierung: Die Zahl leerverkaufter Micron-Aktien sank im letzten Meldezeitraum von 26,0 auf 22,5 Mio. – die Verkäufe der letzten Tage stammen eher von Gewinnmitnahmen der Long-Anleger. Mit einem erwarteten KGV von 5,0 ist Micron rechnerisch günstig; der Markt preist damit aber ein, dass die Rekordgewinne nicht von Dauer sind."
+   ],
+   "outlook": "Micron steht in dieser Woche vor drei Tests: Apple heute Abend (Speicherkosten und iPhone-Nachfrage), AMD am Dienstag (KI-Beschleuniger mit Hochleistungsspeicher) und die Debatte, ob Kioxias Preiswarnung auch für DRAM gilt. Bisher sprechen die Langfristverträge mit Preisuntergrenzen (laut BofA rund 35 % des Umsatzes) und die Investitionspläne der Hyperscaler (Amazon will 2027 „deutlich mehr“ ausgeben) für eine anhaltend hohe Nachfrage im Rechenzentrum. Charttechnisch hat die Aktie die 50-Tage-Linie (978,71 $) klar verloren; die Zone um 860 $ (Freitagstief) ist die erste Unterstützung, darunter liegt die nächste markante Marke bei der 200-Tage-Linie (746,83 $). Wegen des hohen Betas (2,2) reagiert Micron besonders stark auf Bewegungen im Gesamtmarkt – heute früh deuten die Futures auf eine Gegenbewegung.",
+   "sources": [
+    [
+     "Investing.com (Reuters) – Intel-Warnung löst globalen Chip-Ausverkauf aus",
+     "https://www.investing.com/news/stock-market-news/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-4987123"
+    ],
+    [
+     "Fortune (AP) – Intel −28,6 %, S&P 500 mit schwächstem Tag seit Juni",
+     "https://fortune.com/2026/10/30/intel-worst-drop-since-1974-sp-500-worst-day-since-june-ai-selloff/"
+    ],
+    [
+     "BORSA – Micron fällt nach Intels Speicherkosten-Warnung",
+     "https://app.borsa321.com/news/2026/10/30/micron-slides-as-intel-s-memory-cost-warning-lifts-cycle-concerns"
+    ],
+    [
+     "CNBC – Amazon und Intel fallen nach den Zahlen",
+     "https://www.cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html"
+    ],
+    [
+     "CNBC – Live-Blog 1./2.11.",
+     "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html"
+    ],
+    [
+     "TradingKey – Apple-Vorschau: iPhone gegen Speicherkosten",
+     "https://www.tradingkey.com/analysis/stocks/us-stocks/262263496-apple-earnings-preview-iphone-memory-costs-aapl-tradingkey"
+    ],
+    [
+     "FXNews – Nasdaq −2,86 %, SOX −7,2 %",
+     "https://fxnews.ai/news/us-nasdaq-sp500-dow-october-30-2026-final-cash-close/"
+    ],
+    [
+     "StockAnalysis – Kennzahlen",
+     "https://stockanalysis.com/stocks/mu/statistics/"
+    ],
+    [
+     "Yahoo Finance – Kursdaten",
+     "https://finance.yahoo.com/quote/MU/history/"
+    ]
+   ]
+  }
+ ],
+ "market": [
+  "Freitagsschluss: S&P 500 7.580,07 Punkte (−1,8 %, schwächster Tag seit Juni), Nasdaq Composite 25.437,00 (−2,86 %), Dow Jones 51.770,31 (−1,1 %, −572 Punkte). Der VIX stieg auf 19,42 Punkte und lag im Verlauf zeitweise bei 23,93. Der S&P 500 schloss die dritte Verlustwoche in Folge ab (−0,6 %), der Nasdaq verlor in der Woche 2,0 % und im Oktober mehr als 5 % – der schwächste Monat seit März 2025. Der Dow gewann im Oktober dagegen rund 1,7 %.",
+  "Der KI-Ausverkauf weitete sich aus: Intel stürzte um 28,6 % ab (größter Tagesverlust seit 1974), weil die Prognose für das vierte Quartal wegen des PC-Einbruchs durch teuren Speicher deutlich unter den Erwartungen lag. Der Chipindex SOX fiel um 7,2 %, AMD um 10,9 %, Nvidia um 4,2 %. Amazon verlor 1,4 %, nachdem es binnen zwölf Monaten 42,4 Mrd. $ an freiem Cashflow verbrannt hatte. Laut Yahoo Finance haben die großen KI- und Chipwerte seit dem 6. Oktober rund 5 Bio. $ an Börsenwert eingebüßt, während die übrigen 625 großen US-Aktien rund 1,3 Bio. $ zulegten – in der Vorwoche stiegen 9 von 11 S&P-Sektoren um etwa 1 % oder mehr, obwohl der Index fiel.",
+  "Gewinner außerhalb der Technologie: Exxon Mobil (+2,2 %) und Chevron (+1,8 %) übertrafen die Erwartungen, ebenso Mondelez (+3,9 %) und Colgate-Palmolive (+2,3 %). Im S&P 500 stiegen fast so viele Aktien, wie fielen. Kryptowerte litten unter dem Hackerangriff auf Binance (über 6 Mrd. $): Bitcoin fiel unter 77.000 $, Coinbase verlor trotz guter Zahlen 10,6 %.",
+  "Anleihen, Gold, Öl: Die zehnjährige US-Rendite fiel am Freitag auf 4,93 % (Donnerstag 4,98 %, Anfang Oktober über 5,30 %) – Anleger suchten Sicherheit. Gold brach dagegen um 3,5 % unter 4.000 $ auf den tiefsten Stand seit Oktober 2025 ein, weil Margin Calls zu Notverkäufen führten; heute früh erholt sich der Spotpreis um 0,7 % auf rund 3.900 $. Brent (Januar-Kontrakt) stieg am Freitag um 2,4 % auf 113,43 $ und fällt heute früh um rund 3 % auf etwa 110 $, WTI auf rund 100,6 $.",
+  "Europa: Der DAX schloss am Freitag bei 25.818,21 Punkten (−0,85 %), hatte in der Woche aber rund 2,5 % gewonnen. Für heute werden laut CNBC leichte Gewinne erwartet (DAX-Indikation +0,2 %, Euro Stoxx 50 +0,4 %).",
+  "Heute früh (ca. 8:00 Uhr MEZ): S&P-500-Futures rund +0,4–0,5 %, Nasdaq-100-Futures +0,8–0,9 %, Dow-Futures +0,4 % (+186 Punkte). In Asien Nikkei +0,4 %, Kospi +2,4 %, Hang Seng +0,6 %, CSI 300 +1,3 %, ASX 200 −0,5 %; Kioxia −14 % nach einer Warnung vor stagnierenden Flash-Preisen. Heute Abend berichten Apple und Palantir. Wichtig: Seit Sonntag gilt auch in den USA Winterzeit – die Wall Street öffnet ab heute wieder um 15:30 Uhr und schließt um 22:00 Uhr MEZ; US-Daten um 8:30 Uhr Ortszeit kommen um 14:30 Uhr MEZ."
+ ],
+ "market_sources": [
+  [
+   "Fortune (AP) – Intel −28,6 %, S&P 500 mit schwächstem Tag seit Juni",
+   "https://fortune.com/2026/10/30/intel-worst-drop-since-1974-sp-500-worst-day-since-june-ai-selloff/"
+  ],
+  [
+   "CNBC – Live-Blog 1./2.11.",
+   "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html"
+  ],
+  [
+   "Yahoo Finance – Futures starten nach 5-Billionen-KI-Ausverkauf in die Woche",
+   "https://finance.yahoo.com/markets/article/stock-futures-open-a-monster-week-after-a-5-trillion-ai-wipeout-232500194.html"
+  ],
+  [
+   "CNBC – Ausblick auf die Woche 2.–6.11.",
+   "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html"
+  ],
+  [
+   "Investing.com – US-Futures steigen nach schwachem Oktober",
+   "https://www.investing.com/news/stock-market-news/us-stock-futures-edge-high-after-bruising-oct-earnings-elections-in-focus-4989789"
+  ],
+  [
+   "Investing.com (Reuters) – Intel-Warnung löst globalen Chip-Ausverkauf aus",
+   "https://www.investing.com/news/stock-market-news/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-4987123"
+  ],
+  [
+   "FXNews – Nasdaq −2,86 %, SOX −7,2 %",
+   "https://fxnews.ai/news/us-nasdaq-sp500-dow-october-30-2026-final-cash-close/"
+  ],
+  [
+   "CNBC (Reuters) – Gold erholt sich, 73 % Wahrscheinlichkeit für Dezember-Erhöhung",
+   "https://www.cnbc.com/2026/11/02/gold-rises-on-softer-oil-markets-parse-fed-signals.html"
+  ],
+  [
+   "CNBC – Öl fällt um über 3 %: USA und Iran suchen Diplomatie",
+   "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html"
+  ],
+  [
+   "Investinglive – US-Zeitumstellung: Wall Street öffnet eine Stunde später",
+   "https://investinglive.com/news/us-clocks-fall-back-wall-street-opens-an-hour-later-for-traders-in-asia-and-europe/"
+  ]
+ ],
+ "macro": [
+  {
+   "title": "Zinsen & Fed: Logan will „mindestens zwei“ weitere Erhöhungen – Markt preist Dezember zu 73 % ein",
+   "what": "Nach der Zinspause (Leitzins 3,75–4,00 %, Abstimmung 10:2) haben sich am Freitag drei Fed-Mitglieder für weitere Erhöhungen ausgesprochen. Dallas-Fed-Chefin Lorie Logan sagte: Das FOMC müsse „mindestens zwei weitere Zinserhöhungen um 25 Basispunkte“ umsetzen und danach pausieren – die bisher deutlichste Ansage seit Kevin Warsh im Mai den Vorsitz übernommen hat. St.-Louis-Fed-Chef Alberto Musalem hält eine weitere Straffung „bald“ für nötig und bevorzugt frühere, kleinere Schritte; Beth Hammack (Cleveland) und Lisa Cook hatten schon in der Sitzung für eine Erhöhung gestimmt. Laut CME FedWatch liegt die Wahrscheinlichkeit einer Erhöhung im Dezember bei rund 73 %. Logan sieht den Anstieg der langen Renditen als Zeichen, dass Anleger stärkeres Wachstum und höhere Zinsen erwarten.",
+   "effect": "Steigende Leitzinsen verteuern Kapital – das trifft hoch bewertete und verschuldete Wachstumswerte am stärksten: CoreWeave (Zinsaufwand rund ein Viertel des Umsatzes) und Nebius brauchen für ihren Ausbau weitere Milliarden an Fremdkapital, Lemonade und UiPath werden über künftige Gewinne bewertet. Gleichzeitig ist die zehnjährige Rendite seit Anfang Oktober von über 5,30 % auf 4,93 % gefallen, weil Anleger in Staatsanleihen flüchteten – das dämpft die Wirkung etwas. Für Micron, Uber und Vita Coco ist die Fed eher über die Konjunktur relevant.",
+   "next": "Logan schlägt bewusst ein gradualistisches Vorgehen vor, um Märkte nicht zu überfordern. Entscheidend sind jetzt Arbeitsmarktbericht (Fr. 6.11.) und Verbraucherpreise (Di. 10.11.): Bleiben sie robust, dürfte die Dezember-Erhöhung fest eingepreist werden. In dieser Woche sprechen u. a. Hammack und Barkin (Do.), Musalem, Bowman, Logan und Williams (Fr.).",
+   "sources": [
+    [
+     "Investing.com (Reuters) – Logan: mindestens zwei weitere Zinserhöhungen",
+     "https://www.investing.com/news/economic-indicators/fed-needs-at-least-two-more-rate-hikes-logan-says-4988462"
+    ],
+    [
+     "St. Louis Fed – Musalem, Rede vom 30.10.",
+     "https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/musalem/2026/musalem-somc-remarks-30-oct-2026_final.pdf"
+    ],
+    [
+     "CNBC (Reuters) – Gold erholt sich, 73 % Wahrscheinlichkeit für Dezember-Erhöhung",
+     "https://www.cnbc.com/2026/11/02/gold-rises-on-softer-oil-markets-parse-fed-signals.html"
+    ],
+    [
+     "Federal Reserve – FOMC-Statement 28.10.",
+     "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
+    ],
+    [
+     "finanznachrichten.de (Dow Jones) – Wochenvorschau KW 45",
+     "https://www.finanznachrichten.de/nachrichten-2026-10/69990682-wochenvorschau-2-bis-8-november-45-kw-015.htm"
+    ]
+   ]
+  },
+  {
+   "title": "Konjunktur & Arbeitsmarkt: Jobs-Bericht am Freitag, heute ISM Industrie",
+   "what": "Am Freitag (14:30 Uhr MEZ) erscheint der US-Arbeitsmarktbericht für Oktober. Laut CNBC erwarten von Dow Jones befragte Ökonomen +55.000 neue Stellen; im September waren es laut BLS nur +29.000 bei einer Arbeitslosenquote von 4,2 %. Davor kommen heute (16:00 Uhr MEZ) der ISM-Index für die Industrie (Konsens 54,7 nach 54,5), am Dienstag die JOLTS-Stellenangebote, am Mittwoch der ADP-Bericht und der ISM-Dienstleistungsindex, am Donnerstag Erstanträge und Produktivität. Zur Erinnerung: Die US-Wirtschaft wuchs im dritten Quartal um annualisiert 3,4 %, die PCE-Inflation lag im September bei 3,6 % (Kernrate 3,1 %).",
+   "effect": "Das Bild einer heiß laufenden Wirtschaft mit hoher Inflation, aber schwachem Stellenwachstum ist ungewöhnlich. Ein starker Bericht würde die Dezember-Erhöhung bestätigen und Wachstumswerte (CRWV, NBIS, LMND, PATH) belasten; ein schwacher könnte Zinsängste lindern, aber Konjunktursorgen wecken – negativ für Uber und Konsumwerte wie Vita Coco. Die Preiskomponente des ISM ist wegen des Ölpreises besonders wichtig.",
+   "next": "Ein Ergebnis um die erwarteten 55.000 Stellen dürfte die Zinserwartungen kaum verändern. Abweichungen von mehr als 50.000 in eine Richtung bewegen erfahrungsgemäß Renditen und Tech-Werte deutlich. Danach folgen die Verbraucherpreise am 10.11.",
+   "sources": [
+    [
+     "CNBC – Live-Blog 1./2.11.",
+     "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html"
+    ],
+    [
+     "BLS – Arbeitsmarktbericht September 2026",
+     "https://www.bls.gov/news.release/empsit.nr0.htm"
+    ],
+    [
+     "BLS – Veröffentlichungstermine November 2026",
+     "https://www.bls.gov/schedule/2026/11_sched_list.htm"
+    ],
+    [
+     "MarketScreener – Prognose ISM Industrie Oktober",
+     "https://de.marketscreener.com/boerse-nachrichten/prognose-ism-index-verarbeitendes-gewerbe-oktober-2-11-16-00-ce785fdbdc8ef52d"
+    ],
+    [
+     "finanznachrichten.de (Dow Jones) – Wochenvorschau KW 45",
+     "https://www.finanznachrichten.de/nachrichten-2026-10/69990682-wochenvorschau-2-bis-8-november-45-kw-015.htm"
+    ]
+   ]
+  },
+  {
+   "title": "Notenbanken weltweit: RBA, Bank of England und Skandinavien entscheiden – Zinserhöhungen in Sicht",
+   "what": "Am Dienstag (4:30 Uhr MEZ) entscheidet die Reserve Bank of Australia; alle vier großen australischen Banken erwarten eine Erhöhung um 25 Basispunkte auf 4,85 % – die fünfte in diesem Jahr – nach einer Inflation von 4,3 %. Am Donnerstag (13:00 Uhr MEZ) folgt die Bank of England: 54 von 63 von Reuters befragten Ökonomen erwarten die erste Erhöhung seit über drei Jahren auf 4,00 %, begründet mit der energiegetriebenen Inflation. Außerdem entscheiden die Riksbank (Mi.) und die Norges Bank (Do.). Die EZB hält den Einlagenzins bei 2,50 %; heute sprechen Vizepräsident Vujčić und Bundesbankpräsident Nagel, am Donnerstag Lagarde.",
+   "effect": "Weltweit steigende Zinsen erhöhen den Druck auf die langen Renditen und damit auf hoch bewertete Technologiewerte. Für die Watchlist wirkt das indirekt über die US-Renditen und den Dollar. Der Ölpreis ist der gemeinsame Treiber – sinkt er nachhaltig, verlieren die Notenbanken einen Grund zum Erhöhen.",
+   "next": "Erhöhen RBA und BoE wie erwartet, bestätigt das den globalen Straffungstrend; überraschende Pausen (etwa wegen des aktuellen Ölpreisrückgangs) wären ein positives Signal für Wachstumswerte.",
+   "sources": [
+    [
+     "The Bull – Alle vier Großbanken erwarten RBA-Erhöhung",
+     "https://thebull.com.au/news/big-four-expecting-rate-hike-at-november-rba-meet-but-what-follows/"
+    ],
+    [
+     "Investing.com (Reuters) – Umfrage: BoE erhöht im November auf 4 %",
+     "https://www.investing.com/news/economy-news/boe-to-raise-rates-to-4-in-november-but-economists-narrowly-expect-hold-from-there-reuters-poll-4950914"
+    ],
+    [
+     "Newsquawk – Wochenkalender 2.–6.11.",
+     "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-calendar---2nd-6th-november-2026"
+    ],
+    [
+     "finanznachrichten.de (Dow Jones) – Wochenvorschau KW 45",
+     "https://www.finanznachrichten.de/nachrichten-2026-10/69990682-wochenvorschau-2-bis-8-november-45-kw-015.htm"
+    ]
+   ]
+  },
+  {
+   "title": "Geopolitik & Öl: Iran verhandelt über Katar – Brent fällt um 3 % auf rund 110 $, trotz neuer Minentreffer",
+   "what": "Iranische Unterhändler führten am Sonntag in Doha den dritten Tag in Folge Gespräche mit katarischen Vermittlern über ein Ende des US-israelischen Kriegs gegen den Iran. Laut Mitrade sagte Irans Außenminister Araghchi, ein Plan sei von sieben auf zwei Tage verkürzt worden: am ersten Tag US-Maßnahmen, am zweiten die Öffnung der Straße von Hormus; Teheran verlangt Sanktionserleichterungen und anerkannte Schifffahrtsrouten. US-Außenminister Rubio sagte laut CNBC, Trump wolle den Krieg lieber „diplomatisch“ lösen; Washington hat den Plan aber nicht öffentlich bestätigt. Gleichzeitig meldete die iranische Revolutionsgarde, zwei Tanker seien am Sonntag in der Meerenge auf Minen gelaufen (nicht unabhängig bestätigt). Die Straße bleibt faktisch geschlossen (IMF PortWatch: zwei Durchfahrten am 25.10., vor der Krise 85 pro Tag). Opec+ ließ die Förderziele für Dezember unverändert. Brent (Januar) fiel heute früh um bis zu 3,3 % auf rund 109,7–110 $, WTI auf rund 100,6 $; im Oktober war Öl um über 10 % gestiegen.",
+   "effect": "Ein Ölpreisrückgang senkt Inflationserwartungen und damit den Druck auf die Fed – gut für Wachstumswerte und Konsum. Uber (Spritkosten der Fahrer) und Vita Coco (Fracht) profitieren direkt. Analysten warnen allerdings: Berichte, wonach Washington nach den Midterms neue Angriffe vorbereitet, sind nicht vom Tisch; laut KCM Trade könnte Brent bei verschärfter Rhetorik wieder Richtung 120 $ steigen. Gold bekam durch den Ölrückgang Auftrieb.",
+   "next": "Der Markt verkauft vorerst die Risikoprämie, nicht das Öl selbst. Bleibt eine US-Antwort auf den Zwei-Tage-Plan aus oder kommt es nach dem 3. November zu Angriffen, dürfte die Prämie schnell zurückkehren (Mitrade: 114–117,5 $). Eine tatsächliche Öffnung von Hormus würde Brent deutlich drücken (nächste Unterstützung laut Mitrade 105 $).",
+   "sources": [
+    [
+     "CNBC (Reuters) – Öl fällt, Iran-Gespräche gehen weiter",
+     "https://www.cnbc.com/2026/11/02/oil-slips-more-than-1percent-as-talks-continue-on-ending-iran-war.html"
+    ],
+    [
+     "CNBC – Öl fällt um über 3 %: USA und Iran suchen Diplomatie",
+     "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html"
+    ],
+    [
+     "Mitrade – Brent bei 111 $ nach Zwei-Tage-Plan für Hormus",
+     "https://www.mitrade.com/insights/commodity-analysis/oil-news/brent-111-hormuz-two-day-plan-premium-20261102J1102"
+    ],
+    [
+     "Straits Daily Brief – Straße von Hormus, 2.11.",
+     "https://straits.live/briefs/2026-11-02"
+    ],
+    [
+     "MS NOW – Trump plant neue Iran-Angriffe nach den Midterms",
+     "https://www.ms.now/news/trump-plans-to-resume-strikes-on-iran-day-after-midterm-elections"
+    ],
+    [
+     "CNBC (Reuters) – Opec+ hält Förderziele im Dezember stabil",
+     "https://www.cnbc.com/2026/10/31/opec-oil-output-targets-december.html"
+    ]
+   ]
+  },
+  {
+   "title": "Handel & Zölle: Annäherung mit Kanada, neue 232-Prüfung für Roboter und Industriemaschinen",
+   "what": "Kanadas Premier Mark Carney sagte am Wochenende, Verhandlungsteams der USA und Kanadas würden „in den kommenden Wochen“ an einem Handelsabkommen arbeiten; Trump sprach laut AP von einem möglichen Deal, der u. a. Zölle für US-Landwirte beseitigen könnte. Bereits am 30.10. hatte die Regierung einige 50-%-Zölle auf kanadische Waren gestrichen. Heute erscheint im Federal Register eine Proklamation nach Section 232 zu Importen von Robotern, Industriemaschinen und deren Teilen – sie ordnet Verhandlungen mit Handelspartnern und einen Bericht in 180 Tagen an, setzt aber noch keine Zölle fest. Die Handelsbehörde USTR schlug zudem Änderungen an den Section-301-Zöllen auf China vor (inkl. Ausnahmeverfahren für Maschinen).",
+   "effect": "Eine Entspannung mit Kanada wäre positiv für Konjunktur und Inflation; für die Watchlist ist der Effekt gering. Die 232-Prüfung zu Robotern und Maschinen birgt mittelfristig Kostenrisiken für den Rechenzentrumsbau (Kühl-, Strom- und Fertigungstechnik) – relevant für CoreWeave, Nebius und Micron, sofern später tatsächlich Zölle folgen.",
+   "next": "Kurzfristig kein Zollschock in Sicht; die Midterms könnten aber den handelspolitischen Spielraum verändern. Über die Robotik-Zölle wird frühestens in sechs Monaten entschieden.",
+   "sources": [
+    [
+     "POLITICO – Carney: Handelsabkommen mit den USA in den „kommenden Wochen“",
+     "https://www.politico.com/news/2026/11/01/carney-trump-us-canada-deal-01144738"
+    ],
+    [
+     "AP – Carney und Trump sprechen über Handelsdeal",
+     "https://apnews.com/article/canada-us-trump-canada-trade-d0bfffc67ecdf22d9a5abffb2d26d848"
+    ],
+    [
+     "Federal Register – Section 232: Robotik und Industriemaschinen",
+     "https://www.federalregister.gov/documents/2026/11/02/2026-22385/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united"
+    ],
+    [
+     "NBC News – Trump streicht einige Kanada-Zölle",
+     "https://www.nbcnews.com/business/economy/trump-cancels-canada-tariffs-susan-collins-rcna605270"
+    ]
+   ]
+  },
+  {
+   "title": "Politik: US-Midterms am Dienstag – Demokraten im Repräsentantenhaus klar favorisiert",
+   "what": "Am Dienstag, 3. November, wählen die USA das gesamte Repräsentantenhaus und ein Drittel des Senats. Laut den Prognosen vom 2.11. liegen die Demokraten im Repräsentantenhaus klar vorn (Midterm Forecast 92 %, Polling Forecast 91 %, Decision Desk HQ 83 %), im Senat ist der Vorsprung kleiner (62–86 %); im landesweiten Generic Ballot führen sie mit etwa 8–10 Punkten. Laut CNBC könnte ein Machtwechsel die Regulierung von Rechenzentren, Rüstungsausgaben und Preisdruck auf Pharmafirmen beeinflussen. Erste Wahllokale schließen um 0:00 Uhr MEZ.",
+   "effect": "Investoren erwarten laut CNBC begrenzte Marktwirkung – der KI-Handel und die Quartalszahlen dominieren. Für die Watchlist wäre vor allem eine schärfere Regulierung von Rechenzentren (Strompreise, Genehmigungen) relevant: Sie träfe CoreWeave, Nebius und indirekt Micron. Ein geteilter Kongress bedeutet meist weniger neue Gesetze – Märkte haben das historisch eher gut aufgenommen.",
+   "next": "Laut Yahoo Finance ist der S&P 500 seit 1950 vom Ende eines Midterm-Oktobers bis zum folgenden Juni jedes Mal gestiegen. Kurzfristig wichtiger: Berichte über mögliche US-Angriffe auf den Iran nach der Wahl.",
+   "sources": [
+    [
+     "Midterm Forecast – Prognose Senat und Repräsentantenhaus",
+     "https://midtermforecast.com/"
+    ],
+    [
+     "Decision Desk HQ – Prognose 2026",
+     "https://votes.decisiondeskhq.com/forecast/2026"
+    ],
+    [
+     "CNBC – Ausblick auf die Woche 2.–6.11.",
+     "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html"
+    ],
+    [
+     "Yahoo Finance – Futures starten nach 5-Billionen-KI-Ausverkauf in die Woche",
+     "https://finance.yahoo.com/markets/article/stock-futures-open-a-monster-week-after-a-5-trillion-ai-wipeout-232500194.html"
+    ]
+   ]
+  },
+  {
+   "title": "KI & Big Tech: Apple, Palantir und AMD als nächste Prüfsteine",
+   "what": "Heute nach US-Börsenschluss berichten Apple (22:30 Uhr MEZ) und Palantir. Für Apple erwarten Analysten laut AlphaStreet/MarketBeat rund 1,98 $ Gewinn je Aktie (+7,6 %) und 113,3 Mrd. $ Umsatz (+10,6 %); Apple ist mit rund 5,03 Bio. $ wieder das wertvollste Unternehmen der Welt (vor Nvidia mit 4,93 Bio. $) und mit rund +27 % der einzige „Magnificent Seven“-Wert, der den S&P 500 in diesem Jahr schlägt. Die Bank of America nahm die Aktie am Freitag von ihrer Liste der besten Ideen. Am Dienstag folgen AMD, Super Micro und Arista, am Mittwoch Qualcomm und AppLovin. Der Börsenprospekt von Anthropic stützt laut 3Fourteen Research die These, dass am KI-Handel „fundamental nichts kaputt“ sei.",
+   "effect": "Nach Alphabet, Amazon und Intel will der Markt Belege, dass sich die KI-Milliarden auszahlen. Apples Bruttomarge zeigt, wie stark teurer Speicher die Gerätehersteller belastet – wichtig für Micron. AMDs Ausblick auf KI-Beschleuniger ist der direkte Gradmesser für die Nachfrage, von der CoreWeave und Nebius leben.",
+   "next": "Überzeugen Apple und AMD, ist nach dem Rekordausverkauf eine Erholung im Chip- und Neocloud-Sektor wahrscheinlich – die Futures deuten das an. Enttäuschen sie, droht laut BTIG ein Test der 200-Tage-Linie des S&P 500 bei rund 7.306 Punkten.",
+   "sources": [
+    [
+     "AlphaStreet – Apple Q4-Vorschau",
+     "https://news.alphastreet.com/apple-aapl-q4-2026-preview-eps-est-1-98-reports-november-2/"
+    ],
+    [
+     "MarketBeat – Apple Q4 2026: Termin und Schätzungen",
+     "https://www.marketbeat.com/earnings/reports/2026-11-2-apple-inc-stock/"
+    ],
+    [
+     "Yahoo Finance – Futures starten nach 5-Billionen-KI-Ausverkauf in die Woche",
+     "https://finance.yahoo.com/markets/article/stock-futures-open-a-monster-week-after-a-5-trillion-ai-wipeout-232500194.html"
+    ],
+    [
+     "CNBC – Ausblick auf die Woche 2.–6.11.",
+     "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html"
+    ],
+    [
+     "CNBC – Live-Blog 1./2.11.",
+     "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html"
+    ]
+   ]
+  },
+  {
+   "title": "Termine (MEZ)",
+   "what": "Heute, Mo. 2.11.: ISM Industrie (16:00), Palantir und Apple (nach Börsenschluss, Apple 22:30); Wall Street wieder 15:30–22:00 Uhr. Di. 3.11.: RBA-Zinsentscheid (4:30), JOLTS (16:00), US-Midterms; abends AMD, Booking, Amgen, Super Micro, Arista, Block. Mi. 4.11.: Uber vorbörslich (Call 14:00), CVS Health vorbörslich; ADP (14:15), ISM Dienstleistungen (16:00), Quarterly Refunding; abends Qualcomm, DoorDash, AppLovin, Datadog. Do. 5.11.: Lemonade vorbörslich (Call 14:00), Bank of England (13:00), Norges Bank, Erstanträge (14:30); Lagarde (17:00); Ende der Annahmefrist Delivery Hero (24:00); abends Airbnb. Fr. 6.11.: Arbeitsmarktbericht (14:30), Uni Michigan (16:00), Fed-Reden. Danach: Di. 10.11. Verbraucherpreise und CoreWeave (nach Börsenschluss), Do. 12.11. Nebius (vorbörslich), Mitte November Nvidia, ca. 2.12. UiPath, ca. 16.12. Micron.",
+   "effect": "Mit Uber und Lemonade legen in dieser Woche die ersten beiden Watchlist-Werte Zahlen vor; dazu kommen Wahl, Jobs-Bericht und die Iran-Frage – eine der ereignisreichsten Wochen des Quartals.",
+   "next": "Die größten Kursbewegungen sind am Mittwoch (Uber) und Donnerstag (Lemonade) zu erwarten; für CRWV, NBIS und MU geben Apple und AMD die Richtung vor.",
+   "sources": [
+    [
+     "finanznachrichten.de (Dow Jones) – Wochenvorschau KW 45",
+     "https://www.finanznachrichten.de/nachrichten-2026-10/69990682-wochenvorschau-2-bis-8-november-45-kw-015.htm"
+    ],
+    [
+     "CNBC – Ausblick auf die Woche 2.–6.11.",
+     "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html"
+    ],
+    [
+     "Uber IR – Termin Q3-Zahlen",
+     "https://investor.uber.com/news-events/news/press-release-details/2026/Uber-Announces-Date-of-Third-Quarter-2026-Results-Conference-Call/default.aspx"
+    ],
+    [
+     "PR Newswire – Lemonade Q3-Termin",
+     "https://www.prnewswire.com/news-releases/lemonade-to-announce-third-quarter-2026-financial-results-302912804.html"
+    ],
+    [
+     "CVS Health – Termin Q3-Zahlen",
+     "https://www.cvshealth.com/news/company-news/cvs-health-to-hold-third-quarter-2026-earnings-conference-call.html"
+    ],
+    [
+     "StockAnalysis – Kennzahlen",
+     "https://stockanalysis.com/stocks/crwv/statistics/"
+    ],
+    [
+     "StockAnalysis – Kennzahlen",
+     "https://stockanalysis.com/stocks/nbis/statistics/"
+    ]
+   ]
+  }
+ ],
+ "ideas": [
+  {
+   "ticker": "KR",
+   "name": "The Kroger Co.",
+   "sector": "Lebensmitteleinzelhandel",
+   "why": "Warum nicht vom KI-Hype profitiert: Kroger ist ein klassischer Supermarktbetreiber mit hauchdünnen Margen (operative Marge 3,2 %) – die Aktie schloss am Freitag bei 66,76 $ und liegt auf Zwölfmonatssicht nur rund 1 % im Plus, deutlich hinter dem S&P 500; das 52-Wochen-Hoch liegt bei 76,58 $. Die KI-Chance: Kroger baut KI gerade in sein ganzes Geschäftsmodell ein. Laut einem Memo von CEO Greg Foran (seit Februar im Amt) sollen in den nächsten drei Jahren rund 3.000 Stellen in der Verwaltung wegfallen – etwa 37 % der 8.200 Büroangestellten –, weil KI doppelte Arbeit ersetzt; die Einsparungen sollen in niedrigere Preise und mehr Personal in den Filialen fließen (Reuters). Auf der Konferenz GroceryShop stellte Kroger seine KI-Strategie vor: Nachfrageprognosen, Optimierung der Abläufe, personalisierte Angebote, einen KI-Einkaufsassistenten und Werkzeuge für Filialmitarbeiter. Dazu kommt das Werbegeschäft Kroger Precision Marketing, das mit den Kundendaten von täglich über 11 Mio. Kunden arbeitet – eine margenstarke Erlösquelle, die mit besserer KI wertvoller wird. Ziele vom Investorentag (20.10.): rund 3 % vergleichbares Umsatzwachstum (ohne Sprit und Apotheke) im Jahr 2029, 3–6 % jährliches Wachstum des bereinigten EBITDA und 7–11 % des bereinigten Gewinns je Aktie von 2027 bis 2029; die Kundeninitiative über 5 Mrd. $ bis 2029 soll sich selbst finanzieren. Bewertung und Kapital: erwartetes KGV 12,5, Dividendenrendite 2,34 % (19 Jahre in Folge erhöht, nächster Ex-Tag 16.11.), die Aktienzahl sank binnen eines Jahres um 8,6 % – zusammen eine Aktionärsrendite von rund 10,9 %. Beta 0,35: Die Aktie schwankt kaum mit dem Markt. Risiken: harter Preiskampf mit Walmart und Aldi (Kroger hat sein Umsatzziel bereits gesenkt), Nettoschulden von 22,5 Mrd. $, die geplante Übernahme von Giant Eagle, hohe Spritpreise, die Verbraucher sparsamer machen, und ein Kursziel-Konsens (69 $), der nur wenig Luft lässt. Nächste Zahlen voraussichtlich am 3. Dezember.",
+   "sources": [
+    [
+     "Investing.com (Reuters) – Kroger streicht 3.000 Stellen, setzt auf KI",
+     "https://www.investing.com/news/stock-market-news/kroger-plans-to-cut-about-a-third-of-corporate-roles-over-the-next-three-years-bloomberg-news-reports-4945221"
+    ],
+    [
+     "Kroger IR – Investorentag: neue Langfristziele",
+     "https://ir.kroger.com/news/news-details/2026/Kroger-Outlines-Plan-to-Build-Americas-Favorite-Grocer-and-Introduces-New-Long-Term-Financial-Targets/default.aspx"
+    ],
+    [
+     "PR Newswire – Kroger-KI-Strategie auf der GroceryShop 2026",
+     "https://www.prnewswire.com/news-releases/kroger-details-ai-strategy-built-on-decades-retail-expertise-at-groceryshop-2026-302886589.html"
+    ],
+    [
+     "Investing.com (Reuters) – Kroger investiert 5 Mrd. $ bis 2029",
+     "https://www.investing.com/news/stock-market-news/kroger-to-focus-on-grocery-business-under-new-ceo-as-competition-heats-up-4959911"
+    ],
+    [
+     "StockAnalysis – Kennzahlen",
+     "https://stockanalysis.com/stocks/kr/statistics/"
+    ],
+    [
+     "Yahoo Finance – Kursdaten",
+     "https://finance.yahoo.com/quote/KR/history/"
+    ]
+   ]
+  },
+  {
+   "ticker": "UNP",
+   "name": "Union Pacific",
+   "sector": "Schienengüterverkehr",
+   "why": "Warum nicht vom KI-Hype profitiert: Union Pacific ist die größte Güterbahn im Westen der USA – Schienen, Lokomotiven, Waggons. Die Aktie (Freitag 304,00 $, 52 Wochen +40,5 %) ist wegen der geplanten Fusion mit Norfolk Southern, starker Volumina und des Ölpreises gestiegen, der Bahn gegenüber Lkw einen Kostenvorteil verschafft – nicht wegen KI. Die Zahlen: Im dritten Quartal stieg der Umsatz um 15 % auf 7,2 Mrd. $, der Gewinn je Aktie um 16 % auf 3,49 $ (bereinigt 3,53 $), das Volumen um 6 % – ein Rekordquartal. Die Arbeitsproduktivität (1.219 Waggonmeilen je Mitarbeiter) stieg um 5 % und erreichte das neunte Rekordquartal in Folge, obwohl die Mitarbeiterzahl um 1 % sank. Die KI-Chance: Eine Bahn ist ein riesiges Optimierungsproblem aus Fahrplänen, Zuglängen, Lokomotiveinsatz und Wartung. Operations-Chef Eric Gehringer nannte in der Telefonkonferenz das Energiemanagementsystem, den „Precision Train Builder“, der Lokomotiven und Routen festlegt, und halbautonome Abläufe in Rangierbahnhöfen, bei Gleisbautrupps und in Lokwerkstätten – „Schicht um Schicht“ ohne absehbares Ende. Von Norfolk Southern will UP dessen bessere Software zur automatischen Inspektion von Lokomotiven und Waggons übernehmen; laut Fusionsunterlagen sollen KI und Echtzeitdaten auf das gesamte transkontinentale Netz ausgeweitet werden. Jeder Prozentpunkt Effizienz wirkt bei 26,4 Mrd. $ Umsatz direkt auf den Gewinn. Bewertung und Kapital: erwartetes KGV 21,7, Dividendenrendite 1,87 % (zum 20. Mal in Folge erhöht), freier Cashflow 6,7 Mrd. $ in zwölf Monaten; Ø Kursziel 331,38 $ („Buy“, +9 %). Risiken: Die Fusion braucht die Zustimmung der Bahnaufsicht STB (Stellungnahmen bis 18.11., Entscheidung 2027) und stößt auf Widerstand von Konkurrenten und Teilen der Gewerkschaften; hohe Dieselpreise (Q4-Annahme 4,85 $ je Gallone) belasten die Marge; die Aktie ist nach dem Anstieg technisch überkauft (RSI 70) und notiert nahe dem 52-Wochen-Hoch (315,99 $); Nettoschulden 28 Mrd. $; langfristig autonome Lkw als Konkurrenz.",
+   "sources": [
+    [
+     "Union Pacific – Ergebnisse Q3 2026",
+     "https://www.up.com/press-releases/financial/3q26-earnings-261022"
+    ],
+    [
+     "Motley Fool – Union Pacific Q3-Telefonkonferenz (Transkript)",
+     "https://www.fool.com/earnings/call-transcripts/2026/10/22/union-pacific-unp-q3-2026-earnings-call-transcript/"
+    ],
+    [
+     "Union Pacific – Zeitplan der Fusionsprüfung",
+     "https://www.up.com/announcements/customer-news/2026/CN2026-23"
+    ],
+    [
+     "Union Pacific IR – Fusionsunterlagen (KI und Echtzeitdaten)",
+     "https://investor.unionpacific.com/static-files/c46045c7-9fa3-427b-a420-83b42b593b06"
+    ],
+    [
+     "StockAnalysis – Kennzahlen",
+     "https://stockanalysis.com/stocks/unp/statistics/"
+    ],
+    [
+     "Yahoo Finance – Kursdaten",
+     "https://finance.yahoo.com/quote/UNP/history/"
+    ]
+   ]
+  },
+  {
+   "ticker": "CVS",
+   "name": "CVS Health",
+   "sector": "Gesundheit: Apotheken, Krankenversicherung, Arzneimittelabrechnung",
+   "why": "Warum nicht vom KI-Hype profitiert: CVS betreibt Apotheken, die Krankenversicherung Aetna und den Arzneimittel-Abrechner Caremark – ein Geschäft mit riesigen Umsätzen (412,7 Mrd. $ in zwölf Monaten), aber nur 3 % operativer Marge. Die Aktie schloss am Freitag bei 90,25 $, rund 18 % unter dem 52-Wochen-Hoch (110,68 $); ein KI-Bonus ist im Kurs nicht zu erkennen. Die KI-Chance: Kaum eine Branche hat so viel Papier, Abrechnungen und Anrufe wie das US-Gesundheitswesen. CVS investiert über zehn Jahre mehr als 20 Mrd. $ in Technik, die 2026 in die Umsetzungsphase gegangen ist: Seit Juli läuft Health100 mit dem KI-Gesundheitsassistenten „Haio“, Aetna setzt die zweite Generation des „Claims Assist Manager“ ein, der die Bearbeitungszeit komplexer, manuell geprüfter Abrechnungen um mehr als 20 % senken soll, und in der Gesundheitsversorgung analysiert KI mehr als eine Milliarde Seiten klinischer Unterlagen (Zacks). Bei diesen Kostenblöcken wirken schon kleine Effizienzgewinne stark: 1 % weniger Verwaltungsaufwand bedeutet bei CVS Milliardenbeträge. Bewertung und Kapital: erwartetes KGV 11,1 (unter dem historischen Median von 11,14 und dem Branchenschnitt von 16,2), freier Cashflow 11,8 Mrd. $ (Rendite 10,2 %), Dividendenrendite 2,95 %; Analysten sehen im Schnitt 115,48 $ („Strong Buy“, 27 Analysten, +28 %). Nächster Termin: Zahlen am Mittwoch, 4. November, vorbörslich – Zacks erwartet 1,62 $ je Aktie (+1,3 %) und 105,04 Mrd. $ Umsatz; in den letzten vier Quartalen lag CVS im Schnitt 20,5 % über den Gewinnschätzungen. Risiken: steigende medizinische Kosten bei Aetna, Druck im 340B-Geschäft und erwartete Mitgliederverluste bei Caremark 2027, politische Eingriffe in Arzneimittelpreise (ein Machtwechsel im Kongress könnte den Preisdruck auf die Pharmabranche erhöhen), Nettoschulden von 62,4 Mrd. $ und Altman-Z-Score 2,43.",
+   "sources": [
+    [
+     "Yahoo Finance (Zacks) – CVS Health vor den Q3-Zahlen",
+     "https://finance.yahoo.com/markets/stocks/articles/cvs-health-q3-earnings-preview-114100212.html"
+    ],
+    [
+     "CVS Health – Termin Q3-Telefonkonferenz",
+     "https://www.cvshealth.com/news/company-news/cvs-health-to-hold-third-quarter-2026-earnings-conference-call.html"
+    ],
+    [
+     "Motley Fool – CVS Q2-Telefonkonferenz (Transkript)",
+     "https://www.fool.com/earnings/call-transcripts/2026/08/12/cvs-health-cvs-q2-2026-earnings-call-transcript/"
+    ],
+    [
+     "CNBC – Ausblick auf die Woche 2.–6.11.",
+     "https://www.cnbc.com/2026/10/30/stock-market-next-week-outlook-for-nov-2-6-2026.html"
+    ],
+    [
+     "StockAnalysis – Kennzahlen",
+     "https://stockanalysis.com/stocks/cvs/statistics/"
+    ],
+    [
+     "Yahoo Finance – Kursdaten",
+     "https://finance.yahoo.com/quote/CVS/history/"
+    ]
+   ]
+  }
+ ],
+ "charts": {
+  "source": "Yahoo Finance (Tagesschlusskurse)",
+  "series": {
+   "LMND": {
+    "label": "LMND",
+    "data": [
+     [
+      "2026-08-03",
+      53.05
+     ],
+     [
+      "2026-08-04",
+      54.11
+     ],
+     [
+      "2026-08-05",
+      52.06
+     ],
+     [
+      "2026-08-06",
+      51.86
+     ],
+     [
+      "2026-08-07",
+      52.94
+     ],
+     [
+      "2026-08-10",
+      52.68
+     ],
+     [
+      "2026-08-11",
+      52.87
+     ],
+     [
+      "2026-08-12",
+      51.64
+     ],
+     [
+      "2026-08-13",
+      52.98
+     ],
+     [
+      "2026-08-14",
+      52.64
+     ],
+     [
+      "2026-08-17",
+      49.95
+     ],
+     [
+      "2026-08-18",
+      50.12
+     ],
+     [
+      "2026-08-19",
+      51.25
+     ],
+     [
+      "2026-08-20",
+      50.71
+     ],
+     [
+      "2026-08-21",
+      53.37
+     ],
+     [
+      "2026-08-24",
+      53.85
+     ],
+     [
+      "2026-08-25",
+      54.42
+     ],
+     [
+      "2026-08-26",
+      53.64
+     ],
+     [
+      "2026-08-27",
+      53.93
+     ],
+     [
+      "2026-08-28",
+      52.96
+     ],
+     [
+      "2026-08-31",
+      52.23
+     ],
+     [
+      "2026-09-01",
+      51.34
+     ],
+     [
+      "2026-09-02",
+      53.14
+     ],
+     [
+      "2026-09-03",
+      55.08
+     ],
+     [
+      "2026-09-04",
+      53.41
+     ],
+     [
+      "2026-09-08",
+      50.55
+     ],
+     [
+      "2026-09-09",
+      49.22
+     ],
+     [
+      "2026-09-10",
+      49.61
+     ],
+     [
+      "2026-09-11",
+      49.4
+     ],
+     [
+      "2026-09-14",
+      50.03
+     ],
+     [
+      "2026-09-15",
+      49.74
+     ],
+     [
+      "2026-09-16",
+      48.57
+     ],
+     [
+      "2026-09-17",
+      48.58
+     ],
+     [
+      "2026-09-18",
+      47.09
+     ],
+     [
+      "2026-09-21",
+      47.86
+     ],
+     [
+      "2026-09-22",
+      47.69
+     ],
+     [
+      "2026-09-23",
+      44.36
+     ],
+     [
+      "2026-09-24",
+      45.28
+     ],
+     [
+      "2026-09-25",
+      44.93
+     ],
+     [
+      "2026-09-28",
+      43.91
+     ],
+     [
+      "2026-09-29",
+      44.6
+     ],
+     [
+      "2026-09-30",
+      45.14
+     ],
+     [
+      "2026-10-01",
+      46.76
+     ],
+     [
+      "2026-10-02",
+      46.49
+     ],
+     [
+      "2026-10-05",
+      46.67
+     ],
+     [
+      "2026-10-06",
+      46.3
+     ],
+     [
+      "2026-10-07",
+      46.83
+     ],
+     [
+      "2026-10-08",
+      46.91
+     ],
+     [
+      "2026-10-09",
+      46.46
+     ],
+     [
+      "2026-10-12",
+      45.15
+     ],
+     [
+      "2026-10-13",
+      44.71
+     ],
+     [
+      "2026-10-14",
+      43.86
+     ],
+     [
+      "2026-10-15",
+      45.86
+     ],
+     [
+      "2026-10-16",
+      44.2
+     ],
+     [
+      "2026-10-19",
+      43.15
+     ],
+     [
+      "2026-10-20",
+      45.4
+     ],
+     [
+      "2026-10-21",
+      45.28
+     ],
+     [
+      "2026-10-22",
+      45.41
+     ],
+     [
+      "2026-10-23",
+      44.92
+     ],
+     [
+      "2026-10-26",
+      45.08
+     ],
+     [
+      "2026-10-27",
+      45.91
+     ],
+     [
+      "2026-10-28",
+      45.36
+     ],
+     [
+      "2026-10-29",
+      45.91
+     ],
+     [
+      "2026-10-30",
+      42.94
+     ]
+    ]
+   },
+   "CRWV": {
+    "label": "CRWV",
+    "data": [
+     [
+      "2026-08-03",
+      85.76
+     ],
+     [
+      "2026-08-04",
+      91.9
+     ],
+     [
+      "2026-08-05",
+      89.89
+     ],
+     [
+      "2026-08-06",
+      85.33
+     ],
+     [
+      "2026-08-07",
+      90.67
+     ],
+     [
+      "2026-08-10",
+      88.19
+     ],
+     [
+      "2026-08-11",
+      90.32
+     ],
+     [
+      "2026-08-12",
+      107.73
+     ],
+     [
+      "2026-08-13",
+      106.29
+     ],
+     [
+      "2026-08-14",
+      105.26
+     ],
+     [
+      "2026-08-17",
+      106.0
+     ],
+     [
+      "2026-08-18",
+      93.17
+     ],
+     [
+      "2026-08-19",
+      90.87
+     ],
+     [
+      "2026-08-20",
+      89.76
+     ],
+     [
+      "2026-08-21",
+      87.85
+     ],
+     [
+      "2026-08-24",
+      86.25
+     ],
+     [
+      "2026-08-25",
+      88.04
+     ],
+     [
+      "2026-08-26",
+      88.01
+     ],
+     [
+      "2026-08-27",
+      86.8
+     ],
+     [
+      "2026-08-28",
+      84.23
+     ],
+     [
+      "2026-08-31",
+      84.89
+     ],
+     [
+      "2026-09-01",
+      81.85
+     ],
+     [
+      "2026-09-02",
+      80.93
+     ],
+     [
+      "2026-09-03",
+      84.56
+     ],
+     [
+      "2026-09-04",
+      89.36
+     ],
+     [
+      "2026-09-08",
+      99.83
+     ],
+     [
+      "2026-09-09",
+      94.94
+     ],
+     [
+      "2026-09-10",
+      89.12
+     ],
+     [
+      "2026-09-11",
+      88.99
+     ],
+     [
+      "2026-09-14",
+      82.98
+     ],
+     [
+      "2026-09-15",
+      80.92
+     ],
+     [
+      "2026-09-16",
+      83.35
+     ],
+     [
+      "2026-09-17",
+      79.88
+     ],
+     [
+      "2026-09-18",
+      81.36
+     ],
+     [
+      "2026-09-21",
+      85.43
+     ],
+     [
+      "2026-09-22",
+      86.76
+     ],
+     [
+      "2026-09-23",
+      86.9
+     ],
+     [
+      "2026-09-24",
+      90.13
+     ],
+     [
+      "2026-09-25",
+      87.59
+     ],
+     [
+      "2026-09-28",
+      85.07
+     ],
+     [
+      "2026-09-29",
+      85.93
+     ],
+     [
+      "2026-09-30",
+      87.12
+     ],
+     [
+      "2026-10-01",
+      88.57
+     ],
+     [
+      "2026-10-02",
+      89.62
+     ],
+     [
+      "2026-10-05",
+      87.39
+     ],
+     [
+      "2026-10-06",
+      91.72
+     ],
+     [
+      "2026-10-07",
+      88.45
+     ],
+     [
+      "2026-10-08",
+      81.58
+     ],
+     [
+      "2026-10-09",
+      82.08
+     ],
+     [
+      "2026-10-12",
+      80.26
+     ],
+     [
+      "2026-10-13",
+      77.81
+     ],
+     [
+      "2026-10-14",
+      65.78
+     ],
+     [
+      "2026-10-15",
+      69.69
+     ],
+     [
+      "2026-10-16",
+      61.39
+     ],
+     [
+      "2026-10-19",
+      61.12
+     ],
+     [
+      "2026-10-20",
+      62.13
+     ],
+     [
+      "2026-10-21",
+      61.82
+     ],
+     [
+      "2026-10-22",
+      55.6
+     ],
+     [
+      "2026-10-23",
+      54.235
+     ],
+     [
+      "2026-10-26",
+      55.19
+     ],
+     [
+      "2026-10-27",
+      59.57
+     ],
+     [
+      "2026-10-28",
+      63.93
+     ],
+     [
+      "2026-10-29",
+      60.74
+     ],
+     [
+      "2026-10-30",
+      54.87
+     ]
+    ]
+   },
+   "UBER": {
+    "label": "UBER",
+    "data": [
+     [
+      "2026-08-03",
+      71.61
+     ],
+     [
+      "2026-08-04",
+      71.99
+     ],
+     [
+      "2026-08-05",
+      68.18
+     ],
+     [
+      "2026-08-06",
+      70.47
+     ],
+     [
+      "2026-08-07",
+      75.02
+     ],
+     [
+      "2026-08-10",
+      78.03
+     ],
+     [
+      "2026-08-11",
+      78.54
+     ],
+     [
+      "2026-08-12",
+      75.36
+     ],
+     [
+      "2026-08-13",
+      75.88
+     ],
+     [
+      "2026-08-14",
+      75.95
+     ],
+     [
+      "2026-08-17",
+      74.99
+     ],
+     [
+      "2026-08-18",
+      74.66
+     ],
+     [
+      "2026-08-19",
+      78.04
+     ],
+     [
+      "2026-08-20",
+      78.55
+     ],
+     [
+      "2026-08-21",
+      78.8
+     ],
+     [
+      "2026-08-24",
+      79.29
+     ],
+     [
+      "2026-08-25",
+      80.35
+     ],
+     [
+      "2026-08-26",
+      78.49
+     ],
+     [
+      "2026-08-27",
+      76.95
+     ],
+     [
+      "2026-08-28",
+      78.82
+     ],
+     [
+      "2026-08-31",
+      75.65
+     ],
+     [
+      "2026-09-01",
+      75.24
+     ],
+     [
+      "2026-09-02",
+      76.45
+     ],
+     [
+      "2026-09-03",
+      75.96
+     ],
+     [
+      "2026-09-04",
+      75.76
+     ],
+     [
+      "2026-09-08",
+      73.13
+     ],
+     [
+      "2026-09-09",
+      71.08
+     ],
+     [
+      "2026-09-10",
+      72.56
+     ],
+     [
+      "2026-09-11",
+      71.67
+     ],
+     [
+      "2026-09-14",
+      72.63
+     ],
+     [
+      "2026-09-15",
+      71.43
+     ],
+     [
+      "2026-09-16",
+      70.97
+     ],
+     [
+      "2026-09-17",
+      70.87
+     ],
+     [
+      "2026-09-18",
+      70.5
+     ],
+     [
+      "2026-09-21",
+      70.84
+     ],
+     [
+      "2026-09-22",
+      69.89
+     ],
+     [
+      "2026-09-23",
+      69.42
+     ],
+     [
+      "2026-09-24",
+      69.22
+     ],
+     [
+      "2026-09-25",
+      69.62
+     ],
+     [
+      "2026-09-28",
+      68.16
+     ],
+     [
+      "2026-09-29",
+      69.36
+     ],
+     [
+      "2026-09-30",
+      68.51
+     ],
+     [
+      "2026-10-01",
+      67.88
+     ],
+     [
+      "2026-10-02",
+      68.11
+     ],
+     [
+      "2026-10-05",
+      69.48
+     ],
+     [
+      "2026-10-06",
+      69.08
+     ],
+     [
+      "2026-10-07",
+      68.45
+     ],
+     [
+      "2026-10-08",
+      70.24
+     ],
+     [
+      "2026-10-09",
+      71.51
+     ],
+     [
+      "2026-10-12",
+      71.5
+     ],
+     [
+      "2026-10-13",
+      71.32
+     ],
+     [
+      "2026-10-14",
+      69.29
+     ],
+     [
+      "2026-10-15",
+      71.27
+     ],
+     [
+      "2026-10-16",
+      70.35
+     ],
+     [
+      "2026-10-19",
+      69.96
+     ],
+     [
+      "2026-10-20",
+      68.94
+     ],
+     [
+      "2026-10-21",
+      67.62
+     ],
+     [
+      "2026-10-22",
+      69.07
+     ],
+     [
+      "2026-10-23",
+      66.7
+     ],
+     [
+      "2026-10-26",
+      66.13
+     ],
+     [
+      "2026-10-27",
+      65.78
+     ],
+     [
+      "2026-10-28",
+      65.27
+     ],
+     [
+      "2026-10-29",
+      65.74
+     ],
+     [
+      "2026-10-30",
+      65.25
+     ]
+    ]
+   },
+   "NBIS": {
+    "label": "NBIS",
+    "data": [
+     [
+      "2026-08-03",
+      212.58
+     ],
+     [
+      "2026-08-04",
+      225.74
+     ],
+     [
+      "2026-08-05",
+      218.99
+     ],
+     [
+      "2026-08-06",
+      189.88
+     ],
+     [
+      "2026-08-07",
+      187.97
+     ],
+     [
+      "2026-08-10",
+      184.11
+     ],
+     [
+      "2026-08-11",
+      193.23
+     ],
+     [
+      "2026-08-12",
+      259.2
+     ],
+     [
+      "2026-08-13",
+      255.04
+     ],
+     [
+      "2026-08-14",
+      277.68
+     ],
+     [
+      "2026-08-17",
+      268.85
+     ],
+     [
+      "2026-08-18",
+      248.43
+     ],
+     [
+      "2026-08-19",
+      223.9
+     ],
+     [
+      "2026-08-20",
+      220.11
+     ],
+     [
+      "2026-08-21",
+      219.13
+     ],
+     [
+      "2026-08-24",
+      210.91
+     ],
+     [
+      "2026-08-25",
+      221.97
+     ],
+     [
+      "2026-08-26",
+      213.93
+     ],
+     [
+      "2026-08-27",
+      218.48
+     ],
+     [
+      "2026-08-28",
+      209.18
+     ],
+     [
+      "2026-08-31",
+      206.32
+     ],
+     [
+      "2026-09-01",
+      199.54
+     ],
+     [
+      "2026-09-02",
+      204.09
+     ],
+     [
+      "2026-09-03",
+      210.63
+     ],
+     [
+      "2026-09-04",
+      226.39
+     ],
+     [
+      "2026-09-08",
+      243.88
+     ],
+     [
+      "2026-09-09",
+      240.35
+     ],
+     [
+      "2026-09-10",
+      228.11
+     ],
+     [
+      "2026-09-11",
+      224.55
+     ],
+     [
+      "2026-09-14",
+      212.19
+     ],
+     [
+      "2026-09-15",
+      207.37
+     ],
+     [
+      "2026-09-16",
+      209.37
+     ],
+     [
+      "2026-09-17",
+      217.99
+     ],
+     [
+      "2026-09-18",
+      223.54
+     ],
+     [
+      "2026-09-21",
+      232.8
+     ],
+     [
+      "2026-09-22",
+      236.12
+     ],
+     [
+      "2026-09-23",
+      226.61
+     ],
+     [
+      "2026-09-24",
+      243.48
+     ],
+     [
+      "2026-09-25",
+      237.33
+     ],
+     [
+      "2026-09-28",
+      231.88
+     ],
+     [
+      "2026-09-29",
+      237.355
+     ],
+     [
+      "2026-09-30",
+      235.88
+     ],
+     [
+      "2026-10-01",
+      232.28
+     ],
+     [
+      "2026-10-02",
+      242.81
+     ],
+     [
+      "2026-10-05",
+      232.57
+     ],
+     [
+      "2026-10-06",
+      249.87
+     ],
+     [
+      "2026-10-07",
+      237.15
+     ],
+     [
+      "2026-10-08",
+      219.71
+     ],
+     [
+      "2026-10-09",
+      221.07
+     ],
+     [
+      "2026-10-12",
+      210.06
+     ],
+     [
+      "2026-10-13",
+      206.86
+     ],
+     [
+      "2026-10-14",
+      186.01
+     ],
+     [
+      "2026-10-15",
+      188.41
+     ],
+     [
+      "2026-10-16",
+      165.47
+     ],
+     [
+      "2026-10-19",
+      170.24
+     ],
+     [
+      "2026-10-20",
+      171.45
+     ],
+     [
+      "2026-10-21",
+      171.57
+     ],
+     [
+      "2026-10-22",
+      159.17
+     ],
+     [
+      "2026-10-23",
+      158.74
+     ],
+     [
+      "2026-10-26",
+      153.27
+     ],
+     [
+      "2026-10-27",
+      170.47
+     ],
+     [
+      "2026-10-28",
+      182.34
+     ],
+     [
+      "2026-10-29",
+      171.99
+     ],
+     [
+      "2026-10-30",
+      154.14
+     ]
+    ]
+   },
+   "COCO": {
+    "label": "COCO",
+    "data": [
+     [
+      "2026-08-03",
+      63.39
+     ],
+     [
+      "2026-08-04",
+      64.38
+     ],
+     [
+      "2026-08-05",
+      64.84
+     ],
+     [
+      "2026-08-06",
+      64.12
+     ],
+     [
+      "2026-08-07",
+      62.25
+     ],
+     [
+      "2026-08-10",
+      62.78
+     ],
+     [
+      "2026-08-11",
+      64.46
+     ],
+     [
+      "2026-08-12",
+      66.45
+     ],
+     [
+      "2026-08-13",
+      65.21
+     ],
+     [
+      "2026-08-14",
+      65.21
+     ],
+     [
+      "2026-08-17",
+      65.5
+     ],
+     [
+      "2026-08-18",
+      63.54
+     ],
+     [
+      "2026-08-19",
+      67.57
+     ],
+     [
+      "2026-08-20",
+      65.17
+     ],
+     [
+      "2026-08-21",
+      63.35
+     ],
+     [
+      "2026-08-24",
+      63.36
+     ],
+     [
+      "2026-08-25",
+      63.57
+     ],
+     [
+      "2026-08-26",
+      62.8
+     ],
+     [
+      "2026-08-27",
+      61.63
+     ],
+     [
+      "2026-08-28",
+      61.71
+     ],
+     [
+      "2026-08-31",
+      58.715
+     ],
+     [
+      "2026-09-01",
+      58.06
+     ],
+     [
+      "2026-09-02",
+      57.69
+     ],
+     [
+      "2026-09-03",
+      55.08
+     ],
+     [
+      "2026-09-04",
+      55.13
+     ],
+     [
+      "2026-09-08",
+      53.27
+     ],
+     [
+      "2026-09-09",
+      51.49
+     ],
+     [
+      "2026-09-10",
+      51.1
+     ],
+     [
+      "2026-09-11",
+      52.01
+     ],
+     [
+      "2026-09-14",
+      55.03
+     ],
+     [
+      "2026-09-15",
+      55.78
+     ],
+     [
+      "2026-09-16",
+      56.37
+     ],
+     [
+      "2026-09-17",
+      56.24
+     ],
+     [
+      "2026-09-18",
+      55.82
+     ],
+     [
+      "2026-09-21",
+      57.25
+     ],
+     [
+      "2026-09-22",
+      59.6
+     ],
+     [
+      "2026-09-23",
+      57.98
+     ],
+     [
+      "2026-09-24",
+      59.17
+     ],
+     [
+      "2026-09-25",
+      58.59
+     ],
+     [
+      "2026-09-28",
+      57.66
+     ],
+     [
+      "2026-09-29",
+      56.55
+     ],
+     [
+      "2026-09-30",
+      57.255
+     ],
+     [
+      "2026-10-01",
+      57.01
+     ],
+     [
+      "2026-10-02",
+      55.97
+     ],
+     [
+      "2026-10-05",
+      55.32
+     ],
+     [
+      "2026-10-06",
+      54.48
+     ],
+     [
+      "2026-10-07",
+      50.65
+     ],
+     [
+      "2026-10-08",
+      55.98
+     ],
+     [
+      "2026-10-09",
+      58.39
+     ],
+     [
+      "2026-10-12",
+      57.72
+     ],
+     [
+      "2026-10-13",
+      57.61
+     ],
+     [
+      "2026-10-14",
+      58.56
+     ],
+     [
+      "2026-10-15",
+      57.67
+     ],
+     [
+      "2026-10-16",
+      58.69
+     ],
+     [
+      "2026-10-19",
+      59.08
+     ],
+     [
+      "2026-10-20",
+      61.77
+     ],
+     [
+      "2026-10-21",
+      63.5
+     ],
+     [
+      "2026-10-22",
+      59.0
+     ],
+     [
+      "2026-10-23",
+      56.53
+     ],
+     [
+      "2026-10-26",
+      55.795
+     ],
+     [
+      "2026-10-27",
+      54.76
+     ],
+     [
+      "2026-10-28",
+      56.37
+     ],
+     [
+      "2026-10-29",
+      56.27
+     ],
+     [
+      "2026-10-30",
+      58.48
+     ]
+    ]
+   },
+   "PATH": {
+    "label": "PATH",
+    "data": [
+     [
+      "2026-08-03",
+      13.05
+     ],
+     [
+      "2026-08-04",
+      14.1
+     ],
+     [
+      "2026-08-05",
+      13.82
+     ],
+     [
+      "2026-08-06",
+      14.0
+     ],
+     [
+      "2026-08-07",
+      15.05
+     ],
+     [
+      "2026-08-10",
+      15.59
+     ],
+     [
+      "2026-08-11",
+      15.72
+     ],
+     [
+      "2026-08-12",
+      15.26
+     ],
+     [
+      "2026-08-13",
+      16.68
+     ],
+     [
+      "2026-08-14",
+      16.01
+     ],
+     [
+      "2026-08-17",
+      15.99
+     ],
+     [
+      "2026-08-18",
+      15.58
+     ],
+     [
+      "2026-08-19",
+      15.78
+     ],
+     [
+      "2026-08-20",
+      15.92
+     ],
+     [
+      "2026-08-21",
+      16.39
+     ],
+     [
+      "2026-08-24",
+      16.57
+     ],
+     [
+      "2026-08-25",
+      16.66
+     ],
+     [
+      "2026-08-26",
+      16.76
+     ],
+     [
+      "2026-08-27",
+      18.33
+     ],
+     [
+      "2026-08-28",
+      18.15
+     ],
+     [
+      "2026-08-31",
+      18.67
+     ],
+     [
+      "2026-09-01",
+      18.14
+     ],
+     [
+      "2026-09-02",
+      17.99
+     ],
+     [
+      "2026-09-03",
+      18.22
+     ],
+     [
+      "2026-09-04",
+      15.19
+     ],
+     [
+      "2026-09-08",
+      14.01
+     ],
+     [
+      "2026-09-09",
+      13.57
+     ],
+     [
+      "2026-09-10",
+      13.87
+     ],
+     [
+      "2026-09-11",
+      13.75
+     ],
+     [
+      "2026-09-14",
+      14.66
+     ],
+     [
+      "2026-09-15",
+      14.23
+     ],
+     [
+      "2026-09-16",
+      13.63
+     ],
+     [
+      "2026-09-17",
+      13.76
+     ],
+     [
+      "2026-09-18",
+      13.39
+     ],
+     [
+      "2026-09-21",
+      13.59
+     ],
+     [
+      "2026-09-22",
+      13.25
+     ],
+     [
+      "2026-09-23",
+      13.04
+     ],
+     [
+      "2026-09-24",
+      12.6
+     ],
+     [
+      "2026-09-25",
+      12.46
+     ],
+     [
+      "2026-09-28",
+      12.19
+     ],
+     [
+      "2026-09-29",
+      12.32
+     ],
+     [
+      "2026-09-30",
+      12.84
+     ],
+     [
+      "2026-10-01",
+      13.32
+     ],
+     [
+      "2026-10-02",
+      13.12
+     ],
+     [
+      "2026-10-05",
+      13.16
+     ],
+     [
+      "2026-10-06",
+      13.1
+     ],
+     [
+      "2026-10-07",
+      13.07
+     ],
+     [
+      "2026-10-08",
+      13.25
+     ],
+     [
+      "2026-10-09",
+      13.48
+     ],
+     [
+      "2026-10-12",
+      13.32
+     ],
+     [
+      "2026-10-13",
+      13.25
+     ],
+     [
+      "2026-10-14",
+      13.06
+     ],
+     [
+      "2026-10-15",
+      13.71
+     ],
+     [
+      "2026-10-16",
+      12.85
+     ],
+     [
+      "2026-10-19",
+      13.12
+     ],
+     [
+      "2026-10-20",
+      13.43
+     ],
+     [
+      "2026-10-21",
+      13.71
+     ],
+     [
+      "2026-10-22",
+      13.94
+     ],
+     [
+      "2026-10-23",
+      14.13
+     ],
+     [
+      "2026-10-26",
+      14.3
+     ],
+     [
+      "2026-10-27",
+      14.06
+     ],
+     [
+      "2026-10-28",
+      14.19
+     ],
+     [
+      "2026-10-29",
+      13.78
+     ],
+     [
+      "2026-10-30",
+      13.73
+     ]
+    ]
+   },
+   "MU": {
+    "label": "MU",
+    "data": [
+     [
+      "2026-08-03",
+      829.5
+     ],
+     [
+      "2026-08-04",
+      892.67
+     ],
+     [
+      "2026-08-05",
+      893.19
+     ],
+     [
+      "2026-08-06",
+      881.47
+     ],
+     [
+      "2026-08-07",
+      877.57
+     ],
+     [
+      "2026-08-10",
+      861.0
+     ],
+     [
+      "2026-08-11",
+      868.52
+     ],
+     [
+      "2026-08-12",
+      911.29
+     ],
+     [
+      "2026-08-13",
+      949.83
+     ],
+     [
+      "2026-08-14",
+      971.66
+     ],
+     [
+      "2026-08-17",
+      1011.75
+     ],
+     [
+      "2026-08-18",
+      940.76
+     ],
+     [
+      "2026-08-19",
+      937.11
+     ],
+     [
+      "2026-08-20",
+      974.33
+     ],
+     [
+      "2026-08-21",
+      966.78
+     ],
+     [
+      "2026-08-24",
+      910.43
+     ],
+     [
+      "2026-08-25",
+      932.97
+     ],
+     [
+      "2026-08-26",
+      938.4
+     ],
+     [
+      "2026-08-27",
+      935.39
+     ],
+     [
+      "2026-08-28",
+      932.86
+     ],
+     [
+      "2026-08-31",
+      958.73
+     ],
+     [
+      "2026-09-01",
+      933.44
+     ],
+     [
+      "2026-09-02",
+      956.08
+     ],
+     [
+      "2026-09-03",
+      958.16
+     ],
+     [
+      "2026-09-04",
+      1016.59
+     ],
+     [
+      "2026-09-08",
+      1000.26
+     ],
+     [
+      "2026-09-09",
+      1027.77
+     ],
+     [
+      "2026-09-10",
+      977.41
+     ],
+     [
+      "2026-09-11",
+      975.26
+     ],
+     [
+      "2026-09-14",
+      924.03
+     ],
+     [
+      "2026-09-15",
+      927.6
+     ],
+     [
+      "2026-09-16",
+      926.55
+     ],
+     [
+      "2026-09-17",
+      977.5
+     ],
+     [
+      "2026-09-18",
+      1015.8
+     ],
+     [
+      "2026-09-21",
+      1043.96
+     ],
+     [
+      "2026-09-22",
+      1096.16
+     ],
+     [
+      "2026-09-23",
+      1071.88
+     ],
+     [
+      "2026-09-24",
+      1080.53
+     ],
+     [
+      "2026-09-25",
+      1082.28
+     ],
+     [
+      "2026-09-28",
+      1053.98
+     ],
+     [
+      "2026-09-29",
+      1065.08
+     ],
+     [
+      "2026-09-30",
+      1065.11
+     ],
+     [
+      "2026-10-01",
+      1097.39
+     ],
+     [
+      "2026-10-02",
+      1074.89
+     ],
+     [
+      "2026-10-05",
+      1063.96
+     ],
+     [
+      "2026-10-06",
+      1045.5601
+     ],
+     [
+      "2026-10-07",
+      1088.0
+     ],
+     [
+      "2026-10-08",
+      1035.84
+     ],
+     [
+      "2026-10-09",
+      1029.0
+     ],
+     [
+      "2026-10-12",
+      989.04
+     ],
+     [
+      "2026-10-13",
+      953.19
+     ],
+     [
+      "2026-10-14",
+      914.13
+     ],
+     [
+      "2026-10-15",
+      931.24
+     ],
+     [
+      "2026-10-16",
+      878.84
+     ],
+     [
+      "2026-10-19",
+      904.9
+     ],
+     [
+      "2026-10-20",
+      896.07
+     ],
+     [
+      "2026-10-21",
+      913.67
+     ],
+     [
+      "2026-10-22",
+      856.49
+     ],
+     [
+      "2026-10-23",
+      877.55
+     ],
+     [
+      "2026-10-26",
+      903.7
+     ],
+     [
+      "2026-10-27",
+      928.76
+     ],
+     [
+      "2026-10-28",
+      983.23
+     ],
+     [
+      "2026-10-29",
+      934.27
+     ],
+     [
+      "2026-10-30",
+      884.74
+     ]
+    ]
+   },
+   "^GSPC": {
+    "label": "S&P 500",
+    "data": [
+     [
+      "2026-08-03",
+      7600.5
+     ],
+     [
+      "2026-08-04",
+      7736.52
+     ],
+     [
+      "2026-08-05",
+      7723.5498
+     ],
+     [
+      "2026-08-06",
+      7709.96
+     ],
+     [
+      "2026-08-07",
+      7757.6401
+     ],
+     [
+      "2026-08-10",
+      7753.1099
+     ],
+     [
+      "2026-08-11",
+      7728.2002
+     ],
+     [
+      "2026-08-12",
+      7748.5
+     ],
+     [
+      "2026-08-13",
+      7798.9902
+     ],
+     [
+      "2026-08-14",
+      7785.7598
+     ],
+     [
+      "2026-08-17",
+      7745.0601
+     ],
+     [
+      "2026-08-18",
+      7691.7598
+     ],
+     [
+      "2026-08-19",
+      7707.98
+     ],
+     [
+      "2026-08-20",
+      7641.1602
+     ],
+     [
+      "2026-08-21",
+      7674.3701
+     ],
+     [
+      "2026-08-24",
+      7652.8599
+     ],
+     [
+      "2026-08-25",
+      7677.2798
+     ],
+     [
+      "2026-08-26",
+      7675.7002
+     ],
+     [
+      "2026-08-27",
+      7730.9902
+     ],
+     [
+      "2026-08-28",
+      7711.7598
+     ],
+     [
+      "2026-08-31",
+      7686.1401
+     ],
+     [
+      "2026-09-01",
+      7631.4702
+     ],
+     [
+      "2026-09-02",
+      7666.6001
+     ],
+     [
+      "2026-09-03",
+      7747.71
+     ],
+     [
+      "2026-09-04",
+      7718.6001
+     ],
+     [
+      "2026-09-08",
+      7673.52
+     ],
+     [
+      "2026-09-09",
+      7636.3599
+     ],
+     [
+      "2026-09-10",
+      7591.7002
+     ],
+     [
+      "2026-09-11",
+      7656.98
+     ],
+     [
+      "2026-09-14",
+      7619.98
+     ],
+     [
+      "2026-09-15",
+      7585.73
+     ],
+     [
+      "2026-09-16",
+      7551.8101
+     ],
+     [
+      "2026-09-17",
+      7637.7598
+     ],
+     [
+      "2026-09-18",
+      7650.5
+     ],
+     [
+      "2026-09-21",
+      7764.7002
+     ],
+     [
+      "2026-09-22",
+      7764.6401
+     ],
+     [
+      "2026-09-23",
+      7706.0298
+     ],
+     [
+      "2026-09-24",
+      7704.1299
+     ],
+     [
+      "2026-09-25",
+      7743.4102
+     ],
+     [
+      "2026-09-28",
+      7683.6899
+     ],
+     [
+      "2026-09-29",
+      7670.8398
+     ],
+     [
+      "2026-09-30",
+      7651.54
+     ],
+     [
+      "2026-10-01",
+      7666.4502
+     ],
+     [
+      "2026-10-02",
+      7722.7202
+     ],
+     [
+      "2026-10-05",
+      7773.9502
+     ],
+     [
+      "2026-10-06",
+      7818.9302
+     ],
+     [
+      "2026-10-07",
+      7801.77
+     ],
+     [
+      "2026-10-08",
+      7765.3599
+     ],
+     [
+      "2026-10-09",
+      7811.54
+     ],
+     [
+      "2026-10-12",
+      7807.2402
+     ],
+     [
+      "2026-10-13",
+      7805.4502
+     ],
+     [
+      "2026-10-14",
+      7718.9399
+     ],
+     [
+      "2026-10-15",
+      7744.0601
+     ],
+     [
+      "2026-10-16",
+      7659.4399
+     ],
+     [
+      "2026-10-19",
+      7690.73
+     ],
+     [
+      "2026-10-20",
+      7712.5698
+     ],
+     [
+      "2026-10-21",
+      7757.1699
+     ],
+     [
+      "2026-10-22",
+      7663.4302
+     ],
+     [
+      "2026-10-23",
+      7623.6802
+     ],
+     [
+      "2026-10-26",
+      7676.77
+     ],
+     [
+      "2026-10-27",
+      7722.6001
+     ],
+     [
+      "2026-10-28",
+      7743.98
+     ],
+     [
+      "2026-10-29",
+      7720.3901
+     ],
+     [
+      "2026-10-30",
+      7580.0698
+     ]
+    ]
+   },
+   "^IXIC": {
+    "label": "Nasdaq",
+    "data": [
+     [
+      "2026-08-03",
+      25913.9004
+     ],
+     [
+      "2026-08-04",
+      26584.9902
+     ],
+     [
+      "2026-08-05",
+      26363.4395
+     ],
+     [
+      "2026-08-06",
+      26348.3496
+     ],
+     [
+      "2026-08-07",
+      26690.6191
+     ],
+     [
+      "2026-08-10",
+      26605.3594
+     ],
+     [
+      "2026-08-11",
+      26445.4492
+     ],
+     [
+      "2026-08-12",
+      26588.4902
+     ],
+     [
+      "2026-08-13",
+      26803.0293
+     ],
+     [
+      "2026-08-14",
+      26729.1602
+     ],
+     [
+      "2026-08-17",
+      26644.9102
+     ],
+     [
+      "2026-08-18",
+      26289.7109
+     ],
+     [
+      "2026-08-19",
+      26331.0898
+     ],
+     [
+      "2026-08-20",
+      26067.1699
+     ],
+     [
+      "2026-08-21",
+      26180.4609
+     ],
+     [
+      "2026-08-24",
+      25980.1895
+     ],
+     [
+      "2026-08-25",
+      26151.3008
+     ],
+     [
+      "2026-08-26",
+      26130.1992
+     ],
+     [
+      "2026-08-27",
+      26541.3496
+     ],
+     [
+      "2026-08-28",
+      26402.4199
+     ],
+     [
+      "2026-08-31",
+      26370.8906
+     ],
+     [
+      "2026-09-01",
+      26099.7695
+     ],
+     [
+      "2026-09-02",
+      26217.8301
+     ],
+     [
+      "2026-09-03",
+      26584.0605
+     ],
+     [
+      "2026-09-04",
+      26506.9902
+     ],
+     [
+      "2026-09-08",
+      26421.4102
+     ],
+     [
+      "2026-09-09",
+      26253.3398
+     ],
+     [
+      "2026-09-10",
+      26081.7207
+     ],
+     [
+      "2026-09-11",
+      26333.0391
+     ],
+     [
+      "2026-09-14",
+      26186.4102
+     ],
+     [
+      "2026-09-15",
+      25981.5703
+     ],
+     [
+      "2026-09-16",
+      25978.4297
+     ],
+     [
+      "2026-09-17",
+      26418.3008
+     ],
+     [
+      "2026-09-18",
+      26522.5391
+     ],
+     [
+      "2026-09-21",
+      27122.0898
+     ],
+     [
+      "2026-09-22",
+      27244.2793
+     ],
+     [
+      "2026-09-23",
+      26936.0391
+     ],
+     [
+      "2026-09-24",
+      26939.3691
+     ],
+     [
+      "2026-09-25",
+      27068.7207
+     ],
+     [
+      "2026-09-28",
+      26820.3809
+     ],
+     [
+      "2026-09-29",
+      26797.5391
+     ],
+     [
+      "2026-09-30",
+      26861.0605
+     ],
+     [
+      "2026-10-01",
+      26871.5996
+     ],
+     [
+      "2026-10-02",
+      27190.8594
+     ],
+     [
+      "2026-10-05",
+      27477.3105
+     ],
+     [
+      "2026-10-06",
+      27599.7891
+     ],
+     [
+      "2026-10-07",
+      27538.6895
+     ],
+     [
+      "2026-10-08",
+      27193.3398
+     ],
+     [
+      "2026-10-09",
+      27366.1699
+     ],
+     [
+      "2026-10-12",
+      27245.9004
+     ],
+     [
+      "2026-10-13",
+      27204.3809
+     ],
+     [
+      "2026-10-14",
+      26692.8691
+     ],
+     [
+      "2026-10-15",
+      26713.0293
+     ],
+     [
+      "2026-10-16",
+      26140.0293
+     ],
+     [
+      "2026-10-19",
+      26430.8906
+     ],
+     [
+      "2026-10-20",
+      26424.8203
+     ],
+     [
+      "2026-10-21",
+      26702.8594
+     ],
+     [
+      "2026-10-22",
+      26008.8594
+     ],
+     [
+      "2026-10-23",
+      25955.3398
+     ],
+     [
+      "2026-10-26",
+      26169.3809
+     ],
+     [
+      "2026-10-27",
+      26477.8105
+     ],
+     [
+      "2026-10-28",
+      26549.8496
+     ],
+     [
+      "2026-10-29",
+      26184.7207
+     ],
+     [
+      "2026-10-30",
+      25437.0
+     ]
+    ]
+   },
+   "^TNX": {
+    "label": "US-Rendite 10 J. (%)",
+    "data": [
+     [
+      "2026-08-03",
+      4.686
+     ],
+     [
+      "2026-08-04",
+      4.627
+     ],
+     [
+      "2026-08-05",
+      4.617
+     ],
+     [
+      "2026-08-06",
+      4.67
+     ],
+     [
+      "2026-08-07",
+      4.66
+     ],
+     [
+      "2026-08-10",
+      4.699
+     ],
+     [
+      "2026-08-11",
+      4.684
+     ],
+     [
+      "2026-08-12",
+      4.682
+     ],
+     [
+      "2026-08-13",
+      4.641
+     ],
+     [
+      "2026-08-14",
+      4.696
+     ],
+     [
+      "2026-08-17",
+      4.724
+     ],
+     [
+      "2026-08-18",
+      4.706
+     ],
+     [
+      "2026-08-19",
+      4.653
+     ],
+     [
+      "2026-08-20",
+      4.696
+     ],
+     [
+      "2026-08-21",
+      4.738
+     ],
+     [
+      "2026-08-24",
+      4.704
+     ],
+     [
+      "2026-08-25",
+      4.639
+     ],
+     [
+      "2026-08-26",
+      4.664
+     ],
+     [
+      "2026-08-27",
+      4.672
+     ],
+     [
+      "2026-08-28",
+      4.72
+     ],
+     [
+      "2026-08-31",
+      4.758
+     ],
+     [
+      "2026-09-01",
+      4.796
+     ],
+     [
+      "2026-09-02",
+      4.796
+     ],
+     [
+      "2026-09-03",
+      4.762
+     ],
+     [
+      "2026-09-04",
+      4.784
+     ],
+     [
+      "2026-09-08",
+      4.806
+     ],
+     [
+      "2026-09-09",
+      4.837
+     ],
+     [
+      "2026-09-10",
+      4.944
+     ],
+     [
+      "2026-09-11",
+      4.975
+     ],
+     [
+      "2026-09-14",
+      4.961
+     ],
+     [
+      "2026-09-15",
+      4.996
+     ],
+     [
+      "2026-09-16",
+      5.006
+     ],
+     [
+      "2026-09-17",
+      4.947
+     ],
+     [
+      "2026-09-18",
+      4.998
+     ],
+     [
+      "2026-09-21",
+      4.963
+     ],
+     [
+      "2026-09-22",
+      4.968
+     ],
+     [
+      "2026-09-23",
+      5.114
+     ],
+     [
+      "2026-09-24",
+      5.162
+     ],
+     [
+      "2026-09-25",
+      5.184
+     ],
+     [
+      "2026-09-28",
+      5.24
+     ],
+     [
+      "2026-09-29",
+      5.255
+     ],
+     [
+      "2026-09-30",
+      5.293
+     ],
+     [
+      "2026-10-01",
+      5.237
+     ],
+     [
+      "2026-10-02",
+      5.277
+     ],
+     [
+      "2026-10-05",
+      5.311
+     ],
+     [
+      "2026-10-06",
+      5.269
+     ],
+     [
+      "2026-10-07",
+      5.277
+     ],
+     [
+      "2026-10-08",
+      5.231
+     ],
+     [
+      "2026-10-09",
+      5.244
+     ],
+     [
+      "2026-10-12",
+      5.24
+     ],
+     [
+      "2026-10-13",
+      5.217
+     ],
+     [
+      "2026-10-14",
+      5.19
+     ],
+     [
+      "2026-10-15",
+      5.089
+     ],
+     [
+      "2026-10-16",
+      5.098
+     ],
+     [
+      "2026-10-19",
+      5.136
+     ],
+     [
+      "2026-10-20",
+      5.117
+     ],
+     [
+      "2026-10-21",
+      5.146
+     ],
+     [
+      "2026-10-22",
+      4.953
+     ],
+     [
+      "2026-10-23",
+      4.988
+     ],
+     [
+      "2026-10-26",
+      4.986
+     ],
+     [
+      "2026-10-27",
+      4.993
+     ],
+     [
+      "2026-10-28",
+      5.045
+     ],
+     [
+      "2026-10-29",
+      4.989
+     ],
+     [
+      "2026-10-30",
+      4.929
+     ]
+    ]
+   },
+   "BZ=F": {
+    "label": "Brent ($/Barrel)",
+    "data": [
+     [
+      "2026-08-03",
+      79.36
+     ],
+     [
+      "2026-08-04",
+      79.45
+     ],
+     [
+      "2026-08-05",
+      82.49
+     ],
+     [
+      "2026-08-06",
+      83.55
+     ],
+     [
+      "2026-08-09",
+      87.72
+     ],
+     [
+      "2026-08-10",
+      88.91
+     ],
+     [
+      "2026-08-11",
+      88.98
+     ],
+     [
+      "2026-08-12",
+      87.07
+     ],
+     [
+      "2026-08-13",
+      88.52
+     ],
+     [
+      "2026-08-16",
+      90.87
+     ],
+     [
+      "2026-08-17",
+      91.02
+     ],
+     [
+      "2026-08-18",
+      91.62
+     ],
+     [
+      "2026-08-19",
+      93.78
+     ],
+     [
+      "2026-08-20",
+      94.39
+     ],
+     [
+      "2026-08-23",
+      92.17
+     ],
+     [
+      "2026-08-24",
+      88.58
+     ],
+     [
+      "2026-08-25",
+      87.84
+     ],
+     [
+      "2026-08-26",
+      89.7
+     ],
+     [
+      "2026-08-27",
+      89.31
+     ],
+     [
+      "2026-08-30",
+      90.49
+     ],
+     [
+      "2026-08-31",
+      94.65
+     ],
+     [
+      "2026-09-01",
+      95.63
+     ],
+     [
+      "2026-09-02",
+      95.52
+     ],
+     [
+      "2026-09-03",
+      96.28
+     ],
+     [
+      "2026-09-07",
+      97.92
+     ],
+     [
+      "2026-09-08",
+      101.21
+     ],
+     [
+      "2026-09-09",
+      107.63
+     ],
+     [
+      "2026-09-10",
+      104.61
+     ],
+     [
+      "2026-09-13",
+      105.68
+     ],
+     [
+      "2026-09-14",
+      108.75
+     ],
+     [
+      "2026-09-15",
+      105.83
+     ],
+     [
+      "2026-09-16",
+      104.82
+     ],
+     [
+      "2026-09-17",
+      103.87
+     ],
+     [
+      "2026-09-20",
+      100.34
+     ],
+     [
+      "2026-09-21",
+      99.25
+     ],
+     [
+      "2026-09-22",
+      103.08
+     ],
+     [
+      "2026-09-23",
+      106.6
+     ],
+     [
+      "2026-09-24",
+      104.32
+     ],
+     [
+      "2026-09-27",
+      105.28
+     ],
+     [
+      "2026-09-28",
+      102.59
+     ],
+     [
+      "2026-09-29",
+      103.53
+     ],
+     [
+      "2026-09-30",
+      102.31
+     ],
+     [
+      "2026-10-01",
+      102.25
+     ],
+     [
+      "2026-10-04",
+      100.32
+     ],
+     [
+      "2026-10-05",
+      100.58
+     ],
+     [
+      "2026-10-06",
+      100.2
+     ],
+     [
+      "2026-10-07",
+      104.28
+     ],
+     [
+      "2026-10-08",
+      104.72
+     ],
+     [
+      "2026-10-11",
+      106.65
+     ],
+     [
+      "2026-10-12",
+      105.69
+     ],
+     [
+      "2026-10-13",
+      106.06
+     ],
+     [
+      "2026-10-14",
+      105.92
+     ],
+     [
+      "2026-10-15",
+      109.86
+     ],
+     [
+      "2026-10-18",
+      109.55
+     ],
+     [
+      "2026-10-19",
+      108.79
+     ],
+     [
+      "2026-10-20",
+      108.82
+     ],
+     [
+      "2026-10-21",
+      113.17
+     ],
+     [
+      "2026-10-22",
+      116.72
+     ],
+     [
+      "2026-10-25",
+      115.81
+     ],
+     [
+      "2026-10-26",
+      113.88
+     ],
+     [
+      "2026-10-27",
+      115.32
+     ],
+     [
+      "2026-10-28",
+      114.88
+     ],
+     [
+      "2026-10-29",
+      117.64
+     ],
+     [
+      "2026-11-02",
+      110.24
+     ]
+    ]
+   }
+  }
+ }
+}
